@@ -1,0 +1,902 @@
+[
+  {
+    "book": "pride_and_prejudice",
+    "question": "Who is Elizabeth Bennet?",
+    "reference": "Elizabeth Bennet is the second eldest of the five Bennet daughters and the novel's protagonist. She is intelligent, witty, and independent-minded, known for her sharp observations and initial prejudice against Mr. Darcy.",
+    "id": "qa_extra_000"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "What is Longbourn?",
+    "reference": "Longbourn is the Bennet family estate in Hertfordshire where the five Bennet sisters live with their parents. The property is entailed to Mr. Collins, meaning it will pass to him rather than the Bennet daughters upon Mr. Bennet's death.",
+    "id": "qa_extra_001"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Where does Mr. Bingley first meet Jane Bennet?",
+    "reference": "Mr. Bingley first meets Jane Bennet at a public assembly ball in Meryton. He is immediately attracted to her and dances with her more than any other lady at the ball, showing his preference.",
+    "id": "qa_extra_002"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Why does Mr. Darcy initially refuse to dance with Elizabeth?",
+    "reference": "Mr. Darcy refuses to dance with Elizabeth because he considers her only tolerable and not handsome enough to tempt him. His prideful attitude and dismissive comment are overheard by Elizabeth, creating her initial prejudice against him.",
+    "id": "qa_extra_003"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Who is Mr. Collins?",
+    "reference": "Mr. Collins is Mr. Bennet's cousin and the heir to the Longbourn estate due to the entailment. He is a pompous, obsequious clergyman who serves as the rector at Hunsford, patronized by Lady Catherine de Bourgh.",
+    "id": "qa_extra_004"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "What happens when Jane visits Netherfield?",
+    "reference": "When Jane visits Netherfield at her mother's encouragement, she travels on horseback in the rain and becomes seriously ill. She is forced to stay at Netherfield for several days to recover, with Elizabeth coming to nurse her.",
+    "id": "qa_extra_005"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Who is Lady Catherine de Bourgh?",
+    "reference": "Lady Catherine de Bourgh is Mr. Darcy's wealthy, domineering aunt who lives at Rosings Park in Kent. She is an aristocratic woman of rank who expects absolute deference and has arranged for Mr. Collins to be her rector.",
+    "id": "qa_extra_006"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Why does Elizabeth reject Mr. Collins's proposal?",
+    "reference": "Elizabeth rejects Mr. Collins because she does not love him and finds him ridiculous and foolish. Despite the financial security marriage would provide and her mother's anger, she refuses to marry without affection and respect.",
+    "id": "qa_extra_007"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Who does Mr. Collins marry after Elizabeth refuses him?",
+    "reference": "Mr. Collins marries Charlotte Lucas, Elizabeth's pragmatic friend who is twenty-seven years old. Charlotte accepts his proposal for financial security and a home of her own, despite his lack of sense and agreeable qualities.",
+    "id": "qa_extra_008"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "What is Netherfield Park?",
+    "reference": "Netherfield Park is a large estate near Longbourn that Mr. Bingley rents at the beginning of the novel. His residence there brings him into contact with the Bennet family and creates the central relationship between him and Jane.",
+    "id": "qa_extra_009"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Who is George Wickham?",
+    "reference": "George Wickham is a charming militia officer who befriends Elizabeth and tells her lies about Mr. Darcy. He is actually a deceitful fortune-hunter who was raised alongside Darcy but squandered his inheritance and later elopes with Lydia.",
+    "id": "qa_extra_010"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Why does Mr. Bingley leave Netherfield suddenly?",
+    "reference": "Mr. Bingley leaves Netherfield suddenly because his sisters and Mr. Darcy convince him that Jane does not return his affections. They persuade him to remain in London and pursue a match with Darcy's sister Georgiana instead.",
+    "id": "qa_extra_011"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "What does Mr. Darcy write in his letter to Elizabeth?",
+    "reference": "In his letter, Mr. Darcy explains his role in separating Bingley and Jane, justifying his actions by Jane's apparent indifference. He also reveals the truth about Wickham's dishonorable character and his attempted elopement with Georgiana.",
+    "id": "qa_extra_012"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Where does Elizabeth first encounter Mr. Darcy after rejecting his proposal?",
+    "reference": "Elizabeth first encounters Mr. Darcy after his proposal when she unexpectedly visits his estate, Pemberley, while touring Derbyshire with her aunt and uncle. She believes he is away, making the meeting awkward but ultimately transformative.",
+    "id": "qa_extra_013"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Who is Georgiana Darcy?",
+    "reference": "Georgiana Darcy is Mr. Darcy's younger sister, a shy and accomplished young woman of about sixteen. Wickham attempted to elope with her for her fortune of thirty thousand pounds, but Darcy discovered and prevented the scheme.",
+    "id": "qa_extra_014"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "What happens when Lydia elopes with Wickham?",
+    "reference": "When Lydia elopes with Wickham, it creates a scandal that threatens the entire Bennet family's reputation. Mr. Darcy secretly tracks them down in London and pays Wickham's debts to ensure he marries Lydia, saving the family's honor.",
+    "id": "qa_extra_015"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Why does Lady Catherine visit Elizabeth at Longbourn?",
+    "reference": "Lady Catherine visits Elizabeth because she has heard rumors that Elizabeth and Darcy are to be engaged. She demands that Elizabeth promise never to accept Darcy's proposal, as she wants him to marry her own daughter, Anne.",
+    "id": "qa_extra_016"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "How does Elizabeth respond to Lady Catherine's demands?",
+    "reference": "Elizabeth refuses to promise Lady Catherine that she will not marry Darcy, asserting her independence and right to make her own choices. Her spirited refusal actually encourages Darcy, as it suggests her feelings toward him have changed.",
+    "id": "qa_extra_017"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "What is the entail on Longbourn?",
+    "reference": "The entail on Longbourn is a legal arrangement that restricts inheritance of the estate to male heirs only. Since Mr. Bennet has no sons, the property must pass to his nearest male relative, Mr. Collins, leaving his daughters without inheritance.",
+    "id": "qa_extra_018"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Who is Mrs. Bennet?",
+    "reference": "Mrs. Bennet is the mother of the five Bennet daughters, whose primary goal in life is to see them all married well. She is silly, nervous, and often embarrassing, with little sense or understanding of propriety.",
+    "id": "qa_extra_019"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Where does Charlotte Lucas live after her marriage?",
+    "reference": "After her marriage, Charlotte Lucas lives at Hunsford parsonage in Kent, near Rosings Park. Elizabeth visits her there and is introduced to Lady Catherine de Bourgh, which leads to her frequent encounters with Mr. Darcy.",
+    "id": "qa_extra_020"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Why does Elizabeth initially dislike Mr. Darcy?",
+    "reference": "Elizabeth initially dislikes Mr. Darcy because of his proud manner and his insulting refusal to dance with her at the assembly ball. Her prejudice deepens when she believes Wickham's false accusations about Darcy's dishonorable treatment of him.",
+    "id": "qa_extra_021"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "What happens at the ball at Netherfield?",
+    "reference": "At the Netherfield ball, Elizabeth is forced to dance with Mr. Darcy, and her family embarrasses her with their improper behavior. Mr. Collins awkwardly introduces himself to Darcy, and Mrs. Bennet loudly discusses Jane's expected marriage to Bingley.",
+    "id": "qa_extra_022"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Who is Mr. Bennet?",
+    "reference": "Mr. Bennet is the father of the five Bennet daughters, an intelligent and sarcastic man who retreats to his library to escape his foolish wife. His failure to save money or control his younger daughters contributes to the family's difficulties.",
+    "id": "qa_extra_023"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "How does Jane react to Mr. Bingley's sudden departure?",
+    "reference": "Jane is deeply hurt by Mr. Bingley's sudden departure and his continued absence from Netherfield. Though she tries to remain optimistic and defends his behavior, she eventually goes to London hoping to see him, only to be snubbed by his sisters.",
+    "id": "qa_extra_024"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "What is Pemberley?",
+    "reference": "Pemberley is Mr. Darcy's magnificent estate in Derbyshire, reflecting his wealth, taste, and status. Elizabeth's visit there proves transformative, as she sees evidence of his good character through the beautiful grounds and his housekeeper's praise.",
+    "id": "qa_extra_025"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Why does Mr. Darcy first propose to Elizabeth?",
+    "reference": "Mr. Darcy first proposes to Elizabeth because he has fallen deeply in love with her despite his efforts to resist. However, he insults her family and social position during the proposal, focusing on the obstacles he has overcome to love her.",
+    "id": "qa_extra_026"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Who are the Gardiners?",
+    "reference": "The Gardiners are Mrs. Bennet's brother and sister-in-law who live in London. They are sensible, refined, and respectable people who become instrumental in resolving Lydia's scandal and facilitating Elizabeth's visit to Pemberley.",
+    "id": "qa_extra_027"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "What is Elizabeth's response to Darcy's first proposal?",
+    "reference": "Elizabeth angrily rejects Darcy's first proposal, accusing him of ungentlemanly behavior in separating Jane and Bingley and of ruining Wickham's prospects. She tells him he is the last man in the world she could ever marry.",
+    "id": "qa_extra_028"
+  },
+  {
+    "book": "pride_and_prejudice",
+    "question": "Where does the militia regiment stay during the winter?",
+    "reference": "The militia regiment, including Wickham, is quartered in Meryton near Longbourn during the winter months. The officers' presence provides social entertainment for the younger Bennet sisters, particularly Lydia and Kitty, who constantly visit them.",
+    "id": "qa_extra_029"
+  },
+  {
+    "book": "frankenstein",
+    "question": "Who is Victor Frankenstein?",
+    "reference": "Victor Frankenstein is a young Swiss scientist from Geneva who becomes obsessed with natural philosophy and chemistry. He creates a living creature from dead body parts, then abandons it in horror, leading to tragic consequences for himself and his family.",
+    "id": "qa_extra_030"
+  },
+  {
+    "book": "frankenstein",
+    "question": "What does Victor Frankenstein create?",
+    "reference": "Victor creates a living being assembled from body parts collected from charnel houses and dissecting rooms. The creature stands eight feet tall with yellow skin, watery eyes, and a grotesque appearance that horrifies Victor immediately upon animation.",
+    "id": "qa_extra_031"
+  },
+  {
+    "book": "frankenstein",
+    "question": "Who is Elizabeth Lavenza?",
+    "reference": "Elizabeth Lavenza is Victor's adopted sister and eventual fiancée, taken into the Frankenstein family as a child. She is described as beautiful, gentle, and compassionate, serving as a source of domestic happiness for the family throughout Victor's youth.",
+    "id": "qa_extra_032"
+  },
+  {
+    "book": "frankenstein",
+    "question": "Who is Robert Walton?",
+    "reference": "Robert Walton is an English Arctic explorer who rescues Victor from the ice and serves as the story's frame narrator. Through letters to his sister Margaret, he recounts Victor's tale and later meets the creature after Victor's death.",
+    "id": "qa_extra_033"
+  },
+  {
+    "book": "frankenstein",
+    "question": "What is the structure of Frankenstein's narrative?",
+    "reference": "The novel uses a frame narrative structure with three layers: Walton's letters to his sister form the outer frame, Victor's narrative to Walton comprises the middle layer, and the creature's story told to Victor forms the innermost narrative.",
+    "id": "qa_extra_034"
+  },
+  {
+    "book": "frankenstein",
+    "question": "Where does the Frankenstein family live?",
+    "reference": "The Frankenstein family lives in Geneva, Switzerland, in a large estate. They also have a house at Belrive on the shores of Lake Geneva, where they spend time and where much of Victor's childhood happiness is centered.",
+    "id": "qa_extra_035"
+  },
+  {
+    "book": "frankenstein",
+    "question": "Why does Victor go to Ingolstadt?",
+    "reference": "Victor goes to Ingolstadt to attend university and study natural philosophy and chemistry. His departure is delayed by his mother's death from scarlet fever, but he eventually leaves Geneva to pursue his scientific education at this German institution.",
+    "id": "qa_extra_036"
+  },
+  {
+    "book": "frankenstein",
+    "question": "Who are the De Lacey family?",
+    "reference": "The De Lacey family consists of a blind old man, his son Felix, and daughter Agatha, who live in a cottage where the creature secretly observes them. They are French exiles living in poverty in Germany, later joined by Safie, Felix's beloved.",
+    "id": "qa_extra_037"
+  },
+  {
+    "book": "frankenstein",
+    "question": "How does Henry Clerval die?",
+    "reference": "Henry Clerval is strangled by the creature in Ireland, where Victor has gone to work on the female creature. The creature murders Henry as part of his revenge against Victor for destroying the female companion, devastating Victor with guilt.",
+    "id": "qa_extra_038"
+  },
+  {
+    "book": "frankenstein",
+    "question": "Where does Elizabeth die?",
+    "reference": "Elizabeth dies in the bedroom of the inn at Evian on the shore of Lake Geneva on her wedding night with Victor. The creature enters through the window and strangles her while Victor searches other parts of the building.",
+    "id": "qa_extra_039"
+  },
+  {
+    "book": "frankenstein",
+    "question": "Who is Alphonse Frankenstein?",
+    "reference": "Alphonse Frankenstein is Victor's father, a wealthy and respected syndic in Geneva. He is devoted to his family, marries Caroline Beaufort after her father's death, and suffers greatly from the successive tragedies that befall his children.",
+    "id": "qa_extra_040"
+  },
+  {
+    "book": "frankenstein",
+    "question": "What is Victor's mother's maiden name?",
+    "reference": "Victor's mother's maiden name is Caroline Beaufort. She is the daughter of Alphonse Frankenstein's friend Beaufort, who falls into poverty. Alphonse marries Caroline after finding her tending her father in his destitute final days.",
+    "id": "qa_extra_041"
+  },
+  {
+    "book": "frankenstein",
+    "question": "Why does Victor delay his marriage to Elizabeth?",
+    "reference": "Victor delays his marriage to Elizabeth because he feels he must first fulfill his promise to create a female companion for the creature. He cannot marry while burdened with this terrible secret obligation, though he eventually completes and then destroys this work.",
+    "id": "qa_extra_042"
+  },
+  {
+    "book": "frankenstein",
+    "question": "What is Victor studying at Ingolstadt?",
+    "reference": "Victor studies natural philosophy and chemistry at Ingolstadt, focusing particularly on the sciences related to life and animation. Under professors Krempe and Waldman, he pursues knowledge about the physical secrets of the world and the mysteries of creation.",
+    "id": "qa_extra_043"
+  },
+  {
+    "book": "frankenstein",
+    "question": "Who is Professor Krempe?",
+    "reference": "Professor Krempe is a natural philosophy professor at Ingolstadt who dismisses Victor's early interest in alchemists like Agrippa. Though gruff and unappealing in manner, Krempe represents the modern scientific establishment that Victor initially resists but eventually embraces.",
+    "id": "qa_extra_044"
+  },
+  {
+    "book": "frankenstein",
+    "question": "Where does Victor pursue the creature at the novel's end?",
+    "reference": "Victor pursues the creature across Europe and into the Arctic regions, following clues and messages the creature deliberately leaves. The chase leads through the Mediterranean, the Black Sea, Russia, and finally into the frozen northern waters where Walton discovers him.",
+    "id": "qa_extra_045"
+  },
+  {
+    "book": "frankenstein",
+    "question": "What happens to Victor at the novel's end?",
+    "reference": "Victor dies aboard Walton's ship in the Arctic, exhausted from his pursuit of the creature and exposure to extreme cold. Before dying, he warns Walton about the dangers of ambition and knowledge, though he remains somewhat unrepentant about his scientific pursuits.",
+    "id": "qa_extra_046"
+  },
+  {
+    "book": "frankenstein",
+    "question": "What does the creature do after Victor's death?",
+    "reference": "After Victor's death, the creature appears on Walton's ship to view his creator's body. He expresses profound remorse and anguish over his crimes, then declares his intention to travel to the North Pole and destroy himself on a funeral pyre.",
+    "id": "qa_extra_047"
+  },
+  {
+    "book": "frankenstein",
+    "question": "Who is Safie?",
+    "reference": "Safie is a young Arabian woman who comes to join the De Lacey family as Felix's beloved. Her arrival at the cottage provides the creature with opportunities to learn language, as Felix teaches her French while the creature observes from his hovel.",
+    "id": "qa_extra_048"
+  },
+  {
+    "book": "frankenstein",
+    "question": "Why was the De Lacey family exiled from France?",
+    "reference": "The De Lacey family was exiled from France because Felix helped Safie's father, a Turkish merchant, escape from prison. This action, motivated by love for Safie and sense of justice, resulted in the family losing their wealth and being banished.",
+    "id": "qa_extra_049"
+  },
+  {
+    "book": "frankenstein",
+    "question": "What scientific studies influenced young Victor?",
+    "reference": "Young Victor was initially fascinated by the works of ancient alchemists including Cornelius Agrippa, Paracelsus, and Albertus Magnus. Though his university professors dismiss these as outdated, Victor's early interest in their promises of power influences his later ambitions.",
+    "id": "qa_extra_050"
+  },
+  {
+    "book": "frankenstein",
+    "question": "How long does Victor spend creating the creature?",
+    "reference": "Victor spends approximately two years in obsessive labor creating the creature. He works in isolation, neglecting his health, family, and friends, collecting materials from charnel houses and slaughterhouses, consumed entirely by his ambitious project.",
+    "id": "qa_extra_051"
+  },
+  {
+    "book": "frankenstein",
+    "question": "What is Victor's reaction immediately after animating the creature?",
+    "reference": "Victor is immediately horrified by the creature's appearance despite having selected beautiful features. He flees his apartment in disgust and terror, abandoning his creation completely. He then falls ill with a nervous fever that lasts several months.",
+    "id": "qa_extra_052"
+  },
+  {
+    "book": "frankenstein",
+    "question": "Where does Victor recover from his initial illness?",
+    "reference": "Victor recovers from his nervous fever in his Ingolstadt apartment, nursed back to health by Henry Clerval who has arrived at the university. Henry cares for Victor for several months without knowing the cause of his friend's mysterious illness.",
+    "id": "qa_extra_053"
+  },
+  {
+    "book": "frankenstein",
+    "question": "What evidence condemns Justine Moritz?",
+    "reference": "Justine is condemned based on a miniature portrait of Caroline Frankenstein found in her pocket, which the creature planted there. Combined with circumstantial evidence about her whereabouts that night, this leads to her conviction despite her innocence and protestations.",
+    "id": "qa_extra_054"
+  },
+  {
+    "book": "frankenstein",
+    "question": "Why does Justine confess to William's murder?",
+    "reference": "Justine confesses to William's murder after her confessor threatens her with excommunication and damnation if she does not admit guilt. Though innocent, she makes a false confession under this religious pressure, hoping for absolution before her execution.",
+    "id": "qa_extra_055"
+  },
+  {
+    "book": "frankenstein",
+    "question": "How does Victor respond to Justine's execution?",
+    "reference": "Victor is tormented by guilt over Justine's execution, knowing she is innocent and that his creation is responsible. However, he remains silent about the creature's existence, fearing he would be thought mad and unable to prevent Justine's death regardless.",
+    "id": "qa_extra_056"
+  },
+  {
+    "book": "frankenstein",
+    "question": "What is the creature's appearance?",
+    "reference": "The creature stands eight feet tall with yellow, translucent skin that barely covers the muscles and arteries beneath. He has watery, dull yellow eyes, flowing black hair, pearly white teeth, and a shriveled, unnaturally proportioned appearance.",
+    "id": "qa_extra_057"
+  },
+  {
+    "book": "frankenstein",
+    "question": "Where does Victor agree to create the female creature?",
+    "reference": "Victor travels to England and then to a remote island in the Orkney Islands off Scotland to create the female creature. He chooses this desolate location to work in secrecy, away from human observation and his friend Henry.",
+    "id": "qa_extra_058"
+  },
+  {
+    "book": "frankenstein",
+    "question": "How does the creature threaten Victor?",
+    "reference": "After witnessing the destruction of his potential mate, the creature threatens Victor with the words \"I shall be with you on your wedding night.\" This ominous promise haunts Victor, though he mistakenly believes the creature intends to kill him rather than Elizabeth.",
+    "id": "qa_extra_059"
+  },
+  {
+    "book": "dracula",
+    "question": "Who is Count Dracula?",
+    "reference": "Count Dracula is a centuries-old vampire from Transylvania who purchases property in London to expand his dominion. He is the primary antagonist of the novel, possessing supernatural powers including shapeshifting, immortality, and control over certain animals and weather.",
+    "id": "qa_extra_060"
+  },
+  {
+    "book": "dracula",
+    "question": "What is Jonathan Harker's profession?",
+    "reference": "Jonathan Harker is a solicitor, or lawyer, working for a firm in Exeter, England. He travels to Transylvania as a newly qualified professional to help Count Dracula complete the legal purchase of properties in London.",
+    "id": "qa_extra_061"
+  },
+  {
+    "book": "dracula",
+    "question": "Where does Jonathan Harker first meet Count Dracula?",
+    "reference": "Jonathan Harker first meets Count Dracula at the Count's remote castle in the Carpathian Mountains of Transylvania. He travels there on business to finalize property transactions for Dracula's purchase of English real estate.",
+    "id": "qa_extra_062"
+  },
+  {
+    "book": "dracula",
+    "question": "What happens when Jonathan Harker tries to leave Dracula's castle?",
+    "reference": "Jonathan Harker discovers he is a prisoner when he finds all the doors locked and windows inaccessible. He realizes Dracula has trapped him in the castle, and he witnesses increasingly disturbing supernatural events including encounters with vampire women.",
+    "id": "qa_extra_063"
+  },
+  {
+    "book": "dracula",
+    "question": "Who are the three female vampires at Dracula's castle?",
+    "reference": "The three female vampires are Dracula's brides who live in his castle. They attempt to feed on Jonathan Harker while he is imprisoned there, but Dracula intervenes and gives them a human baby instead.",
+    "id": "qa_extra_064"
+  },
+  {
+    "book": "dracula",
+    "question": "Who is Mina Murray?",
+    "reference": "Mina Murray is Jonathan Harker's fiancée and later wife, a schoolteacher who is intelligent, resourceful, and organized. She becomes central to the fight against Dracula and eventually falls victim to his attacks in England.",
+    "id": "qa_extra_065"
+  },
+  {
+    "book": "dracula",
+    "question": "Who is Lucy Westenra?",
+    "reference": "Lucy Westenra is Mina Murray's best friend, a beautiful and charming young woman from a wealthy family. She becomes Dracula's first victim in England and eventually transforms into a vampire herself before being destroyed.",
+    "id": "qa_extra_066"
+  },
+  {
+    "book": "dracula",
+    "question": "How many marriage proposals does Lucy Westenra receive?",
+    "reference": "Lucy Westenra receives three marriage proposals on the same day. The proposals come from Dr. John Seward, Quincey Morris, and Arthur Holmwood, though she accepts only Arthur's proposal and rejects the other two.",
+    "id": "qa_extra_067"
+  },
+  {
+    "book": "dracula",
+    "question": "Who is Arthur Holmwood?",
+    "reference": "Arthur Holmwood is Lucy Westenra's fiancé, a wealthy aristocrat who later inherits the title of Lord Godalming. He is devastated by Lucy's illness and death, and becomes a key member of the group hunting Dracula.",
+    "id": "qa_extra_068"
+  },
+  {
+    "book": "dracula",
+    "question": "Who is Quincey Morris?",
+    "reference": "Quincey Morris is an American adventurer from Texas and one of Lucy's suitors. Despite being rejected, he remains her loyal friend and later joins the group hunting Dracula, ultimately sacrificing his life in the final confrontation.",
+    "id": "qa_extra_069"
+  },
+  {
+    "book": "dracula",
+    "question": "Who is Dr. John Seward?",
+    "reference": "Dr. John Seward is a young psychiatrist who runs an insane asylum adjacent to Carfax, one of Dracula's properties. He is one of Lucy's rejected suitors and becomes instrumental in the fight against the vampire.",
+    "id": "qa_extra_070"
+  },
+  {
+    "book": "dracula",
+    "question": "Who is Professor Abraham Van Helsing?",
+    "reference": "Professor Abraham Van Helsing is a Dutch doctor, philosopher, and metaphysician whom Seward calls to help with Lucy's mysterious illness. He becomes the leader of the group fighting Dracula, possessing extensive knowledge of vampires and supernatural matters.",
+    "id": "qa_extra_071"
+  },
+  {
+    "book": "dracula",
+    "question": "What is Carfax?",
+    "reference": "Carfax is an old, abandoned estate in Purfleet, England, that Count Dracula purchases as his primary residence in England. The property is adjacent to Dr. Seward's asylum and contains a ruined chapel where Dracula stores boxes of Transylvanian earth.",
+    "id": "qa_extra_072"
+  },
+  {
+    "book": "dracula",
+    "question": "Who is R.M. Renfield?",
+    "reference": "R.M. Renfield is a patient in Dr. Seward's asylum who suffers from a peculiar madness involving consuming living creatures to absorb their life force. He falls under Dracula's influence and becomes the vampire's unwitting servant, though he later resists.",
+    "id": "qa_extra_073"
+  },
+  {
+    "book": "dracula",
+    "question": "What is Renfield's philosophy about consuming life?",
+    "reference": "Renfield believes he can absorb and accumulate life force by consuming living things in ascending order of size. He eats flies, then spiders that eat flies, then birds that eat spiders, hoping to extend his own life.",
+    "id": "qa_extra_074"
+  },
+  {
+    "book": "dracula",
+    "question": "What happens to the crew of the Demeter?",
+    "reference": "The crew of the Demeter gradually disappears or dies during the voyage, victims of Dracula's feeding. The captain, lashed to the wheel, is found dead when the ship runs aground at Whitby, with the ship's log revealing the mysterious events.",
+    "id": "qa_extra_075"
+  },
+  {
+    "book": "dracula",
+    "question": "Where does the Demeter run aground?",
+    "reference": "The Demeter runs aground at Whitby, a coastal town in Yorkshire, England, during a violent storm. The ship crashes onto the shore near the town's famous abbey ruins, with only a dead captain aboard and a large dog escaping.",
+    "id": "qa_extra_076"
+  },
+  {
+    "book": "dracula",
+    "question": "What form does Dracula take when leaving the Demeter?",
+    "reference": "Dracula takes the form of a large dog or wolf when he leaps from the Demeter onto English soil. This allows him to escape unnoticed into the countryside, beginning his predatory activities in England.",
+    "id": "qa_extra_077"
+  },
+  {
+    "book": "dracula",
+    "question": "Where do Mina and Lucy stay when Lucy falls ill?",
+    "reference": "Mina and Lucy are staying in Whitby, a seaside town in Yorkshire, when Lucy begins to show signs of illness. They are visiting Lucy's family there on holiday when Dracula arrives aboard the Demeter and begins attacking Lucy.",
+    "id": "qa_extra_078"
+  },
+  {
+    "book": "dracula",
+    "question": "What are the symptoms of Lucy's mysterious illness?",
+    "reference": "Lucy experiences extreme pallor and weakness, sleepwalking episodes, and two small puncture wounds on her throat. She suffers progressive blood loss that baffles her doctors, and she becomes increasingly lethargic despite multiple blood transfusions.",
+    "id": "qa_extra_079"
+  },
+  {
+    "book": "dracula",
+    "question": "How does Van Helsing first try to treat Lucy?",
+    "reference": "Van Helsing attempts to treat Lucy through multiple blood transfusions from her various suitors and friends. He also places garlic flowers around her room and on her neck, which he knows will protect her from vampires.",
+    "id": "qa_extra_080"
+  },
+  {
+    "book": "dracula",
+    "question": "Why do Van Helsing's garlic protections fail to save Lucy?",
+    "reference": "The protections fail because Lucy's mother, unaware of their significance, removes the garlic flowers from Lucy's room thinking they cause her daughter's restlessness. Additionally, Lucy herself sometimes removes the garlic while sleepwalking under Dracula's influence.",
+    "id": "qa_extra_081"
+  },
+  {
+    "book": "dracula",
+    "question": "How does Lucy's mother die?",
+    "reference": "Lucy's mother dies from a heart attack when a wolf, controlled by Dracula, crashes through the window of Lucy's bedroom. The shock of the incident is too much for her weak heart, and she dies instantly while trying to protect her daughter.",
+    "id": "qa_extra_082"
+  },
+  {
+    "book": "dracula",
+    "question": "What happens to Lucy after her death?",
+    "reference": "After her death and burial, Lucy rises as a vampire and begins attacking children in the area, who report being lured by a beautiful lady. Van Helsing leads the group to confirm her undead state and ultimately destroy her.",
+    "id": "qa_extra_083"
+  },
+  {
+    "book": "dracula",
+    "question": "How is Lucy finally destroyed?",
+    "reference": "Arthur Holmwood drives a wooden stake through Lucy's heart while Van Helsing reads prayers. After the staking, they decapitate her and fill her mouth with garlic, releasing her soul and restoring her peaceful appearance in death.",
+    "id": "qa_extra_084"
+  },
+  {
+    "book": "dracula",
+    "question": "What is the Bloofer Lady?",
+    "reference": "The Bloofer Lady is the name local children give to the vampiric Lucy Westenra after her transformation. She lures children away at night and feeds on them, leaving small puncture wounds on their throats, though the children survive.",
+    "id": "qa_extra_085"
+  },
+  {
+    "book": "dracula",
+    "question": "Why does Van Helsing insist on opening Lucy's tomb?",
+    "reference": "Van Helsing insists on opening Lucy's tomb to prove to the other men that she has become a vampire and is terrorizing local children. He needs their belief and cooperation to destroy her properly and end her undead existence.",
+    "id": "qa_extra_086"
+  },
+  {
+    "book": "dracula",
+    "question": "How does Mina help in the fight against Dracula?",
+    "reference": "Mina compiles and organizes all the written records, journals, and newspaper clippings related to Dracula into a comprehensive typescript. Her organizational skills and intelligence make her invaluable in coordinating the group's efforts to track and destroy the vampire.",
+    "id": "qa_extra_087"
+  },
+  {
+    "book": "dracula",
+    "question": "What happens when Dracula attacks Mina?",
+    "reference": "Dracula forces Mina to drink his blood from a wound in his chest, creating a psychic connection between them. He intends to make her his vampire bride and punish the men hunting him through her suffering.",
+    "id": "qa_extra_088"
+  },
+  {
+    "book": "dracula",
+    "question": "What is the significance of Mina drinking Dracula's blood?",
+    "reference": "When Mina drinks Dracula's blood, it creates a telepathic bond between them, allowing her to sense his thoughts and emotions. This connection proves useful for tracking Dracula but also means she is gradually transforming into a vampire herself.",
+    "id": "qa_extra_089"
+  },
+  {
+    "book": "moby_dick",
+    "question": "Who is Ishmael?",
+    "reference": "Ishmael is the narrator of Moby-Dick and a sailor who joins the Pequod's whaling voyage. He survives to tell the story after the ship's destruction, serving as both participant and observer of the events.",
+    "id": "qa_extra_090"
+  },
+  {
+    "book": "moby_dick",
+    "question": "What is the Pequod?",
+    "reference": "The Pequod is the whaling ship captained by Ahab that sails from Nantucket in pursuit of whales and ultimately Moby Dick. The vessel is destroyed by the white whale at the novel's conclusion.",
+    "id": "qa_extra_091"
+  },
+  {
+    "book": "moby_dick",
+    "question": "Who is Captain Ahab?",
+    "reference": "Captain Ahab is the monomaniacal captain of the Pequod who is obsessed with hunting Moby Dick, the white whale that destroyed his leg. His vengeful pursuit ultimately leads to the destruction of his ship and crew.",
+    "id": "qa_extra_092"
+  },
+  {
+    "book": "moby_dick",
+    "question": "What is Moby Dick?",
+    "reference": "Moby Dick is a massive white sperm whale known for his ferocity and intelligence. He previously destroyed Ahab's leg and becomes the object of the captain's obsessive quest for revenge throughout the novel.",
+    "id": "qa_extra_093"
+  },
+  {
+    "book": "moby_dick",
+    "question": "Who is Queequeg?",
+    "reference": "Queequeg is a Polynesian harpooner from the fictional island of Rokovoko who becomes Ishmael's close friend and shipmate. He is a skilled whaler, covered in tattoos, and practices his own indigenous religion.",
+    "id": "qa_extra_094"
+  },
+  {
+    "book": "moby_dick",
+    "question": "What is a doubloon in the novel?",
+    "reference": "The doubloon is a gold coin that Ahab nails to the Pequod's mast as a reward for the first crew member to spot Moby Dick. Various characters interpret the coin's imagery differently, revealing their personalities.",
+    "id": "qa_extra_095"
+  },
+  {
+    "book": "moby_dick",
+    "question": "Who is Starbuck?",
+    "reference": "Starbuck is the first mate of the Pequod, a thoughtful and religious Quaker from Nantucket. He questions Ahab's vengeful quest and represents rationality and moral conscience, though ultimately fails to stop the captain.",
+    "id": "qa_extra_096"
+  },
+  {
+    "book": "moby_dick",
+    "question": "Who is Stubb?",
+    "reference": "Stubb is the second mate of the Pequod, known for his easygoing, carefree attitude and constant pipe smoking. He faces danger with humor and indifference, representing a philosophical acceptance of fate.",
+    "id": "qa_extra_097"
+  },
+  {
+    "book": "moby_dick",
+    "question": "Who is Flask?",
+    "reference": "Flask is the third mate of the Pequod, a native of Martha's Vineyard. He is a short, stout man who treats whaling as routine work and views whales merely as oversized animals to be killed.",
+    "id": "qa_extra_098"
+  },
+  {
+    "book": "moby_dick",
+    "question": "How does Ishmael survive the Pequod's destruction?",
+    "reference": "Ishmael survives by clinging to Queequeg's coffin, which pops to the surface after the Pequod sinks. He floats on this makeshift life buoy until he is rescued by the Rachel, another whaling ship.",
+    "id": "qa_extra_099"
+  },
+  {
+    "book": "moby_dick",
+    "question": "Who is Father Mapple?",
+    "reference": "Father Mapple is a former whaler turned preacher who delivers a powerful sermon about Jonah at the Whaleman's Chapel in New Bedford. His sermon foreshadows the novel's themes of defiance, obedience, and divine will.",
+    "id": "qa_extra_100"
+  },
+  {
+    "book": "moby_dick",
+    "question": "What is the Spouter-Inn?",
+    "reference": "The Spouter-Inn is a whaler's lodging house in New Bedford where Ishmael stays before departing for Nantucket. It is owned by Peter Coffin and is where Ishmael first meets and rooms with Queequeg.",
+    "id": "qa_extra_101"
+  },
+  {
+    "book": "moby_dick",
+    "question": "Who is Fedallah?",
+    "reference": "Fedallah is a mysterious Parsee harpooner whom Ahab secretly brings aboard as part of his personal boat crew. He appears to have prophetic powers and predicts aspects of Ahab's death before perishing himself.",
+    "id": "qa_extra_102"
+  },
+  {
+    "book": "moby_dick",
+    "question": "What is a Nantucket?",
+    "reference": "Nantucket is a small island off Massachusetts that serves as a major whaling center and the home port of the Pequod. The island's residents are renowned as the world's most skilled and experienced whalers.",
+    "id": "qa_extra_103"
+  },
+  {
+    "book": "moby_dick",
+    "question": "Why does Ahab seek revenge on Moby Dick?",
+    "reference": "Ahab seeks revenge because Moby Dick destroyed his leg during a previous encounter, leaving him with an artificial leg made of whalebone. The captain views the whale as embodying all evil and becomes monomaniacally obsessed.",
+    "id": "qa_extra_104"
+  },
+  {
+    "book": "moby_dick",
+    "question": "What happens during the first lowering of the boats?",
+    "reference": "During the first lowering, the crew pursues whales but encounters a sudden squall. The boats are separated from the Pequod in darkness and rough seas, creating a dangerous situation resolved only when they reunite at dawn.",
+    "id": "qa_extra_105"
+  },
+  {
+    "book": "moby_dick",
+    "question": "Who is Pip?",
+    "reference": "Pip is a young African American cabin boy from Alabama who temporarily joins Stubb's whaling boat. After jumping from the boat in panic and being left alone in the ocean, he goes insane from the traumatic experience.",
+    "id": "qa_extra_106"
+  },
+  {
+    "book": "moby_dick",
+    "question": "What is ambergris?",
+    "reference": "Ambergris is a valuable waxy substance found in the intestines of diseased sperm whales, used in making perfumes. Stubb discovers it in a foul-smelling whale, turning a seemingly worthless carcass into treasure.",
+    "id": "qa_extra_107"
+  },
+  {
+    "book": "moby_dick",
+    "question": "Who are the owners of the Pequod?",
+    "reference": "The Pequod is owned by Captains Peleg and Bildad, two retired Quaker whalers from Nantucket. They negotiate Ishmael's contract and are characterized by their thriftiness and their concern for the ship's commercial success.",
+    "id": "qa_extra_108"
+  },
+  {
+    "book": "moby_dick",
+    "question": "What is a gam?",
+    "reference": "A gam is a social meeting between whaling ships at sea, where crews exchange news, mail, and information about whale sightings. The Pequod encounters several ships in gams that provide information about Moby Dick.",
+    "id": "qa_extra_109"
+  },
+  {
+    "book": "moby_dick",
+    "question": "What does the Rachel request from Ahab?",
+    "reference": "The Rachel's captain requests that Ahab help search for his lost son, who disappeared in a whaleboat during an encounter with Moby Dick. Ahab coldly refuses, continuing his pursuit of the white whale instead.",
+    "id": "qa_extra_110"
+  },
+  {
+    "book": "moby_dick",
+    "question": "Who is Tashtego?",
+    "reference": "Tashtego is a Gay Head Native American harpooner from Martha's Vineyard who serves on the Pequod. He is a skilled whaler, particularly adept at harpooning, and is part of Stubb's boat crew.",
+    "id": "qa_extra_111"
+  },
+  {
+    "book": "moby_dick",
+    "question": "Who is Daggoo?",
+    "reference": "Daggoo is a towering African harpooner who serves on Flask's boat crew aboard the Pequod. He is physically imposing and noble in bearing, hailing originally from Africa before becoming a whaler.",
+    "id": "qa_extra_112"
+  },
+  {
+    "book": "moby_dick",
+    "question": "What happens when Tashtego falls into a whale's head?",
+    "reference": "Tashtego falls into the case of a sperm whale's head while bailing spermaceti. When the head breaks loose and sinks, Queequeg dives underwater and cuts through the head to rescue Tashtego, delivering him like a midwife.",
+    "id": "qa_extra_113"
+  },
+  {
+    "book": "moby_dick",
+    "question": "What is the Whaleman's Chapel?",
+    "reference": "The Whaleman's Chapel is a church in New Bedford dedicated to sailors and whalers. Its walls contain memorial tablets honoring those lost at sea, and Father Mapple delivers his famous sermon there.",
+    "id": "qa_extra_114"
+  },
+  {
+    "book": "moby_dick",
+    "question": "Why does the Pequod sail on Christmas Day?",
+    "reference": "The Pequod sails on Christmas Day due to favorable winds and Ahab's determination to begin the voyage. The timing suggests the crew's departure from Christian civilization into a darker, more obsessive quest.",
+    "id": "qa_extra_115"
+  },
+  {
+    "book": "moby_dick",
+    "question": "What is cetology?",
+    "reference": "Cetology is the scientific study of whales, which Ishmael extensively discusses in several chapters. He attempts to classify whales by size, comparing them to book formats like folios, octavos, and duodecimos.",
+    "id": "qa_extra_116"
+  },
+  {
+    "book": "moby_dick",
+    "question": "How does Queequeg fall ill?",
+    "reference": "Queequeg develops a fever and becomes gravely ill while the Pequod is at sea. Believing he will die, he orders a coffin built and lies in it, but then unexpectedly recovers, deciding he has more to do.",
+    "id": "qa_extra_117"
+  },
+  {
+    "book": "moby_dick",
+    "question": "What does Queequeg do with his coffin?",
+    "reference": "After recovering from his illness, Queequeg transforms his coffin into a sea chest and decorates it with carvings matching his tattoos. The coffin later becomes Ishmael's life buoy after the Pequod's destruction.",
+    "id": "qa_extra_118"
+  },
+  {
+    "book": "moby_dick",
+    "question": "Who is Captain Boomer?",
+    "reference": "Captain Boomer is the English captain of the Samuel Enderby who lost his arm to Moby Dick. Unlike Ahab, he bears no malice toward the whale and pragmatically accepts his injury without seeking revenge.",
+    "id": "qa_extra_119"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "What happens when Helen Stoner visits Holmes?",
+    "reference": "Helen Stoner arrives early in the morning seeking Holmes's help because she fears for her life. She describes her sister's mysterious death and the similar strange circumstances now surrounding her own bedroom.",
+    "id": "qa_extra_120"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "Why does the King of Bohemia visit Holmes?",
+    "reference": "The King of Bohemia visits Holmes because he needs to retrieve a compromising photograph held by Irene Adler. He fears she will use it to prevent his upcoming marriage to a Scandinavian princess.",
+    "id": "qa_extra_121"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "How does Holmes disguise himself in 'A Scandal in Bohemia'?",
+    "reference": "Holmes disguises himself as an elderly, amiable clergyman who appears to be injured. He uses this disguise to gain entry to Irene Adler's home and observe where she hides the photograph.",
+    "id": "qa_extra_122"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "Who is Dr. Grimesby Roylott?",
+    "reference": "Dr. Grimesby Roylott is a violent-tempered physician and the stepfather of Helen Stoner. He murdered his stepdaughter Julia and attempts to kill Helen to retain control of their inheritance from their mother.",
+    "id": "qa_extra_123"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "Where is the blue carbuncle discovered?",
+    "reference": "The blue carbuncle, a valuable gemstone, is discovered inside the crop of a Christmas goose. Holmes traces the goose back through various owners to solve the mystery of the stolen jewel.",
+    "id": "qa_extra_124"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "What happens to the engineer Victor Hatherley?",
+    "reference": "Victor Hatherley, a hydraulic engineer, loses his thumb after being lured to a remote house under false pretenses. He discovers a counterfeiting operation and barely escapes with his life when the criminals attack him.",
+    "id": "qa_extra_125"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "Why does Jabez Wilson seek Holmes's help?",
+    "reference": "Jabez Wilson consults Holmes because the Red-Headed League has suddenly and mysteriously dissolved, ending his well-paid employment. He finds this situation perplexing and wants to understand what happened and why.",
+    "id": "qa_extra_126"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "Who is John Clay?",
+    "reference": "John Clay is a notorious criminal, murderer, thief, and forger who masterminded the Red-Headed League scheme. Despite being young and well-educated, he has chosen a life of crime and is eventually apprehended by Holmes.",
+    "id": "qa_extra_127"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "Where does the confrontation with Dr. Roylott occur?",
+    "reference": "The confrontation with Dr. Roylott occurs at his estate, Stoke Moran, in the bedroom where Helen Stoner's sister died. Holmes and Watson keep vigil there and witness the deadly snake that Roylott ultimately turns back on himself.",
+    "id": "qa_extra_128"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "What happens during the wedding of Hatty Doran?",
+    "reference": "During her wedding to Lord Robert St. Simon, Hatty Doran suddenly disappears immediately after the ceremony. It is later revealed she encountered her first husband, whom she believed dead, and left with him.",
+    "id": "qa_extra_129"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "Why does Violet Hunter consult Holmes?",
+    "reference": "Violet Hunter consults Holmes because her employer, Mr. Rucastle, makes increasingly bizarre demands of her, including cutting her hair and wearing specific dresses. She senses something sinister about the household at the Copper Beeches.",
+    "id": "qa_extra_130"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "How does Holmes determine the Blue Carbuncle thief's identity?",
+    "reference": "Holmes uses a systematic process of tracking the goose's origin, questioning dealers and inn-keepers about their transactions. Through careful observation and deduction, he identifies James Ryder as the person who planted the jewel.",
+    "id": "qa_extra_131"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "Who is Hosmer Angel?",
+    "reference": "Hosmer Angel is the fictional identity created by James Windibank to court his stepdaughter Mary Sutherland. Windibank invented this persona to prevent Mary from marrying and losing her income to another man.",
+    "id": "qa_extra_132"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "What is Holmes's payment in 'A Case of Identity'?",
+    "reference": "In 'A Case of Identity,' Holmes does not receive monetary payment for solving Mary Sutherland's case. His reward is the intellectual satisfaction of solving the puzzle and exposing James Windibank's cruel deception.",
+    "id": "qa_extra_133"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "Where does Holmes wait to catch the bank robbers?",
+    "reference": "Holmes waits in the vault of the City and Suburban Bank on Saxe-Coburg Square to catch the criminals. He positions himself with Watson, Jones, and Merryweather in darkness to ambush the tunneling thieves.",
+    "id": "qa_extra_134"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "What happens to Irene Adler at the end of her case?",
+    "reference": "Irene Adler outsmarts Holmes and leaves England with her new husband, Godfrey Norton. She leaves behind a photograph of herself and a letter explaining that she will not use the compromising photo against the King.",
+    "id": "qa_extra_135"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "Why does Holmes let James Ryder go free?",
+    "reference": "Holmes releases James Ryder because it is Christmas and he believes in offering second chances. He reasons that Ryder is not a violent criminal and that prosecution might harden him into a career of crime.",
+    "id": "qa_extra_136"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "How does Holmes recognize John Clay?",
+    "reference": "Holmes recognizes John Clay by his distinctive features and reputation, having studied criminal profiles extensively. He had anticipated Clay's involvement based on the sophisticated nature of the Red-Headed League scheme and the bank's proximity.",
+    "id": "qa_extra_137"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "Who is Lord Robert St. Simon?",
+    "reference": "Lord Robert St. Simon is a British nobleman who marries American heiress Hatty Doran, only to have her disappear on their wedding day. He consults Holmes to find his missing bride and restore his damaged pride.",
+    "id": "qa_extra_138"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "Where does the Boscombe Valley mystery take place?",
+    "reference": "The Boscombe Valley mystery takes place in Herefordshire, a rural area in western England near the Welsh border. The investigation centers around Boscombe Pool, where a murder occurred on a country estate.",
+    "id": "qa_extra_139"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "What happens to John Openshaw?",
+    "reference": "John Openshaw is murdered shortly after consulting Holmes about the threatening orange pips he received. He is found drowned in the Thames, becoming the third member of his family killed by the vengeful organization.",
+    "id": "qa_extra_140"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "Why does Turner confess to killing McCarthy?",
+    "reference": "Turner confesses because he is dying and wants to clear James McCarthy, who was wrongly accused of the murder. He killed McCarthy to prevent him from forcing James to marry Turner's daughter through blackmail.",
+    "id": "qa_extra_141"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "How does Watson assist Holmes in investigations?",
+    "reference": "Watson assists Holmes by accompanying him on cases, providing medical expertise, recording their adventures, and offering a sounding board for theories. His practical nature and loyalty make him an invaluable partner to Holmes.",
+    "id": "qa_extra_142"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "Where is James Ryder employed?",
+    "reference": "James Ryder is employed at the Hotel Cosmopolitan as an attendant or upper-attendant. He stole the Countess of Morcar's blue carbuncle from her room and attempted to smuggle it away using a goose.",
+    "id": "qa_extra_143"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "What happens at the end of 'The Speckled Band'?",
+    "reference": "Dr. Roylott dies when his own snake, driven back through the ventilator by Holmes, bites him fatally. Holmes accepts some responsibility for the death but feels no guilt, as Roylott was attempting murder at that very moment.",
+    "id": "qa_extra_144"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "Why does Mary Sutherland's stepfather deceive her?",
+    "reference": "James Windibank deceives Mary Sutherland to prevent her from marrying and leaving home. As long as she remains single, he and her mother can continue using her income from her inheritance for themselves.",
+    "id": "qa_extra_145"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "How does Holmes create the fire alarm in Irene Adler's house?",
+    "reference": "Holmes arranges for Watson to throw a smoke rocket through Irene Adler's window while he pretends to be injured outside. The fake fire alarm causes Adler to instinctively rush to save her most precious possession, revealing its location.",
+    "id": "qa_extra_146"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "Who is the Countess of Morcar?",
+    "reference": "The Countess of Morcar is the owner of the valuable blue carbuncle gemstone that was stolen from her hotel room. The theft and recovery of her jewel forms the central mystery of 'The Adventure of the Blue Carbuncle.'",
+    "id": "qa_extra_147"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "What is the significance of the bell-rope in Stoke Moran?",
+    "reference": "The bell-rope in Helen Stoner's room is a dummy that does not actually ring any bell. It hangs beside the ventilator and provides a path for Dr. Roylott's trained snake to descend toward the bed.",
+    "id": "qa_extra_148"
+  },
+  {
+    "book": "sherlock_holmes",
+    "question": "Where does Holmes deduce the tunnel leads?",
+    "reference": "Holmes deduces that the tunnel being dug from Jabez Wilson's cellar leads to the nearby City and Suburban Bank vault. The thieves were excavating through the floor to steal the French gold stored there.",
+    "id": "qa_extra_149"
+  }
+]

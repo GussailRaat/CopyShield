@@ -1,0 +1,902 @@
+[
+  {
+    "id": "nonlit_extra_000",
+    "book": "dracula",
+    "question": "What dish did Jonathan Harker eat for dinner in Klausenburgh, and what did he think of it?",
+    "reference": "I had for dinner, or\nrather supper, a chicken done up some way with red pepper, which was\nvery good but thirsty. (Mem., get recipe for Mina.) I asked the\nwaiter, and he said it was called “paprika hendl,” and that, as it was a\nnational dish, I should be able to get it anywhere along the\nCarpathians. I f"
+  },
+  {
+    "id": "nonlit_extra_001",
+    "book": "dracula",
+    "question": "What research did Jonathan Harker conduct in London before departing for Transylvania, and what did he discover about the region?",
+    "reference": "Having had some time at my disposal when in London, I had visited the British Museum, and made search among the books and maps in the library regarding Transylvania; it had struck me that some foreknowledge of the country could hardly fail to have some importance in dealing with a nobleman of that country. I find that the district he named is in the extreme east of the country, just on the borders of three states, Transylvania, Moldavia and Bukovina, in the midst of the Carpathian mountains; one of the wildest and least known portions of Europe."
+  },
+  {
+    "id": "nonlit_extra_002",
+    "book": "dracula",
+    "question": "What four nationalities did Harker note as inhabiting Transylvania, and what did he learn about the people he was traveling to meet?",
+    "reference": "In the population of Transylvania there are four distinct nationalities: Saxons in the South, and mixed with them the Wallachs, who are the descendants of the Dacians; Magyars in the West, and Szekelys in the East and North. I am going among the latter, who claim to be descended from Attila and the Huns."
+  },
+  {
+    "id": "nonlit_extra_003",
+    "book": "dracula",
+    "question": "Why did Harker sleep poorly during his night in Klausenburgh, and what happened when he finally awoke?",
+    "reference": "I did not sleep well, though my bed was comfortable enough, for I had all sorts of queer dreams. There was a dog howling all night under my window, which may have had something to do with it; or it may have been the paprika, for I had to drink up all the water in my carafe, and was still thirsty. Towards morning I slept and was wakened by the continuous knocking at my door, so I guess I must have been sleeping soundly then."
+  },
+  {
+    "id": "nonlit_extra_004",
+    "book": "dracula",
+    "question": "What impression did Jonathan Harker have as his train crossed the Danube and moved eastward through Europe?",
+    "reference": "The\nimpression I had was that we were leaving the West and entering the\nEast; the most western of splendid bridges over the Danube, which is\nhere of noble width and depth, took us among the traditions of Turkish\nrule."
+  },
+  {
+    "id": "nonlit_extra_005",
+    "book": "dracula",
+    "question": "How does Mina describe the physical appearance and age of the old man she meets near the harbour, and what historical event does he reference to establish how old he is?",
+    "reference": "He is a funny old man. He must be awfully old, for his face is all gnarled and twisted like the bark of a tree. He tells me that he is nearly a hundred, and that he was a sailor in the Greenland fishing fleet when Waterloo was fought."
+  },
+  {
+    "id": "nonlit_extra_006",
+    "book": "dracula",
+    "question": "What is the local legend associated with the bell-buoy at the end of the reef outside the harbour, and where is the buoy located?",
+    "reference": "At the end of\nit is a buoy with a bell, which swings in bad weather, and sends in a\nmournful sound on the wind. They have a legend here that when a ship is\nlost bells are heard out at sea."
+  },
+  {
+    "id": "nonlit_extra_007",
+    "book": "dracula",
+    "question": "How does the old man respond when Mina asks him about the local supernatural legends, such as the bells at sea and the White Lady at the abbey?",
+    "reference": "wouldn’t fash masel’ about them, miss. Them things be all wore out.\nMind, I don’t say that they never was, but I do say that they wasn’t in\nmy time. They be all very well for comers and trippers, an’ the like,\nbut not for a nice young lady like you. T"
+  },
+  {
+    "id": "nonlit_extra_008",
+    "book": "dracula",
+    "question": "What reason does the old man give for having to cut short his conversation with Mina and leave when the clock strikes six?",
+    "reference": "ageeanwards home now, miss. My grand-daughter doesn’t like\nto be kept waitin’ when the tea is ready, for it takes me time to\ncrammle aboon the grees, for there be a many of ’em; an’, miss, I lack\nbelly-timber sairly by the clock.”\n\nHe hobbled"
+  },
+  {
+    "id": "nonlit_extra_009",
+    "book": "dracula",
+    "question": "How does the old man's behaviour toward Lucy differ from his usual argumentative manner when Mina brings her along to meet him and the other old men on August 1st?",
+    "reference": "I noticed that the old men did\nnot lose any time in coming up and sitting near her when we sat down.\nShe is so sweet with old people; I think they all fell in love with her\non the spot. Even my old man succumbed and did not contradict her, but\ngave me double share instead."
+  },
+  {
+    "id": "nonlit_extra_010",
+    "book": "dracula",
+    "question": "How did Dr. Seward arrange his sleeping situation so he could be available to Lucy during the night?",
+    "reference": "Lucy took me upstairs, and showed me a room next her own, where a cozy fire was burning. 'Now,' she said, 'you must stay here. I shall leave this door open and my door too. You can lie on the sofa for I know that nothing would induce any of you doctors to go to bed whilst there is a patient above the horizon. If I want anything I shall call out, and you can come to me at once.'"
+  },
+  {
+    "id": "nonlit_extra_011",
+    "book": "dracula",
+    "question": "What emotions did Lucy express in her diary entry about her feelings toward Arthur while recovering from her illness?",
+    "reference": "I feel so happy to-night. I have been so miserably weak, that to be able to think and move about is like feeling sunshine after a long spell of east wind out of a steel sky. Somehow Arthur feels very, very close to me. I seem to feel his presence warm about me... If Arthur only knew! My dear, my dear, your ears must tingle as you sleep, as mine do waking."
+  },
+  {
+    "id": "nonlit_extra_012",
+    "book": "dracula",
+    "question": "What was Van Helsing's reaction when he first saw Lucy's condition in bed on the morning of September 10th?",
+    "reference": "As I raised the blind, and the morning sunlight flooded the room, I heard the Professor's low hiss of inspiration, and knowing its rarity, a deadly fear shot through my heart. As I passed over he moved back, and his exclamation of horror, 'Gott in Himmel!' needed no enforcement from his agonised face. He raised his hand and pointed to the bed, and his iron face was drawn and ashen white."
+  },
+  {
+    "id": "nonlit_extra_013",
+    "book": "dracula",
+    "question": "How did Dr. Seward describe Lucy's physical appearance when he and Van Helsing approached her in her bed that morning?",
+    "reference": "There on the bed, seemingly in a swoon, lay poor Lucy, more horribly white and wan-looking than ever. Even the lips were white, and the gums seemed to have shrunken back from the teeth, as we sometimes see in a corpse after a prolonged illness."
+  },
+  {
+    "id": "nonlit_extra_014",
+    "book": "dracula",
+    "question": "What medical procedure did Van Helsing and Dr. Seward perform on Lucy, and what precaution did Van Helsing take as her strength began to return?",
+    "reference": "There is no young Arthur here now; I have\nto call on you yourself this time, friend John.” As he spoke, he was\ndipping into his bag and producing the instruments for transfusion; I\nhad taken off my coat and rolled up my shirt-sleeve. There was no\npossibility of an opiate just at present, and no need of one; and so,\nwithout a moment’s delay, we began the operation. After a time--it did\nnot seem a short time either, for the draining away of one’s blood, no\nmatter how willi"
+  },
+  {
+    "id": "nonlit_extra_015",
+    "book": "dracula",
+    "question": "How does Van Helsing use the example of a giant spider in a Spanish church to argue for the existence of supernatural longevity?",
+    "reference": "Can you tell me\nwhy, when other spiders die small and soon, that one great spider lived\nfor centuries in the tower of the old Spanish church and grew and grew,\ntill, on descending, he could drink the oil of all the church lamps?"
+  },
+  {
+    "id": "nonlit_extra_016",
+    "book": "dracula",
+    "question": "What is Van Helsing's explanation for why Lucy's death was so tragic given the blood transfusions she had received?",
+    "reference": "Why was it that\nMethuselah lived nine hundred years, and ‘Old Parr’ one hundred and\nsixty-nine, and yet that poor Lucy, with four men’s blood in her poor\nveins, could not live even one day? For, had she live one more day, we\ncould have save her."
+  },
+  {
+    "id": "nonlit_extra_017",
+    "book": "dracula",
+    "question": "How does Dr. Seward react when Van Helsing implies that Lucy may have been attacked by a blood-drinking bat in London?",
+    "reference": "Professor!” I said, starting up. “Do you mean to tell me that\nLucy was bitten by such a bat; and that such a thing is here in London\nin the nineteenth century?” He waved his hand for silence, and went\non:--\n\n“Can you"
+  },
+  {
+    "id": "nonlit_extra_018",
+    "book": "dracula",
+    "question": "How does Dr. Seward describe his confused mental state as Van Helsing piles up his examples of nature's mysteries, and what does he ask Van Helsing to do?",
+    "reference": "“Professor, let me be your pet student again. Tell me the thesis, so\nthat I may apply your knowledge as you go on. At present I am going in\nmy mind from point to point as a mad man, and not a sane one, follows an\nidea. I feel like a novice lumbering through a bog in a mist, jumping\nfrom one tussock to another in the mere blind effort to move on without\nknowing where I am going."
+  },
+  {
+    "id": "nonlit_extra_019",
+    "book": "dracula",
+    "question": "What is the central thesis Van Helsing states he wants his companion to accept, and how does he illustrate his idea of faith using an American's definition?",
+    "reference": "thesis is\nthis: I want you to believe.”\n\n“To believe what?”\n\n“To believe in things that you cannot. Let me illustrate. I heard once\nof an American who so defined faith: ‘that faculty which enables us to\nbelieve things which we know to be untrue.’ For one, I follow that man.\nHe meant that we shall have an open mind, and not let a little bit of\ntruth check the rush of a big truth, like a small rock does a railway\ntruck. We"
+  },
+  {
+    "id": "nonlit_extra_020",
+    "book": "dracula",
+    "question": "How did Mina behave when she was woken up in the morning, and what did she complain about?",
+    "reference": "she was so sound asleep that for a\nfew seconds she did not recognize me, but looked at me with a sort of\nblank terror, as one looks who has been waked out of a bad dream. She\ncomplained a little of being tired, and I let her rest till later in the\nday."
+  },
+  {
+    "id": "nonlit_extra_021",
+    "book": "dracula",
+    "question": "What reason did Van Helsing give for wanting to visit Renfield, and what quality of the patient particularly intrigued him?",
+    "reference": "It is a new experience to me to find a lunatic who talk philosophy, and reason so sound... I want him to talk of himself and of his delusion as to consuming live things."
+  },
+  {
+    "id": "nonlit_extra_022",
+    "book": "dracula",
+    "question": "What ironic contrast did Dr. Seward point out when Van Helsing mentioned Renfield's claim about previously believing in consuming life?",
+    "reference": "When our sane and learned lunatic made that very statement of how he used to consume life, his mouth was actually nauseous with the flies and spiders which he had eaten just before Mrs. Harker entered the room."
+  },
+  {
+    "id": "nonlit_extra_023",
+    "book": "dracula",
+    "question": "How did Renfield receive Van Helsing during his visit, and what insulting words did he direct at the Professor?",
+    "reference": "reply whatever. “Don’t\nyou know me?” I asked. His answer was not reassuring: “I know you well\nenough; you are the old fool Van Helsing. I wish you would take yourself\nand your idiotic brain theories somewhere else. Damn all thick-headed\nDutchmen!” Not a word more would he say, but sat in his implacable\nsullenness as indifferent to me as though I had not been in the room at\nall. Thus depa"
+  },
+  {
+    "id": "nonlit_extra_024",
+    "book": "dracula",
+    "question": "What did Van Helsing express about Mina's exclusion from their dangerous work after his failed visit with Renfield?",
+    "reference": "I shall go, if I may, and cheer myself with a few happy words with that sweet soul Madam Mina. Friend John, it does rejoice me unspeakable that she is no more to be pained, no more to be worried with our terrible things. Though we shall much miss her help, it is better so."
+  },
+  {
+    "id": "nonlit_extra_025",
+    "book": "dracula",
+    "question": "How did the mysterious tall man in black arrange for his large box to be loaded onto the ship, and what difficulties arose during the process?",
+    "reference": "He go there and soon he come again, himself driving cart on which a great box; this he himself lift down, though it take several to put it on truck for the ship. He give much talk to captain as to how and where his box is to be place; but the captain like it not and swear at him in many tongues, and tell him that if he like he can come and see where it shall be."
+  },
+  {
+    "id": "nonlit_extra_026",
+    "book": "dracula",
+    "question": "What was the physical appearance of the strange man who came in great haste to inquire about ships sailing for the Black Sea?",
+    "reference": "A tall man, thin and pale, with high nose and teeth so white, and eyes that seem to be burning. That he be all in black, except that he have a hat of straw which suit not him or the time. That he scatter his money in making quick inquiry as to what ship sails for the Black Sea and for where."
+  },
+  {
+    "id": "nonlit_extra_027",
+    "book": "dracula",
+    "question": "What unusual weather phenomenon surrounded the Czarina Catherine just before she was due to sail, and what was notable about it compared to the rest of the river?",
+    "reference": "A thin mist began to creep up from the river, and it grew, and grew; till soon a dense fog enveloped the ship and all around her... on questioning other mariners who were on movement up and down on the river that hour, he found that few of them had seen any of fog at all, except where it lay round the wharf."
+  },
+  {
+    "id": "nonlit_extra_028",
+    "book": "dracula",
+    "question": "What did the thin pale man do when the ship was finally about to sail at full tide, and how did he depart from the vessel without being noticed?",
+    "reference": "when just at full tide, the thin man came up the gang-plank again and\nasked to see where his box had been stowed. Then the captain replied\nthat he wished that he and his box--old and with much bloom and\nblood--were in hell. But the thin man did not be offend, and went down\nwith the mate and saw wher"
+  },
+  {
+    "id": "nonlit_extra_029",
+    "book": "dracula",
+    "question": "What was the strategic conclusion drawn about how the group pursuing the enemy should proceed, given that he had escaped by sea?",
+    "reference": "And so, my dear Madam Mina, it is that we have to rest for a time, for our enemy is on the sea, with the fog at his command, on his way to the Danube mouth. To sail a ship takes time, go she never so quick; and when we start we go on land more quick, and we meet him there."
+  },
+  {
+    "id": "nonlit_extra_030",
+    "book": "frankenstein",
+    "question": "How does Walton describe his emotional and physical reaction to the cold northern breeze he feels while walking through the streets of St. Petersburgh?",
+    "reference": "as I walk in the streets of\nPetersburgh, I feel a cold northern breeze play upon my cheeks, which\nbraces my nerves and fills me with delight. Do you understand this\nfeeling? This breeze, which has travelled from the regions towards\nwhich I am advancing, gives me a foretaste of those icy climes.\nInspirited by this wind of promise, my daydreams become more fervent\nand vivid."
+  },
+  {
+    "id": "nonlit_extra_031",
+    "book": "frankenstein",
+    "question": "What scientific discoveries or achievements does Walton hope his polar expedition might accomplish for humanity?",
+    "reference": "I\nmay there discover the wondrous power which attracts the needle and may\nregulate a thousand celestial observations that require only this\nvoyage to render their seeming eccentricities consistent for ever. I\nshall satiate my ardent curiosity with the sight of a part of the world\nnever before visited, and may tread a land never before imprinted by\nthe foot of man. These are my enticements, and they are sufficient to\nconquer all fear of danger or death and to induce me to comm"
+  },
+  {
+    "id": "nonlit_extra_032",
+    "book": "frankenstein",
+    "question": "What role did his Uncle Thomas's library play in shaping Walton's passion for exploration and seafaring?",
+    "reference": "a\nhistory of all the voyages made for purposes of discovery composed the\nwhole of our good Uncle Thomas’ library. My education was neglected,\nyet I was passionately fond of reading. These volumes were my study\nday and night, and my familiarity with them increased that regret which\nI had felt, as a child, on learning that my father’s dying injunction\nhad forbidden my uncle to allow me to embark in a seafaring life.\n\nTh"
+  },
+  {
+    "id": "nonlit_extra_033",
+    "book": "frankenstein",
+    "question": "How does Walton imagine the North Pole to look in his mind, and how does this vision contrast with common assumptions about the region?",
+    "reference": "I try in vain to be persuaded that the pole is the seat of frost and desolation; it ever presents itself to my imagination as the region of beauty and delight. There, Margaret, the sun is for ever visible, its broad disk just skirting the horizon and diffusing a perpetual splendour. There snow and frost are banished; and, sailing over a calm sea, we may be wafted to a land surpassing in wonders and in beauty every region hitherto discovered on the habitable globe."
+  },
+  {
+    "id": "nonlit_extra_034",
+    "book": "frankenstein",
+    "question": "What brief literary ambition did Walton pursue before turning his attention back to exploration, and what was the outcome of that endeavor?",
+    "reference": "These visions faded when I perused, for the first time, those poets whose effusions entranced my soul and lifted it to heaven. I also became a poet and for one year lived in a paradise of my own creation; I imagined that I also might obtain a niche in the temple where the names of Homer and Shakespeare are consecrated. You are well acquainted with my failure and how heavily I bore the disappointment."
+  },
+  {
+    "id": "nonlit_extra_035",
+    "book": "frankenstein",
+    "question": "How did M. Waldman respond to Frankenstein's academic progress at Ingolstadt?",
+    "reference": "M. Waldman\nexpressed the most heartfelt exultation in my progress."
+  },
+  {
+    "id": "nonlit_extra_036",
+    "book": "frankenstein",
+    "question": "What discovery did Frankenstein make after two years of study that earned him recognition at the university?",
+    "reference": "at the end of two\nyears I made some discoveries in the improvement of some chemical\ninstruments, which procured me great esteem and admiration at the\nuniversity."
+  },
+  {
+    "id": "nonlit_extra_037",
+    "book": "frankenstein",
+    "question": "What was the central philosophical question that drew Frankenstein toward the study of physiology?",
+    "reference": "Whence, I often asked myself, did the principle of life proceed? It was a bold question, and one which has ever been considered as a mystery."
+  },
+  {
+    "id": "nonlit_extra_038",
+    "book": "frankenstein",
+    "question": "How did Frankenstein's upbringing influence his reaction to spending time in charnel-houses and vaults?",
+    "reference": "In my education my father had taken the greatest precautions that my mind should be impressed with no supernatural horrors. I do not ever remember to have trembled at a tale of superstition or to have feared the apparition of a spirit. Darkness had no effect upon my fancy, and a churchyard was to me merely the receptacle of bodies deprived of life."
+  },
+  {
+    "id": "nonlit_extra_039",
+    "book": "frankenstein",
+    "question": "How does Frankenstein describe the difference between scientific pursuit and other fields of study?",
+    "reference": "In other studies you go as far as\nothers have gone before you, and there is nothing more to know; but in\na scientific pursuit there is continual food for discovery and wonder."
+  },
+  {
+    "id": "nonlit_extra_040",
+    "book": "frankenstein",
+    "question": "How did the crowd react to Elizabeth's defense of Justine at the trial, and what was the effect on public opinion toward the accused?",
+    "reference": "A murmur of approbation followed Elizabeth's simple and powerful appeal, but it was excited by her generous interference, and not in favour of poor Justine, on whom the public indignation was turned with renewed violence, charging her with the blackest ingratitude."
+  },
+  {
+    "id": "nonlit_extra_041",
+    "book": "frankenstein",
+    "question": "How did Victor learn the outcome of Justine's trial, and what was the verdict?",
+    "reference": "In the morning I went to\nthe court; my lips and throat were parched. I dared not ask the fatal\nquestion, but I was known, and the officer guessed the cause of my\nvisit. The ballots had been thrown; they were all black, and Justine\nwas condemned."
+  },
+  {
+    "id": "nonlit_extra_042",
+    "book": "frankenstein",
+    "question": "What surprising piece of information did Victor receive about Justine after the verdict was announced, and how did it confuse him?",
+    "reference": "The person to whom I\naddressed myself added that Justine had already confessed her guilt.\n“That evidence,” he observed, “was hardly required in so glaring a\ncase, but I am glad of it, and, indeed, none of our judges like to\ncondemn a criminal upon circumstantial evidence, be it ever so\ndecisiv"
+  },
+  {
+    "id": "nonlit_extra_043",
+    "book": "frankenstein",
+    "question": "How did Elizabeth respond emotionally when she learned that Justine had confessed to the murder?",
+    "reference": "Alas!” said she. “How shall I\never again believe in human goodness? Justine, whom I loved and esteemed as\nmy sister, how could she put on those smiles of innocence only to betray?\nHer mild eyes seemed incapable of any severity or guile, and yet she has\ncommitted a murder."
+  },
+  {
+    "id": "nonlit_extra_044",
+    "book": "frankenstein",
+    "question": "What was the scene like when Elizabeth and Victor visited Justine in prison, and what did Justine say to them upon their arrival?",
+    "reference": "We entered the gloomy prison chamber and beheld Justine sitting on some straw at the farther end; her hands were manacled, and her head rested on her knees. She rose on seeing us enter, and when we were left alone with her, she threw herself at the feet of Elizabeth, weeping bitterly... 'And do you also believe that I am so very, very wicked? Do you also join with my enemies to crush me, to condemn me as a murderer?' Her voice was suffocated with sobs."
+  },
+  {
+    "id": "nonlit_extra_045",
+    "book": "frankenstein",
+    "question": "How did the creature react emotionally upon learning about the history of the indigenous people of the Americas?",
+    "reference": "I heard\nof the discovery of the American hemisphere and wept with Safie over the\nhapless fate of its original inhabitants."
+  },
+  {
+    "id": "nonlit_extra_046",
+    "book": "frankenstein",
+    "question": "What contradictory conclusions did the creature reach about the nature of humanity after listening to Felix's lessons?",
+    "reference": "Was\nman, indeed, at once so powerful, so virtuous and magnificent, yet so\nvicious and base? He appeared at one time a mere scion of the evil\nprinciple and at another as all that can be conceived of noble and\ngodlike."
+  },
+  {
+    "id": "nonlit_extra_047",
+    "book": "frankenstein",
+    "question": "How did the creature compare his own situation to the social values he learned about, such as wealth and noble birth?",
+    "reference": "I learned that the\npossessions most esteemed by your fellow creatures were high and\nunsullied descent united with riches. A man might be respected with\nonly one of these advantages, but without either he was considered,\nexcept in very rare instances, as a vagabond and a slave, doomed to\nwaste his powers for the profits of the chosen few! And what was I? Of\nmy creation and creator I was absolutely ignorant, but I knew that I\npossessed no money, no friends, no kind of property."
+  },
+  {
+    "id": "nonlit_extra_048",
+    "book": "frankenstein",
+    "question": "What does the creature say about the burden that knowledge placed upon him, and what does he wish had been different?",
+    "reference": "Of what a strange nature is knowledge! It clings to the mind when it has once seized on it like a lichen on the rock. I wished sometimes to shake off all thought and feeling... Oh, that I had for ever remained in my native wood, nor known nor felt beyond the sensations of hunger, thirst, and heat!"
+  },
+  {
+    "id": "nonlit_extra_049",
+    "book": "frankenstein",
+    "question": "How did the creature describe his painful awareness of being excluded from the warm social bonds enjoyed by the cottagers?",
+    "reference": "The gentle words of Agatha and the\nanimated smiles of the charming Arabian were not for me. The mild\nexhortations of the old man and the lively conversation of the loved\nFelix were not for me. Miserable, unhappy wretch!"
+  },
+  {
+    "id": "nonlit_extra_050",
+    "book": "frankenstein",
+    "question": "How did Victor Frankenstein's emotional state contrast with Henry Clerval's when they reunited in Strasburgh?",
+    "reference": "Alas, how great was the contrast between us! He was alive to every new scene, joyful when he saw the beauties of the setting sun, and more happy when he beheld it rise and recommence a new day. He pointed out to me the shifting colours of the landscape and the appearances of the sky. 'This is what it is to live,' he cried; 'now I enjoy existence! But you, my dear Frankenstein, wherefore are you desponding and sorrowful!' In truth, I was occupied by gloomy thoughts and neither saw the descent of the evening star nor the golden sunrise reflected in the Rhine."
+  },
+  {
+    "id": "nonlit_extra_051",
+    "book": "frankenstein",
+    "question": "What route did Victor and Clerval plan to take by boat, and what were some notable stops along the way?",
+    "reference": "We had agreed to descend the Rhine in a boat from Strasburgh to Rotterdam, whence we might take shipping for London. During this voyage we passed many willowy islands and saw several beautiful towns. We stayed a day at Mannheim, and on the fifth from our departure from Strasburgh, arrived at Mainz."
+  },
+  {
+    "id": "nonlit_extra_052",
+    "book": "frankenstein",
+    "question": "How did Victor describe the scenery along the Rhine below Mainz?",
+    "reference": "The course of the Rhine below Mainz\nbecomes much more picturesque. The river descends rapidly and winds\nbetween hills, not high, but steep, and of beautiful forms. We saw\nmany ruined castles standing on the edges of precipices, surrounded by\nblack woods, high and inaccessible. This part of the Rhine, indeed,\npresents a singularly variegated landscape. In one spot you view\nrugged hills, ruined castles overlooking tremendous precipices, with\nthe dark Rhine rushing beneath; and on the sudden turn of a promontory,\nflourishing vineyards with green sloping banks and a meandering river\nand populous towns occupy the scene."
+  },
+  {
+    "id": "nonlit_extra_053",
+    "book": "frankenstein",
+    "question": "Despite his depression, how was Victor momentarily affected by the experience of traveling down the Rhine during the harvest season?",
+    "reference": "We travelled at the time of the vintage and heard the song of the labourers as we glided down the stream. Even I, depressed in mind, and my spirits continually agitated by gloomy feelings, even I was pleased. I lay at the bottom of the boat, and as I gazed on the cloudless blue sky, I seemed to drink in a tranquillity to which I had long been a stranger."
+  },
+  {
+    "id": "nonlit_extra_054",
+    "book": "frankenstein",
+    "question": "What does Henry Clerval say to Victor about how much he enjoys their travels through the mountains compared to Switzerland and the Rhine?",
+    "reference": "could now almost fancy myself among the\nSwiss mountains. The little patches of snow which yet lingered on the\nnorther"
+  },
+  {
+    "id": "nonlit_extra_055",
+    "book": "frankenstein",
+    "question": "How does Victor reason through the decision of whether to go ahead with his marriage despite the monster's threat to be present on his wedding night?",
+    "reference": "My\ndestruction might indeed arrive a few months sooner, but if my torturer\nshould suspect that I postponed it, influenced by his menaces, he would\nsurely find other and perhaps more dreadful means of revenge. He had vowed\nto be with me on my wedding-night, yet he did not consider that\nthreat as binding him to peace in the meantime, for as if to show me that\nhe was not yet satiated with blood, he had murdered Clerval immediately\nafter the enunciation of his threats. I resolved, therefore, that if my\nimmediate union with my cousin would conduce either to hers or my\nfather’s happiness, my adversary’s designs against my life\nshould not retard it a single hour.\n\nIn"
+  },
+  {
+    "id": "nonlit_extra_056",
+    "book": "frankenstein",
+    "question": "What does Victor promise Elizabeth in his letter regarding a dreadful secret he is keeping from her?",
+    "reference": "I have one secret, Elizabeth, a\ndreadful one; when revealed to you, it will chill your frame with\nhorror, and then, far from being surprised at my misery, you will only\nwonder that I survive what I have endured. I will confide this tale of\nmisery and terror to you the day after our marriage shall take place,\nfor, my sweet cousin, there must be perfect confidence between us. But\nuntil then, I conjure you, do not mention or allude to it."
+  },
+  {
+    "id": "nonlit_extra_057",
+    "book": "frankenstein",
+    "question": "How does Victor describe the physical and emotional changes he observes in Elizabeth when he returns to Geneva?",
+    "reference": "The sweet girl welcomed me with warm affection, yet tears were in her eyes as she beheld my emaciated frame and feverish cheeks. I saw a change in her also. She was thinner and had lost much of that heavenly vivacity that had before charmed me; but her gentleness and soft looks of compassion made her a more fit companion for one blasted and miserable as I was."
+  },
+  {
+    "id": "nonlit_extra_058",
+    "book": "frankenstein",
+    "question": "In what way does Elizabeth help Victor during the episodes of mental anguish and instability he experiences after returning home?",
+    "reference": "Elizabeth alone had the power to draw me from these fits; her gentle voice would soothe me when transported by passion and inspire me with human feelings when sunk in torpor. She wept with me and for me. When reason returned, she would remonstrate and endeavour to inspire me with resignation."
+  },
+  {
+    "id": "nonlit_extra_059",
+    "book": "frankenstein",
+    "question": "What does Victor's father say to encourage Victor to go forward with his marriage to Elizabeth, and how does Victor respond?",
+    "reference": "Victor, do not speak thus. Heavy misfortunes have befallen\nus, but let us only cling closer to what remains and transfer our love\nfor those whom we have lost to those who yet live. Our circle will be\nsmall but bound close by the ties of affection and mutual misfortune.\nAnd when time shall have softened your despair, new and dear objects of\ncare will be born to replace those of whom we have been so cruelly\ndeprived.”\n\nSuch were the lessons of my father. But to me the remem"
+  },
+  {
+    "id": "nonlit_extra_060",
+    "book": "moby_dick",
+    "question": "How does Ishmael describe his personal method for dealing with depression and dark moods?",
+    "reference": "Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people's hats off—then, I account it high time to get to sea as soon as I can. This is my substitute for pistol and ball."
+  },
+  {
+    "id": "nonlit_extra_061",
+    "book": "moby_dick",
+    "question": "How does Ishmael describe the city of Manhattan and its relationship to the water?",
+    "reference": "There now is your insular city of the Manhattoes, belted round by wharves as Indian isles by coral reefs—commerce surrounds it with her surf. Right and left, the streets take you waterward. Its extreme downtown is the battery, where that noble mole is washed by waves, and cooled by breezes, which a few hours previous were out of sight of land."
+  },
+  {
+    "id": "nonlit_extra_062",
+    "book": "moby_dick",
+    "question": "What scene does Ishmael describe when imagining a walk around the city on a Sunday afternoon, and what kinds of people does he observe?",
+    "reference": "Circumambulate the city of a dreamy Sabbath afternoon. Go from Corlears Hook to Coenties Slip, and from thence, by Whitehall, northward. What do you see?—Posted like silent sentinels all around the town, stand thousands upon thousands of mortal men fixed in ocean reveries. Some leaning against the spiles; some seated upon the pier-heads; some looking over the bulwarks of ships from China; some high aloft in the rigging, as if striving to get a still better seaward peep. But these are all landsmen; of week days pent up in lath and plaster—tied to counters, nailed to benches, clinched to desks."
+  },
+  {
+    "id": "nonlit_extra_063",
+    "book": "moby_dick",
+    "question": "What argument does Ishmael make about the universal human attraction to water, using the example of someone wandering through the countryside?",
+    "reference": "Say you are in the country; in some high land of lakes. Take almost any path you please, and ten to one it carries you down in a dale, and leaves you there by a pool in the stream. There is magic in it. Let the most absent-minded of men be plunged in his deepest reveries—stand that man on his legs, set his feet a-going, and he will infallibly lead you to water, if water there be in all that region."
+  },
+  {
+    "id": "nonlit_extra_064",
+    "book": "moby_dick",
+    "question": "How does Ishmael compare his decision to go to sea with the philosophical act of suicide, referencing a historical figure?",
+    "reference": "With a philosophical flourish Cato throws himself upon his sword; I quietly take to the ship. There is nothing surprising in this. If they but knew it, almost all men in their degree, some time or other, cherish very nearly the same feelings towards the ocean with me."
+  },
+  {
+    "id": "nonlit_extra_065",
+    "book": "moby_dick",
+    "question": "What kinds of supplies did Aunt Charity bring aboard the Pequod in the days before it sailed, and what was her motivation for doing so?",
+    "reference": "At one time she would come on board with a jar of pickles for the steward's pantry; another time with a bunch of quills for the chief mate's desk, where he kept his log; a third time with a roll of flannel for the small of some one's rheumatic back. Never did any woman better deserve her name, which was Charity—Aunt Charity, as everybody called her. And like a sister of charity did this charitable Aunt Charity bustle about hither and thither, ready to turn her hand and heart to anything that promised to yield safety, comfort, and consolation to all on board a ship in which her beloved brother Bildad was concerned, and in which she herself owned a score or two of well-saved dollars."
+  },
+  {
+    "id": "nonlit_extra_066",
+    "book": "moby_dick",
+    "question": "What surprising items did the Quakeress Aunt Charity carry when she came aboard the Pequod on the final day of preparation?",
+    "reference": "But it was startling to see this excellent hearted Quakeress coming on board, as she did the last day, with a long oil-ladle in one hand, and a still longer whaling lance in the other."
+  },
+  {
+    "id": "nonlit_extra_067",
+    "book": "moby_dick",
+    "question": "How did Captain Peleg behave during the days of preparation before the Pequod set sail?",
+    "reference": "Every once in a\nwhile Peleg came hobbling out of his whalebone den, roaring at the men\ndown the hatchways, roaring up to the riggers at the mast-head, and\nthen concluded by roaring back into his wigwam."
+  },
+  {
+    "id": "nonlit_extra_068",
+    "book": "moby_dick",
+    "question": "What inner conflict did Ishmael privately experience regarding Captain Ahab's absence during the ship's preparations?",
+    "reference": "If I\nhad been downright honest with myself, I would have seen very plainly\nin my heart that I did but half fancy being committed this way to so\nlong a voyage, without once laying my eyes on the man who was to be the\nabsolute dictator of it, so soon as the ship sailed out upon the open\nsea. But when a man suspects any wrong, it sometimes happens that if he\nbe already involved in the matter, he insensibly strives to cover up\nhis suspicions even from himself. And much this way it was with me. I\nsaid nothing, and tried to think nothing."
+  },
+  {
+    "id": "nonlit_extra_069",
+    "book": "moby_dick",
+    "question": "How did Elijah approach Ishmael and Queequeg near the wharf on the morning of departure, and how did they react to him?",
+    "reference": "“Avast!” cried a voice, whose owner at the same time coming close\nbehind us, laid a hand upon both our shoulders, and then insinuating\nhimself between us, stood stooping forward a little, in the uncertain\ntwilight, strangely peering from Queequeg to me. It was Elijah.\n\n“Going aboard?”\n\n“Hands off, will you,” said I.\n\n“Lookee here,” said Queequeg, shaking himself, “go ’way!"
+  },
+  {
+    "id": "nonlit_extra_070",
+    "book": "moby_dick",
+    "question": "How does Melville compare the psychological effect of the White Mountains of New Hampshire to that of Virginia's Blue Ridge in terms of the feelings they evoke?",
+    "reference": "the White Mountains of New Hampshire, whence, in peculiar moods, comes that gigantic ghostliness over the soul at the bare mention of that name, while the thought of Virginia's Blue Ridge is full of a soft, dewy, distant dreaminess?"
+  },
+  {
+    "id": "nonlit_extra_071",
+    "book": "moby_dick",
+    "question": "How does the narrator describe the city of Lima and what role does whiteness play in making it the strangest and saddest city one could see?",
+    "reference": "For Lima has taken the white veil; and\nthere is a higher horror in this whiteness of her woe. Old as Pizarro,\nthis whiteness keeps her ruins for ever new; admits not the cheerful\ngreenness of complete decay; spreads over her broken ramparts the rigid\npallor of an apoplexy that fixes its own distortions."
+  },
+  {
+    "id": "nonlit_extra_072",
+    "book": "moby_dick",
+    "question": "How does a mariner react differently to the sound of breaking waves near a coast compared to sailing through a midnight sea of milky whiteness?",
+    "reference": "if\nby night he hear the roar of breakers, starts to vigilance, and feels\njust enough of trepidation to sharpen all his faculties; but under\nprecisely similar circumstances, let him be called from his hammock to\nview his ship sailing through a midnight sea of milky whiteness—as if\nfrom encircling headlands shoals of combed white bears were swimming\nround him, then he feels a silent, superstitious dread; the shrouded\nphantom of the whitened waters is horrible to him as a real ghost"
+  },
+  {
+    "id": "nonlit_extra_073",
+    "book": "moby_dick",
+    "question": "According to the passage, how does the native Indian of Peru regard the snow-covered Andes, and how does this compare to the backwoodsman's view of a snow-covered prairie?",
+    "reference": "To the native Indian of Peru, the continual sight of the snow-howdahed Andes conveys naught of dread, except, perhaps, in the mere fancying of the eternal frosted desolateness reigning at such vast altitudes... Much the same is it with the backwoodsman of the West, who with comparative indifference views an unbounded prairie sheeted with driven snow, no shadow of tree or twig to break the fixed trance of whiteness."
+  },
+  {
+    "id": "nonlit_extra_074",
+    "book": "moby_dick",
+    "question": "How does Melville contrast the spectral quality of the White Sea with the emotional effect produced by the Yellow Sea?",
+    "reference": "does the name of the White Sea exert such a spectralness over the fancy, while that of the Yellow Sea lulls us with mortal thoughts of long lacquered mild afternoons on the waves, followed by the gaudiest and yet sleepiest of sunsets?"
+  },
+  {
+    "id": "nonlit_extra_075",
+    "book": "moby_dick",
+    "question": "How does the whale initially appear before the crew spots it and springs into action?",
+    "reference": "the whale looked like a portly burgher smoking his pipe of a warm afternoon. But that pipe, poor whale, was thy last. As if struck by some enchanter's wand, the sleepy ship and every sleeper in it all at once started into wakefulness; and more than a score of voices from all parts of the vessel, simultaneously with the three notes from aloft, shouted forth the accustomed cry, as the great fish slowly and regularly spouted the sparkling brine into the air."
+  },
+  {
+    "id": "nonlit_extra_076",
+    "book": "moby_dick",
+    "question": "What orders did Ahab give to the crew in the boats to avoid startling the whale during the initial pursuit?",
+    "reference": "Ahab gave orders that not an oar should be used, and no man must speak but in whispers. So seated like Ontario Indians on the gunwales of the boats, we swiftly but silently paddled along; the calm not admitting of the noiseless sails being set."
+  },
+  {
+    "id": "nonlit_extra_077",
+    "book": "moby_dick",
+    "question": "What did Stubb do when the whale dove beneath the surface and the chase temporarily paused?",
+    "reference": "“There go flukes!” was the cry, an announcement immediately followed by\nStubb’s producing his match and igniting his pipe, for now a respite\nwas granted."
+  },
+  {
+    "id": "nonlit_extra_078",
+    "book": "moby_dick",
+    "question": "How does the narrator explain the physical advantage the sperm whale gains by elevating its head while swimming at full speed?",
+    "reference": "such is the breadth of the\nupper part of the front of his head, and such the tapering cut-water\nformation of the lower part, that by obliquely elevating his head, he\nthereby may be said to transform himself from a bluff-bowed sluggish\ngalliot into a sharppointed New York pilot-boat.\n\n“S"
+  },
+  {
+    "id": "nonlit_extra_079",
+    "book": "moby_dick",
+    "question": "How did Tashtego, Daggoo, and Queequeg each vocally express their excitement as the boats raced toward the whale?",
+    "reference": "” screamed the Gay-Header in reply, raising some old\nwar-whoop to the skies; as every oarsman in the strained boat\ninvoluntarily bounced forward with the one tremendous leading stroke\nwhich the eager Indian gave.\n\nBut his wild screams were answered by others quite as wild. “Kee-hee!\nKee-hee!” yelled Dagg"
+  },
+  {
+    "id": "nonlit_extra_080",
+    "book": "moby_dick",
+    "question": "How does the narrator describe the power of the sperm whale's tail in relation to boats and their crews?",
+    "reference": "the sperm whale’s ponderous flukes, which in repeated\ninstances have one after the other hurled entire boats with all their\noars and crews into the air, very much as an Indian juggler tosses his\nballs."
+  },
+  {
+    "id": "nonlit_extra_081",
+    "book": "moby_dick",
+    "question": "What comparison is made between the whale's tail movements and secret human organizations, as reported by hunters?",
+    "reference": "I have heard hunters who have declared them akin to Free-Mason signs and symbols; that the whale, indeed, by these methods intelligently conversed with the world."
+  },
+  {
+    "id": "nonlit_extra_082",
+    "book": "moby_dick",
+    "question": "How does the narrator express his ultimate inability to fully understand the whale, using the imagery of the whale's face and back parts?",
+    "reference": "Thou shalt see my\nback parts, my tail, he seems to say, but my face shall not be seen.\nBut I cannot completely make out his back parts; and hint what he will\nabout his face, I say again he has no face."
+  },
+  {
+    "id": "nonlit_extra_083",
+    "book": "moby_dick",
+    "question": "How does the passage describe the geographical relationship between the Straits of Sunda and the broader Asian and Australian landmasses?",
+    "reference": "In a continuous line from that peninsula stretch the long islands of Sumatra, Java, Bally, and Timor; which, with many others, form a vast mole, or rampart, lengthwise connecting Asia with Australia, and dividing the long unbroken Indian ocean from the thickly studded oriental archipelagoes."
+  },
+  {
+    "id": "nonlit_extra_084",
+    "book": "moby_dick",
+    "question": "How does the passage characterize the historical behavior of Malay pirates in the Straits of Sunda toward passing vessels?",
+    "reference": "Time out of mind the piratical proas of the Malays, lurking among the low shaded coves and islets of Sumatra, have sallied out upon the vessels sailing through the straits, fiercely demanding tribute at the point of their spears."
+  },
+  {
+    "id": "nonlit_extra_085",
+    "book": "moby_dick",
+    "question": "How does Ahab respond when Starbuck informs him that oil in the hold is leaking and that the Burtons need to be hoisted to address the problem?",
+    "reference": "Burtons and break out? Now that we are nearing Japan; heave-to here\nfor a week to tinker a parcel of old hoops?”\n\n“Either do that, sir, or waste in one day more oil than we may make\ngood in a year. What we come twenty thousand miles to get is worth\nsaving, sir.”\n\n“So it is, so it is; if we get it.”\n\n“I was speaking of th"
+  },
+  {
+    "id": "nonlit_extra_086",
+    "book": "moby_dick",
+    "question": "What does Ahab say about the owners of the Pequod when Starbuck raises their concerns as a reason to address the leaking oil?",
+    "reference": "Let the owners stand on Nantucket beach and outyell the Typhoons. What\ncares Ahab? Owners, owners? Thou art always prating to me, Starbuck,\nabout those miserly owners, as if the owners were my conscience. But\nlook ye, the only real owner of anything is its commander; and hark ye,\nmy conscience is in this ship’s keel."
+  },
+  {
+    "id": "nonlit_extra_087",
+    "book": "moby_dick",
+    "question": "What dramatic action does Ahab take when Starbuck dares to remain in the cabin and speak frankly to him, and what does he declare at that moment?",
+    "reference": "Ahab seized a loaded musket from the rack (forming part of most\nSouth-Sea-men’s cabin furniture), and pointing it towards Starbuck,\nexclaimed: “There is one God that is Lord over the earth, and one\nCaptain that is lord over the Pequod.—On deck!"
+  },
+  {
+    "id": "nonlit_extra_088",
+    "book": "moby_dick",
+    "question": "What warning does Starbuck deliver to Ahab as he leaves the cabin after being threatened?",
+    "reference": "outraged, not insulted me, sir; but for that I ask thee not to beware\nof Starbuck; thou wouldst but laugh; but let Ahab beware of Ahab;\nbeware of thyself, old man.”\n\n“He waxes b"
+  },
+  {
+    "id": "nonlit_extra_089",
+    "book": "moby_dick",
+    "question": "After Starbuck leaves the cabin, how does Ahab ultimately resolve the standoff over the leaking oil, and what does he say quietly to Starbuck on deck?",
+    "reference": "fellow, Starbuck,” he said lowly to the mate;\nthen raising his voice to the crew: “Furl the t’gallant-sails, and\nclose-reef the top-sails, fore and aft; back the main-yard; up Burton,\nand break out in the main-hold.”\n\nIt were perhaps vain to surmise exactly why it was, that as respecting\nStarbuck, A"
+  },
+  {
+    "id": "nonlit_extra_090",
+    "book": "pride_and_prejudice",
+    "question": "How does Mrs. Bennet first learn about the new tenant at Netherfield Park, and what details does she share with her husband?",
+    "reference": "Mrs. Long has just been here, and she told me all about it... Netherfield is taken by a young man of large fortune from the north of England; that he came down on Monday in a chaise and four to see the place, and was so much delighted with it that he agreed with Mr. Morris immediately; that he is to take possession before Michaelmas, and some of his servants are to be in the house by the end of next week."
+  },
+  {
+    "id": "nonlit_extra_091",
+    "book": "pride_and_prejudice",
+    "question": "What is Mr. Bennet's humorous reason for suggesting that his wife accompany the daughters to visit Mr. Bingley rather than going himself?",
+    "reference": "You and the girls may go--or you may send them by themselves, which perhaps will be still better; for as you are as handsome as any of them, Mr. Bingley might like you the best of the party."
+  },
+  {
+    "id": "nonlit_extra_092",
+    "book": "pride_and_prejudice",
+    "question": "How does Mr. Bennet distinguish Elizabeth from her sisters when discussing his daughters' qualities?",
+    "reference": "They have none of them much to recommend them... they are all silly and ignorant like other girls; but Lizzy has something more of quickness than her sisters."
+  },
+  {
+    "id": "nonlit_extra_093",
+    "book": "pride_and_prejudice",
+    "question": "What argument does Mrs. Bennet use regarding the Lucas family to persuade her husband to call on Mr. Bingley?",
+    "reference": "Sir William and Lady Lucas are determined to go, merely on that account; for in general, you know, they visit no new comers. Indeed you must go, for it will be impossible for us to visit him, if you do not."
+  },
+  {
+    "id": "nonlit_extra_094",
+    "book": "pride_and_prejudice",
+    "question": "How does Mr. Bennet respond when his wife accuses him of having no compassion for her nerves?",
+    "reference": "You mistake me, my dear. I have a high respect for your nerves. They are my old friends. I have heard you mention them with consideration these twenty years at least."
+  },
+  {
+    "id": "nonlit_extra_095",
+    "book": "pride_and_prejudice",
+    "question": "What happens when Mr. Collins attempts to read aloud to the Bennet family, and how does Lydia disrupt the reading?",
+    "reference": "Lydia gaped as he opened the volume; and before he had, with very monotonous solemnity, read three pages, she interrupted him with,--\"Do you know, mamma, that my uncle Philips talks of turning away Richard? and if he does, Colonel Forster will hire him. My aunt told me so herself on Saturday. I shall walk to Meryton to-morrow to hear more about it, and to ask when Mr. Denny comes back from town.\""
+  },
+  {
+    "id": "nonlit_extra_096",
+    "book": "pride_and_prejudice",
+    "question": "How does Mr. Collins respond after being interrupted during his reading, and what activity does he turn to instead?",
+    "reference": "Collins, much offended, laid aside his book, and said,--\n\n“I have often observed how little young ladies are interested by books\nof a serious stamp, though written solely for their benefit. It amazes\nme, I confess; for certainly there can be nothing so advantageous to\nthem as instruction. But I will no longer importune my young cousin.”\n\nThen, turning to Mr. Bennet, he offered himself as his antagonist"
+  },
+  {
+    "id": "nonlit_extra_097",
+    "book": "pride_and_prejudice",
+    "question": "How is Mr. Collins's character described in terms of his upbringing, education, and the contradictions in his personality?",
+    "reference": "Mr. Collins was not a sensible man, and the deficiency of nature had been but little assisted by education or society... The subjection in which his father had brought him up had given him originally great humility of manner; but it was now a good deal counteracted by the self-conceit of a weak head, living in retirement, and the consequential feelings of early and unexpected prosperity... made him altogether a mixture of pride and obsequiousness, self-importance and humility."
+  },
+  {
+    "id": "nonlit_extra_098",
+    "book": "pride_and_prejudice",
+    "question": "What was Mr. Collins's reasoning for wanting to marry one of the Bennet daughters, and how did he view this plan morally?",
+    "reference": "Having now a good house and a very sufficient income, he intended to marry; and in seeking a reconciliation with the Longbourn family he had a wife in view, as he meant to choose one of the daughters, if he found them as handsome and amiable as they were represented by common report. This was his plan of amends--of atonement--for inheriting their father's estate; and he thought it an excellent one, full of eligibility and suitableness, and excessively generous and disinterested on his own part."
+  },
+  {
+    "id": "nonlit_extra_099",
+    "book": "pride_and_prejudice",
+    "question": "How does Mr. Collins shift his matrimonial attention from Jane Bennet to Elizabeth, and what causes this change?",
+    "reference": "His plan did not vary on seeing them. Miss Bennet's lovely face confirmed his views, and established all his strictest notions of what was due to seniority; and for the first evening she was his settled choice. The next morning, however, made an alteration; for in a quarter of an hour's tête-à-tête with Mrs. Bennet before breakfast... produced from her, amid very complaisant smiles and general encouragement, a caution against the very Jane he had fixed on... Mr. Collins had only to change from Jane to Elizabeth--and it was soon done."
+  },
+  {
+    "id": "nonlit_extra_100",
+    "book": "pride_and_prejudice",
+    "question": "How did Mrs. Bennet react to seeing Charlotte Lucas after her engagement to Mr. Collins became known?",
+    "reference": "Mrs. Bennet was really in a most pitiable state. The very mention of anything concerning the match threw her into an agony of ill-humour, and wherever she went she was sure of hearing it talked of. The sight of Miss Lucas was odious to her. As her successor in that house, she regarded her with jealous abhorrence. Whenever Charlotte came to see them, she concluded her to be anticipating the hour of possession; and whenever she spoke in a low voice to Mr. Collins, was convinced that they were talking of the Longbourn estate, and resolving to turn herself and her daughters out of the house as soon as Mr. Bennet was dead."
+  },
+  {
+    "id": "nonlit_extra_101",
+    "book": "pride_and_prejudice",
+    "question": "What humorous response did Mr. Bennet give when his wife lamented that Charlotte Lucas would one day be mistress of Longbourn?",
+    "reference": "gloomy thoughts. Let us hope for\nbetter things. Let us flatter ourselves that I may be the survivor.”\n\nThis was not very consoling to"
+  },
+  {
+    "id": "nonlit_extra_102",
+    "book": "pride_and_prejudice",
+    "question": "How did Jane cope with her mother's constant talk about Bingley's expected return while privately suffering her own anxiety?",
+    "reference": "As for Jane, her anxiety under this suspense was, of course, more painful than Elizabeth's: but whatever she felt she was desirous of concealing; and between herself and Elizabeth, therefore, the subject was never alluded to. But as no such delicacy restrained her mother, an hour seldom passed in which she did not talk of Bingley, express her impatience for his arrival, or even require Jane to confess that if he did not come back she should think herself very ill-used. It needed all Jane's steady mildness to bear these attacks with tolerable tranquillity."
+  },
+  {
+    "id": "nonlit_extra_103",
+    "book": "pride_and_prejudice",
+    "question": "What news did Miss Bingley's letter bring to Jane, and what did it say about Miss Darcy?",
+    "reference": "Miss Bingley’s letter arrived, and put an end to doubt. The very first\nsentence conveyed the assurance of their being all settled in London for\nthe winter, and concluded with her brother’s regret at not having had\ntime to pay his respects to his friends in Hertfordshire before he left\nthe country.\n\nHope was over, entirely over; and when Jane could attend to the rest of\nthe letter, she found little, except the professed affection of the\nwriter, that could give her any comfort. Miss Darcy’s praise occupied\nthe chief of it. Her many attractions were ag"
+  },
+  {
+    "id": "nonlit_extra_104",
+    "book": "pride_and_prejudice",
+    "question": "How did Mr. Collins spend most of his time during his return visit to Longbourn?",
+    "reference": "The chief of every day was spent by\nhim at Lucas Lodge, and he sometimes returned to Longbourn only in time\nto make an apology for his absence before the family went to bed."
+  },
+  {
+    "id": "nonlit_extra_105",
+    "book": "pride_and_prejudice",
+    "question": "In his letter to Elizabeth, how does Darcy explain the moment he first became aware that Bingley might be seriously attached to Jane?",
+    "reference": "it was not till the evening of the dance at Netherfield that I had any\napprehension of his feeling a serious attachment. I had often seen him\nin love before. At that ball, while I had the honour of dancing with\nyou, I was first made acquainted, by Sir William Lucas’s accidental\ninformation, that Bingley’s attentions to your sister had given rise to\na general expectation of their marriage. He"
+  },
+  {
+    "id": "nonlit_extra_106",
+    "book": "pride_and_prejudice",
+    "question": "What observations did Darcy make about Jane Bennet's behavior at the Netherfield ball that led him to conclude she was not deeply in love with Bingley?",
+    "reference": "Your sister I also watched. Her look and manners were open, cheerful, and engaging as ever, but without any symptom of peculiar regard; and I remained convinced, from the evening's scrutiny, that though she received his attentions with pleasure, she did not invite them by any participation of sentiment."
+  },
+  {
+    "id": "nonlit_extra_107",
+    "book": "pride_and_prejudice",
+    "question": "How does Darcy defend himself against the accusation that his judgment about Jane's feelings was colored by his own wishes rather than objective observation?",
+    "reference": "I will venture to say that my\ninvestigations and decisions are not usually influenced by my hopes or\nfears. I did not believe her to be indifferent because I wished it; I\nbelieved it on impartial conviction, as truly as I wished it in reason."
+  },
+  {
+    "id": "nonlit_extra_108",
+    "book": "pride_and_prejudice",
+    "question": "Beyond the issue of social connections, what additional reasons does Darcy give in his letter for having objected to a marriage between Bingley and Jane?",
+    "reference": "there were other causes of repugnance; causes\nwhich, though still existing, and existing to an equal degree in both\ninstances, I had myself endeavoured to forget, because they were not\nimmediately before me. These causes must be stated, though briefly. The\nsituation of your mother’s family, though objectionable, was nothing in\ncomparison of that total want of propriety so frequently, so almost\nuniformly betrayed by herself, by your three younger sis"
+  },
+  {
+    "id": "nonlit_extra_109",
+    "book": "pride_and_prejudice",
+    "question": "What consolation does Darcy offer Elizabeth amid his criticism of her family's improper behavior?",
+    "reference": "amidst your concern for the defects of your nearest relations,\nand your displeasure at this representation of them, let it give you\nconsolation to consider that to have conducted yourselves so as to avoid\nany share of the like censure is praise no less generally bestowed on\nyou and your eldest sister than it is honourable to the sense and\ndisposition of both."
+  },
+  {
+    "id": "nonlit_extra_110",
+    "book": "pride_and_prejudice",
+    "question": "How does Elizabeth react internally when she observes Darcy's changed behavior toward her relatives during their visit at Pemberley?",
+    "reference": "when she saw him thus civil, not only to herself, but to the very relations whom he had openly disdained, and recollected their last lively scene in Hunsford Parsonage, the difference, the change was so great, and struck so forcibly on her mind, that she could hardly restrain her astonishment from being visible."
+  },
+  {
+    "id": "nonlit_extra_111",
+    "book": "pride_and_prejudice",
+    "question": "How does Darcy arrange for a dinner invitation to be extended to Elizabeth and the Gardiners, and what is Elizabeth's immediate response to it?",
+    "reference": "Mr. Darcy called on his sister to join him in expressing their wish of seeing Mr. and Mrs. Gardiner, and Miss Bennet, to dinner at Pemberley, before they left the country. Miss Darcy, though with a diffidence which marked her little in the habit of giving invitations, readily obeyed. Mrs. Gardiner looked at her niece, desirous of knowing how she, whom the invitation most concerned, felt disposed as to its acceptance, but Elizabeth had turned away her head."
+  },
+  {
+    "id": "nonlit_extra_112",
+    "book": "pride_and_prejudice",
+    "question": "What does Elizabeth interpret Bingley's eagerness to speak with her and ask about Hertfordshire friends as signifying?",
+    "reference": "Bingley expressed great pleasure in the certainty of seeing Elizabeth again, having still a great deal to say to her, and many inquiries to make after all their Hertfordshire friends. Elizabeth, construing all this into a wish of hearing her speak of her sister, was pleased."
+  },
+  {
+    "id": "nonlit_extra_113",
+    "book": "pride_and_prejudice",
+    "question": "How do the Gardiners privately assess the relationship between Darcy and Elizabeth after the visitors depart?",
+    "reference": "It was evident that she was\nmuch better acquainted with Mr. Darcy than they had before any idea of;\nit was evident that he was very much in love with her. They saw much to\ninterest, but nothing to justify inquiry."
+  },
+  {
+    "id": "nonlit_extra_114",
+    "book": "pride_and_prejudice",
+    "question": "How do the Gardiners reconcile the favorable account given by Darcy's housekeeper with the poor reputation he held among people in Hertfordshire?",
+    "reference": "they soon became sensible\nthat the authority of a servant, who had known him since he was four\nyears old, and whose own manners indicated respectability, was not to be\nhastily rejected. Neither had anything occurred in the intelligence of\ntheir Lambton friends that could materially lessen its weight. They had\nnothing to accuse him of but pride; pride he probably had, and if not,\nit would certainly be imputed by the inhabitants of a small market town\nw"
+  },
+  {
+    "id": "nonlit_extra_115",
+    "book": "pride_and_prejudice",
+    "question": "How did Mrs. Gardiner describe Lydia's behavior during her stay, and what was Mrs. Gardiner's reaction to it?",
+    "reference": "would not tell you how little I was satisfied with her behaviour\n     while she stayed with us, if I had not perceived, by Jane’s letter\n     last Wednesday, that her conduct on coming home was exactly of a\n     piece with it, and therefore what I now tell you can give you no\n     fresh pain. I talked to her repeatedly in the most serious manner,\n     representing to her the wickedness of what she had done, and all\n     the unhappiness she had brought on her family. If she heard me, it\n     was by good luck, for I am sure she did not listen. I was sometimes\n     quite provoked; but t"
+  },
+  {
+    "id": "nonlit_extra_116",
+    "book": "pride_and_prejudice",
+    "question": "What opinion did Mrs. Gardiner express about Mr. Darcy's character and his one perceived shortcoming?",
+    "reference": "behaviour to us has,\n     in every respect, been as pleasing as when we were in Derbyshire.\n     His understanding and opinions all please me; he wants nothing but\n     a little more liveliness, and that, if he marry prudently, his\n     wife may teach him. I th"
+  },
+  {
+    "id": "nonlit_extra_117",
+    "book": "pride_and_prejudice",
+    "question": "What did Elizabeth come to understand about the full extent of Darcy's involvement in arranging Lydia and Wickham's marriage after reading Mrs. Gardiner's letter?",
+    "reference": "He had followed them purposely to town, he had taken on himself all the trouble and mortification attendant on such a research; in which supplication had been necessary to a woman whom he must abominate and despise, and where he was reduced to meet, frequently meet, reason with, persuade, and finally bribe the man whom he always most wished to avoid, and whose very name it was punishment to him to pronounce."
+  },
+  {
+    "id": "nonlit_extra_118",
+    "book": "pride_and_prejudice",
+    "question": "Why did Elizabeth struggle to believe that Darcy had acted out of love for her when helping to resolve the Wickham and Lydia situation?",
+    "reference": "she soon felt\nthat even her vanity was insufficient, when required to depend on his\naffection for her, for a woman who had already refused him, as able to\novercome a sentiment so natural as abhorrence against relationship with\nWickham. Brother-in-law of Wickham! Every kind of pride must revolt from\nthe connection."
+  },
+  {
+    "id": "nonlit_extra_119",
+    "book": "pride_and_prejudice",
+    "question": "What lighthearted personal wish did Mrs. Gardiner express at the end of her letter regarding Pemberley?",
+    "reference": "forgive\n     me, if I have been very presuming, or at least do not punish me so\n     far as to exclude me from P. I shall never be quite happy till I\n     have been all round the park. A low phaeton with a nice little pair\n     of ponies would be the very thing. But I"
+  },
+  {
+    "id": "nonlit_extra_120",
+    "book": "sherlock_holmes",
+    "question": "How does Watson describe Holmes's attitude toward Irene Adler compared to other women, and what is the reason Holmes does not feel romantic love for her?",
+    "reference": "To Sherlock Holmes she is always the woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind."
+  },
+  {
+    "id": "nonlit_extra_121",
+    "book": "sherlock_holmes",
+    "question": "What does Watson say about the effect that strong emotions would have on Holmes's ability to reason, and what analogy does he use to illustrate this?",
+    "reference": "But for the trained\nreasoner to admit such intrusions into his own delicate and finely\nadjusted temperament was to introduce a distracting factor which might\nthrow a doubt upon all his mental results. Grit in a sensitive\ninstrument, or a crack in one of his own high-power lenses, would not\nbe more disturbing than a strong emotion in a nature such as his."
+  },
+  {
+    "id": "nonlit_extra_122",
+    "book": "sherlock_holmes",
+    "question": "What had Holmes been doing during the period when Watson and he had drifted apart, and what cases had Watson heard about from Holmes's activities?",
+    "reference": "Holmes, who loathed every form of society with his whole Bohemian soul, remained in our lodgings in Baker Street, buried among his old books, and alternating from week to week between cocaine and ambition... From time to time I heard some vague account of his doings: of his summons to Odessa in the case of the Trepoff murder, of his clearing up of the singular tragedy of the Atkinson brothers at Trincomalee, and finally of the mission which he had accomplished so delicately and successfully for the reigning family of Holland."
+  },
+  {
+    "id": "nonlit_extra_123",
+    "book": "sherlock_holmes",
+    "question": "How does Watson realize, while passing Holmes's Baker Street rooms on the night of March 20th, 1888, that Holmes is actively working on a new problem?",
+    "reference": "His rooms were brilliantly lit, and, even as I looked up, I saw his tall, spare figure pass twice in a dark silhouette against the blind. He was pacing the room swiftly, eagerly, with his head sunk upon his chest and his hands clasped behind him. To me, who knew his every mood and habit, his attitude and manner told their own story. He was at work again. He had risen out of his drug-created dreams and was hot upon the scent of some new problem."
+  },
+  {
+    "id": "nonlit_extra_124",
+    "book": "sherlock_holmes",
+    "question": "What does Holmes deduce about Watson's physical condition upon their reunion, and how does Watson respond to the observation?",
+    "reference": "“Wedlock suits you,” he remarked. “I think, Watson, that you have put\non seven and a half pounds since I saw you.”\n\n“Seven!” I answered.\n\n“Indeed, I should have thought a little more. Just a trifle more, I\nfancy, Watson."
+  },
+  {
+    "id": "nonlit_extra_125",
+    "book": "sherlock_holmes",
+    "question": "How did Sherlock Holmes deduce that the criminals had been digging a tunnel, based on his observation of the assistant's physical appearance?",
+    "reference": "I hardly looked at his face. His knees were what I wished to see. You must yourself have remarked how worn, wrinkled, and stained they were. They spoke of those hours of burrowing."
+  },
+  {
+    "id": "nonlit_extra_126",
+    "book": "sherlock_holmes",
+    "question": "What method did Holmes use to determine the direction in which the cellar extended when he visited the scene?",
+    "reference": "I\nsurprised you by beating upon the pavement with my stick. I was\nascertaining whether the cellar stretched out in front or behind. It\nwas not in front."
+  },
+  {
+    "id": "nonlit_extra_127",
+    "book": "sherlock_holmes",
+    "question": "Why did Holmes conclude that Saturday night was the most likely time the criminals would make their attempt?",
+    "reference": "Saturday would suit them better than any other day, as it would give them two days for their escape. For all these reasons I expected them to come to-night."
+  },
+  {
+    "id": "nonlit_extra_128",
+    "book": "sherlock_holmes",
+    "question": "What French quotation does Holmes use at the end of the conversation, and to whom does he attribute it?",
+    "reference": "“‘L’homme c’est rien—l’œuvre c’est tout,’\nas Gustave Flaubert wrote to George Sand.”"
+  },
+  {
+    "id": "nonlit_extra_129",
+    "book": "sherlock_holmes",
+    "question": "What philosophical argument does Holmes make to Watson about the nature of real life compared to fiction, while sitting by the fire at Baker Street?",
+    "reference": "life is infinitely stranger than\nanything which the mind of man could invent. We would not dare to\nconceive the things which are really mere commonplaces of existence. If\nwe could fly out of that window hand in hand, hover over this great\ncity, gently remove the roofs, and peep in at the queer things which\nare going on, the strange coincidences, the plannings, the\ncross-purposes, the wonderful chains of events, working through\ngenerations, and leading to the most outré results, it would make all\nfiction with its conventionalities and foreseen conclusions most stale\nand unprofitable."
+  },
+  {
+    "id": "nonlit_extra_130",
+    "book": "sherlock_holmes",
+    "question": "What was Sherlock Holmes doing by the fireplace while Watson was reading during the stormy evening?",
+    "reference": "Sherlock Holmes sat moodily at one side of the fireplace cross-indexing his records of crime, while I at the other was deep in one of Clark Russell's fine sea-stories until the howl of the gale from without seemed to blend with the text, and the splash of the rain to lengthen out into the long swash of the sea waves."
+  },
+  {
+    "id": "nonlit_extra_131",
+    "book": "sherlock_holmes",
+    "question": "How did Holmes deduce that the young visitor had traveled from the south-west of England?",
+    "reference": "south-west, I see.”\n\n“Yes, from Horsham.”\n\n“That clay and chalk mixture which I see upon your toe caps is quite\ndistinctive.”\n\n“I have come for advice.”\n\n“T"
+  },
+  {
+    "id": "nonlit_extra_132",
+    "book": "sherlock_holmes",
+    "question": "How many times did Holmes admit to having been defeated, and by whom?",
+    "reference": "beaten.”\n\n“I have been beaten four times—three times by men, and once by"
+  },
+  {
+    "id": "nonlit_extra_133",
+    "book": "sherlock_holmes",
+    "question": "What did Holmes do with the lamp when the visitor knocked at the door, and why?",
+    "reference": "He stretched out his\nlong arm to turn the lamp away from himself and towards the vacant\nchair upon which a newcomer must sit."
+  },
+  {
+    "id": "nonlit_extra_134",
+    "book": "sherlock_holmes",
+    "question": "How did the young visitor first come to hear of Sherlock Holmes, and what case was mentioned as an example of Holmes's abilities?",
+    "reference": "heard of you, Mr. Holmes. I heard from Major Prendergast how\nyou saved him in the Tankerville Club scandal.”\n\n“Ah, of course. He was wrongfully accused of cheating at cards.”\n\n“He sai"
+  },
+  {
+    "id": "nonlit_extra_135",
+    "book": "sherlock_holmes",
+    "question": "How does Sherlock Holmes deduce that the owner of the hat was intellectually gifted?",
+    "reference": "For answer Holmes clapped the hat upon his head. It came right over the forehead and settled upon the bridge of his nose. 'It is a question of cubic capacity,' said he; 'a man with so large a brain must have something in it.'"
+  },
+  {
+    "id": "nonlit_extra_136",
+    "book": "sherlock_holmes",
+    "question": "What reasoning does Holmes use to conclude that the hat's owner has experienced a decline in his financial situation?",
+    "reference": "This hat is three years old. These flat brims curled at the edge came in then. It is a hat of the very best quality. Look at the band of ribbed silk and the excellent lining. If this man could afford to buy so expensive a hat three years ago, and has had no hat since, then he has assuredly gone down in the world."
+  },
+  {
+    "id": "nonlit_extra_137",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes explain both the foresight and the moral deterioration of the hat's owner from the same feature of the hat?",
+    "reference": "Here is the foresight,” said he putting his\nfinger upon the little disc and loop of the hat-securer. “They are\nnever sold upon hats. If this man ordered one, it is a sign of a\ncertain amount of foresight, since he went out of his way to take this\nprecaution against the wind. But since we see that he has broken the\nelastic and has not troubled to replace it, it is obvious that he has\nless foresight now than formerly, which is a distinct proof of a\nweakening nature."
+  },
+  {
+    "id": "nonlit_extra_138",
+    "book": "sherlock_holmes",
+    "question": "What evidence does Holmes use to conclude that the hat owner's wife no longer shows him affection?",
+    "reference": "brushed for weeks. When I see you, my dear\nWatson, with a week’s accumulation of dust upon your hat, and when your\nwife allows you to go out in such a state, I shall fear that you also\nhave been unfortunate enough to lose your wife’s affection.”\n\n“But he might be a bach"
+  },
+  {
+    "id": "nonlit_extra_139",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes deduce that the owner of the hat does not have gas lighting in his home?",
+    "reference": "tallow stain, or even two, might come by chance; but when I see no\nless than five, I think that there can be little doubt that the\nindividual must be brought into frequent contact with burning\ntallow—walks upstairs at night probably with his hat in one hand and a\nguttering candle in the other. Anyhow, he never got tallow-stains from\na gas-jet. Are"
+  },
+  {
+    "id": "nonlit_extra_140",
+    "book": "sherlock_holmes",
+    "question": "How did Dr. Watson treat the injury of the visitor who came to him before taking him to meet Sherlock Holmes?",
+    "reference": "I sponged the wound, cleaned it, dressed it, and finally covered it over with cotton wadding and carbolised bandages. He lay back without wincing, though he bit his lip from time to time."
+  },
+  {
+    "id": "nonlit_extra_141",
+    "book": "sherlock_holmes",
+    "question": "What was Sherlock Holmes doing when Watson and his new acquaintance arrived at Baker Street?",
+    "reference": "Sherlock Holmes was, as I expected, lounging about his sitting-room in his dressing-gown, reading the agony column of The Times and smoking his before-breakfast pipe, which was composed of all the plugs and dottles left from his smokes of the day before, all carefully dried and collected on the corner of the mantelpiece."
+  },
+  {
+    "id": "nonlit_extra_142",
+    "book": "sherlock_holmes",
+    "question": "How did Holmes make the injured visitor comfortable once he arrived at Baker Street?",
+    "reference": "He received us in his\nquietly genial fashion, ordered fresh rashers and eggs, and joined us\nin a hearty meal. When it was concluded he settled our new acquaintance\nupon the sofa, placed a pillow beneath his head, and laid a glass of\nbrandy and water within his reach."
+  },
+  {
+    "id": "nonlit_extra_143",
+    "book": "sherlock_holmes",
+    "question": "What was the visitor's professional background and how long had his independent business practice been running?",
+    "reference": "By profession I am a hydraulic engineer, and I have had considerable experience of my work during the seven years that I was apprenticed to Venner & Matheson, the well-known firm, of Greenwich. Two years ago, having served my time, and having also come into a fair sum of money through my poor father's death, I determined to start in business for myself and took professional chambers in Victoria Street."
+  },
+  {
+    "id": "nonlit_extra_144",
+    "book": "sherlock_holmes",
+    "question": "Why did the injured visitor express doubt that the police would believe his account of what happened to him?",
+    "reference": "between ourselves, if it were not for the convincing evidence of this wound of mine, I should be surprised if they believed my statement, for it is a very extraordinary one, and I have not much in the way of proof with which to back it up; and, even if they believe me, the clues which I can give them are so vague that it is a question whether justice will be done."
+  },
+  {
+    "id": "nonlit_extra_145",
+    "book": "sherlock_holmes",
+    "question": "How does the banker describe his son Arthur's financial behavior and the troubles it caused within their relationship?",
+    "reference": "He was wild, wayward, and,\nto speak the truth, I could not trust him in the handling of large sums\nof money. When he was young he became a member of an aristocratic club,\nand there, having charming manners, he was soon the intimate of a\nnumber of men with long purses and expensive habits. He learned to play\nheavily at cards and to squander money on the turf, until he had again\nand again to come to me and implore me to give him an advance upon his\nallowance, that he might settle his debts of honour."
+  },
+  {
+    "id": "nonlit_extra_146",
+    "book": "sherlock_holmes",
+    "question": "What is the narrator's assessment of Sir George Burnwell's character, and how does he describe the man's personal qualities?",
+    "reference": "He is older than Arthur, a man of the world to his finger-tips, one who had been everywhere, seen everything, a brilliant talker, and a man of great personal beauty. Yet when I think of him in cold blood, far away from the glamour of his presence, I am convinced from his cynical speech and the look which I have caught in his eyes that he is one who should be deeply distrusted."
+  },
+  {
+    "id": "nonlit_extra_147",
+    "book": "sherlock_holmes",
+    "question": "How did Mary come to live with the narrator, and how does he describe her role in his household?",
+    "reference": "She is my niece; but when\nmy brother died five years ago and left her alone in the world I\nadopted her, and have looked upon her ever since as my daughter. She is\na sunbeam in my house—sweet, loving, beautiful, a wonderful manager and\nhousekeeper, yet as tender and quiet and gentle as a woman could be.\nShe is my right hand. I do not know what I could do without her."
+  },
+  {
+    "id": "nonlit_extra_148",
+    "book": "sherlock_holmes",
+    "question": "What did Arthur reveal about the bureau where the coronet was stored, and what did this suggest about its security?",
+    "reference": "any old key will fit that bureau. When I was a youngster I have\nopened it myself with the key of the box-room cupboard.’\n\n“He o"
+  },
+  {
+    "id": "nonlit_extra_149",
+    "book": "sherlock_holmes",
+    "question": "What was the narrator's explanation for why he had spoiled his son Arthur, and what did he believe the consequences of this had been?",
+    "reference": "I am a widower and have an only son,\nArthur. He has been a disappointment to me, Mr. Holmes—a grievous\ndisappointment. I have no doubt that I am myself to blame. People tell\nme that I have spoiled him. Very likely I have. When my dear wife died\nI felt that he was all I had to love. I could not bear to see the smile\nfade even for a moment from his face. I have never denied him a wish.\nPerhaps it would have been better for both of us had I been sterner,\nbut I meant it for the best."
+  }
+]

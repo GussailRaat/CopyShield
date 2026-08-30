@@ -1,0 +1,302 @@
+[
+  {
+    "id": "qa_book_000",
+    "book": "dracula",
+    "question": "Who is Jonathan Harker and what is his role in the story?",
+    "reference": "Jonathan Harker is a young English solicitor who travels to Transylvania to assist Count Dracula with a real estate transaction in England. He becomes one of the central characters fighting against Dracula."
+  },
+  {
+    "id": "qa_book_001",
+    "book": "dracula",
+    "question": "What is the significance of Mina Harker in Dracula?",
+    "reference": "Mina Harker is Jonathan's wife and a key figure in the fight against Dracula. She is intelligent and resourceful, helping compile the group's journals and records. Dracula later targets her, creating a psychic link that the group uses to track him."
+  },
+  {
+    "id": "qa_book_002",
+    "book": "dracula",
+    "question": "Who is Professor Van Helsing and what does he contribute?",
+    "reference": "Professor Abraham Van Helsing is a Dutch doctor and expert in obscure diseases. He is the one who identifies Lucy's condition as the work of a vampire and leads the group's efforts to destroy Dracula."
+  },
+  {
+    "id": "qa_book_003",
+    "book": "dracula",
+    "question": "What happens to Lucy Westenra in the novel?",
+    "reference": "Lucy Westenra is Mina's friend who becomes one of Dracula's victims. Despite multiple blood transfusions, she gradually weakens and dies, then becomes a vampire herself. Van Helsing and the others eventually destroy her undead form."
+  },
+  {
+    "id": "qa_book_004",
+    "book": "dracula",
+    "question": "How is the story of Dracula narrated?",
+    "reference": "The novel is told entirely through diary entries, letters, newspaper clippings, and phonograph recordings from multiple characters. There is no single omniscient narrator."
+  },
+  {
+    "id": "qa_book_005",
+    "book": "dracula",
+    "question": "What is Renfield's connection to Dracula?",
+    "reference": "Renfield is a patient at Dr. Seward's asylum who has a psychic connection to Dracula. He consumes living creatures to absorb their life force and is influenced by Dracula's proximity and power."
+  },
+  {
+    "id": "qa_book_006",
+    "book": "dracula",
+    "question": "How does Dracula travel to England?",
+    "reference": "Dracula travels to England aboard the ship Demeter, hidden in boxes of Transylvanian earth. During the voyage, he kills all the crew members one by one. The ship arrives at Whitby with only a dead captain tied to the wheel."
+  },
+  {
+    "id": "qa_book_007",
+    "book": "dracula",
+    "question": "What are Dracula's supernatural abilities?",
+    "reference": "Dracula can control weather, transform into a bat, wolf, or mist, command nocturnal animals, and has superhuman strength. He can also influence people's minds and does not age. However, he is weakened by sunlight, garlic, crucifixes, and holy water."
+  },
+  {
+    "id": "qa_book_008",
+    "book": "dracula",
+    "question": "Who is Dr. Seward and what role does he play?",
+    "reference": "Dr. John Seward is a psychiatrist who runs a lunatic asylum near Dracula's English estate. He is one of Lucy's suitors and becomes part of the group that hunts Dracula, documenting events through his phonograph diary."
+  },
+  {
+    "id": "qa_book_009",
+    "book": "dracula",
+    "question": "How is Dracula ultimately defeated?",
+    "reference": "The group tracks Dracula back to Transylvania as he flees in his box of earth. Jonathan Harker slashes Dracula's throat with a kukri knife while Quincey Morris stabs him in the heart with a bowie knife, causing Dracula to crumble to dust."
+  },
+  {
+    "id": "qa_book_010",
+    "book": "frankenstein",
+    "question": "Who is Victor Frankenstein and what does he create?",
+    "reference": "Victor Frankenstein is a young scientist from Geneva who becomes obsessed with creating life. He assembles a creature from dead body parts and brings it to life, but is horrified by its appearance and abandons it."
+  },
+  {
+    "id": "qa_book_011",
+    "book": "frankenstein",
+    "question": "What motivates the creature to seek revenge on Victor?",
+    "reference": "The creature is rejected by Victor and by every human it encounters due to its frightening appearance. After being driven away by the De Lacey family and shot while saving a girl, its loneliness and anger turn to a desire for revenge against its creator."
+  },
+  {
+    "id": "qa_book_012",
+    "book": "frankenstein",
+    "question": "What does the creature demand from Victor Frankenstein?",
+    "reference": "The creature demands that Victor create a female companion for it, promising to leave humanity alone and live in isolation if given a mate. Victor initially agrees but later destroys the unfinished female creature, fearing they would breed."
+  },
+  {
+    "id": "qa_book_013",
+    "book": "frankenstein",
+    "question": "How does the novel Frankenstein use a framing narrative?",
+    "reference": "The novel uses nested narration. Captain Robert Walton writes letters to his sister describing his Arctic expedition. He encounters Victor Frankenstein, who tells his story, which includes the creature's own first-person account of its experiences."
+  },
+  {
+    "id": "qa_book_014",
+    "book": "frankenstein",
+    "question": "What happens to William Frankenstein?",
+    "reference": "William is Victor's youngest brother. He is murdered by the creature as an act of revenge against Victor. The creature plants a locket from William on Justine Moritz, a family servant, who is then wrongly convicted and executed for the murder."
+  },
+  {
+    "id": "qa_book_015",
+    "book": "frankenstein",
+    "question": "Who is Henry Clerval and what happens to him?",
+    "reference": "Henry Clerval is Victor's closest friend from childhood. He is cheerful and devoted to Victor, nursing him back to health after his breakdown. The creature eventually murders Henry to punish Victor for destroying the female companion."
+  },
+  {
+    "id": "qa_book_016",
+    "book": "frankenstein",
+    "question": "What role does Robert Walton play in the story?",
+    "reference": "Robert Walton is an Arctic explorer who rescues Victor from the ice. He serves as the outermost narrator, recording Victor's story in letters to his sister. He also encounters the creature at the end after Victor's death."
+  },
+  {
+    "id": "qa_book_017",
+    "book": "frankenstein",
+    "question": "How does Victor Frankenstein die?",
+    "reference": "Victor dies of exhaustion and illness aboard Walton's ship in the Arctic while pursuing the creature. He has worn himself out in his relentless chase across Europe and into the frozen north."
+  },
+  {
+    "id": "qa_book_018",
+    "book": "frankenstein",
+    "question": "How does the creature educate itself?",
+    "reference": "The creature hides near a cottage and secretly observes the De Lacey family for months, learning to speak and read by watching them. It also reads books including Paradise Lost, Plutarch's Lives, and The Sorrows of Young Werther."
+  },
+  {
+    "id": "qa_book_019",
+    "book": "frankenstein",
+    "question": "What is the final fate of the creature?",
+    "reference": "After Victor's death, the creature appears on Walton's ship, expresses remorse over its actions, and declares it will end its own life by burning itself on a funeral pyre at the North Pole. It then departs into the Arctic darkness."
+  },
+  {
+    "id": "qa_book_020",
+    "book": "moby_dick",
+    "question": "Who is Captain Ahab and what drives him?",
+    "reference": "Captain Ahab is the commander of the whaling ship Pequod. He is obsessed with hunting and killing Moby Dick, the great white whale that bit off his leg on a previous voyage. His monomaniacal quest for revenge drives the entire plot."
+  },
+  {
+    "id": "qa_book_021",
+    "book": "moby_dick",
+    "question": "Who narrates Moby Dick and what is his background?",
+    "reference": "The novel is narrated by Ishmael, a young man who signs up for a whaling voyage to escape his depression. He is an observer and philosopher who provides both the story of the Pequod and extensive commentary on whaling."
+  },
+  {
+    "id": "qa_book_022",
+    "book": "moby_dick",
+    "question": "Who is Queequeg and what is his relationship with Ishmael?",
+    "reference": "Queequeg is a Pacific Islander and skilled harpooner who becomes Ishmael's close friend. They meet at an inn where they share a bed, and their deep friendship forms quickly. Queequeg joins the Pequod's crew as one of the three harpooners."
+  },
+  {
+    "id": "qa_book_023",
+    "book": "moby_dick",
+    "question": "What happens to the Pequod at the end of the novel?",
+    "reference": "After a three-day chase of Moby Dick, the whale destroys the Pequod by ramming it. The ship sinks with nearly all hands. Only Ishmael survives, floating on Queequeg's coffin-turned-lifebuoy until rescued by another ship."
+  },
+  {
+    "id": "qa_book_024",
+    "book": "moby_dick",
+    "question": "What is Starbuck's role on the Pequod?",
+    "reference": "Starbuck is the first mate of the Pequod. He is a practical, moral Quaker from Nantucket who opposes Ahab's obsessive quest as reckless and dangerous, but ultimately cannot bring himself to mutiny or stop the captain."
+  },
+  {
+    "id": "qa_book_025",
+    "book": "moby_dick",
+    "question": "What does the white whale symbolize in the novel?",
+    "reference": "Moby Dick serves as a complex symbol with multiple interpretations. For Ahab, the whale represents all evil and the unknowable forces of nature that defy human control. Different characters project different meanings onto it, and the novel resists a single definitive reading."
+  },
+  {
+    "id": "qa_book_026",
+    "book": "moby_dick",
+    "question": "What is the significance of the Pequod's crew diversity?",
+    "reference": "The Pequod's crew is remarkably diverse, including men from across the globe: Americans, Pacific Islanders, Africans, Native Americans, and Europeans. This diversity reflects the cosmopolitan nature of the whaling industry and serves as a microcosm of human society."
+  },
+  {
+    "id": "qa_book_027",
+    "book": "moby_dick",
+    "question": "What role does Fedallah play in the story?",
+    "reference": "Fedallah is a mysterious Parsee harpooner secretly brought aboard by Ahab. He serves as Ahab's personal harpooner and makes prophecies about Ahab's death that appear to guarantee his safety but are fulfilled in unexpected ways."
+  },
+  {
+    "id": "qa_book_028",
+    "book": "moby_dick",
+    "question": "How does Ishmael describe the whaling industry?",
+    "reference": "Ishmael provides extensive digressions about every aspect of whaling, including the biology of whales, the process of hunting and rendering blubber, the economics of the industry, and its cultural significance. These chapters make up a large portion of the novel."
+  },
+  {
+    "id": "qa_book_029",
+    "book": "moby_dick",
+    "question": "What is the significance of Father Mapple's sermon?",
+    "reference": "Father Mapple delivers a sermon about the story of Jonah and the whale at the Whaleman's Chapel before the Pequod sails. The sermon emphasizes obedience to God and foreshadows the themes of defiance and the consequences of challenging nature."
+  },
+  {
+    "id": "qa_book_030",
+    "book": "pride_and_prejudice",
+    "question": "What is the main conflict between Elizabeth Bennet and Mr. Darcy?",
+    "reference": "Elizabeth and Darcy initially clash due to mutual pride and prejudice. Darcy's arrogant behavior at the Meryton ball offends Elizabeth, while he looks down on her family's lower social standing. Their relationship gradually transforms as they come to understand each other better."
+  },
+  {
+    "id": "qa_book_031",
+    "book": "pride_and_prejudice",
+    "question": "What role does Mr. Wickham play in the plot?",
+    "reference": "George Wickham is a charming officer who deceives Elizabeth with false stories about Darcy mistreating him. He later elopes with Lydia Bennet, threatening the family's reputation. Darcy secretly pays Wickham to marry Lydia, revealing his true character to Elizabeth."
+  },
+  {
+    "id": "qa_book_032",
+    "book": "pride_and_prejudice",
+    "question": "Why is Mrs. Bennet so anxious to marry off her daughters?",
+    "reference": "The Bennet estate is entailed to Mr. Collins, meaning the daughters will inherit nothing when their father dies. Mrs. Bennet is desperate to secure their financial futures through advantageous marriages, as they have no other means of support."
+  },
+  {
+    "id": "qa_book_033",
+    "book": "pride_and_prejudice",
+    "question": "What happens between Jane Bennet and Mr. Bingley?",
+    "reference": "Jane and Bingley fall in love but are separated when Darcy and Bingley's sisters convince Bingley to leave Netherfield, believing Jane does not truly care for him. They eventually reunite and marry after Darcy admits his interference was wrong."
+  },
+  {
+    "id": "qa_book_034",
+    "book": "pride_and_prejudice",
+    "question": "Who is Mr. Collins and why is he important to the plot?",
+    "reference": "Mr. Collins is a pompous clergyman who will inherit the Bennet estate. He proposes to Elizabeth, who refuses him. He then marries her friend Charlotte Lucas, providing a contrast between marriages based on love versus practical necessity."
+  },
+  {
+    "id": "qa_book_035",
+    "book": "pride_and_prejudice",
+    "question": "What role does Lady Catherine de Bourgh play?",
+    "reference": "Lady Catherine is Darcy's wealthy and domineering aunt. She is Mr. Collins's patroness and later confronts Elizabeth, demanding she refuse any proposal from Darcy. Her interference ironically gives Darcy hope that Elizabeth might accept him."
+  },
+  {
+    "id": "qa_book_036",
+    "book": "pride_and_prejudice",
+    "question": "How does Darcy's first proposal differ from his second?",
+    "reference": "Darcy's first proposal at Hunsford is arrogant, emphasizing how he is condescending to marry beneath his station. Elizabeth angrily refuses. His second proposal at Pemberley is humble, showing he has reflected on her criticisms and changed his behavior."
+  },
+  {
+    "id": "qa_book_037",
+    "book": "pride_and_prejudice",
+    "question": "What is the significance of Pemberley in the novel?",
+    "reference": "Pemberley is Darcy's grand estate. When Elizabeth visits it, she sees a different side of Darcy through his servants' praise and the tasteful beauty of his home. This visit marks a turning point in her feelings toward him."
+  },
+  {
+    "id": "qa_book_038",
+    "book": "pride_and_prejudice",
+    "question": "What is the relationship between Elizabeth and her father?",
+    "reference": "Elizabeth is Mr. Bennet's favorite daughter because she shares his intelligence and wit. He respects her judgment more than his other children, though his detached parenting style contributes to the family's problems, particularly with Lydia's behavior."
+  },
+  {
+    "id": "qa_book_039",
+    "book": "pride_and_prejudice",
+    "question": "How does Lydia's elopement affect the Bennet family?",
+    "reference": "Lydia's elopement with Wickham threatens to ruin the entire family's reputation, which would prevent the other sisters from making good marriages. The crisis is resolved when Darcy secretly finds the couple and arranges their marriage by paying Wickham's debts."
+  },
+  {
+    "id": "qa_book_040",
+    "book": "sherlock_holmes",
+    "question": "How does Dr. Watson first meet Sherlock Holmes?",
+    "reference": "Watson, recently returned from military service in Afghanistan and looking for affordable lodging in London, is introduced to Holmes by a mutual acquaintance named Stamford. They agree to share rooms at 221B Baker Street."
+  },
+  {
+    "id": "qa_book_041",
+    "book": "sherlock_holmes",
+    "question": "What is Sherlock Holmes's method of investigation?",
+    "reference": "Holmes uses what he calls the science of deduction and analysis. He observes minute physical details that others overlook, applies logical reasoning, and eliminates impossible explanations until the remaining one, however improbable, must be the truth."
+  },
+  {
+    "id": "qa_book_042",
+    "book": "sherlock_holmes",
+    "question": "What is the Red-Headed League about?",
+    "reference": "A pawnbroker named Jabez Wilson is hired for easy work through a league supposedly for red-haired men. Holmes discovers the league is a ruse created by a criminal named John Clay to keep Wilson away from his shop while Clay digs a tunnel to rob a nearby bank vault."
+  },
+  {
+    "id": "qa_book_043",
+    "book": "sherlock_holmes",
+    "question": "Who is Irene Adler and why is she significant?",
+    "reference": "Irene Adler is a clever opera singer who outwits Holmes in A Scandal in Bohemia. She is one of the few people to defeat Holmes and earns his deep respect. He refers to her afterward simply as 'the woman.'"
+  },
+  {
+    "id": "qa_book_044",
+    "book": "sherlock_holmes",
+    "question": "What is Holmes's relationship with Dr. Watson?",
+    "reference": "Watson is Holmes's closest friend, roommate, and chronicler. He accompanies Holmes on cases, serves as a sounding board for his ideas, and writes the published accounts of their adventures. Watson provides the human, emotional perspective that balances Holmes's cold logic."
+  },
+  {
+    "id": "qa_book_045",
+    "book": "sherlock_holmes",
+    "question": "What are Holmes's notable personal habits and traits?",
+    "reference": "Holmes plays the violin, conducts chemical experiments in their rooms, goes through periods of lethargy between cases, and has encyclopedic knowledge of crime but gaps in general knowledge. He is famously unsentimental and values logic above all else."
+  },
+  {
+    "id": "qa_book_046",
+    "book": "sherlock_holmes",
+    "question": "What happens in A Case of Identity?",
+    "reference": "A young woman named Mary Sutherland consults Holmes about her missing fiance, Hosmer Angel. Holmes deduces that Angel is actually her stepfather in disguise, who courted her to keep control of her income and prevent her from marrying someone else."
+  },
+  {
+    "id": "qa_book_047",
+    "book": "sherlock_holmes",
+    "question": "What is the mystery in The Speckled Band?",
+    "reference": "Helen Stoner fears for her life after her sister died under mysterious circumstances, hearing a whistle and the words 'the speckled band' before dying. Holmes discovers that their stepfather Dr. Roylott had trained a venomous snake to crawl through a ventilator to kill them for their inheritance."
+  },
+  {
+    "id": "qa_book_048",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes solve The Five Orange Pips?",
+    "reference": "A young man named John Openshaw receives five orange pips, a threatening sign linked to the Ku Klux Klan, after his uncle and father received similar warnings and died. Holmes identifies the killers as the crew of a ship called the Lone Star, though Openshaw is murdered before Holmes can save him."
+  },
+  {
+    "id": "qa_book_049",
+    "book": "sherlock_holmes",
+    "question": "What is the role of 221B Baker Street in the stories?",
+    "reference": "221B Baker Street is the London flat shared by Holmes and Watson. It serves as Holmes's base of operations where clients come to present their cases. The rooms reflect Holmes's eclectic nature, cluttered with papers, chemical apparatus, and various artifacts from his investigations."
+  }
+]

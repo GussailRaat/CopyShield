@@ -1,0 +1,2114 @@
+[
+  {
+    "id": "clf_qa_001",
+    "book": "dracula",
+    "question": "In what country does the story of Dracula begin?",
+    "reference": "The story begins in Transylvania, a region in Romania. Jonathan Harker travels there to meet Count Dracula at his castle in the Carpathian Mountains."
+  },
+  {
+    "id": "clf_qa_002",
+    "book": "dracula",
+    "question": "What profession does Jonathan Harker have?",
+    "reference": "Jonathan Harker is a solicitor, a type of English lawyer. He is sent to Transylvania on behalf of his firm to assist Count Dracula with a real estate transaction in England."
+  },
+  {
+    "id": "clf_qa_003",
+    "book": "dracula",
+    "question": "What is the name of the asylum patient who eats insects?",
+    "reference": "Renfield is the asylum patient who consumes insects and other small creatures. He is a patient at Dr. Seward's asylum and becomes enthralled by Dracula."
+  },
+  {
+    "id": "clf_qa_004",
+    "book": "dracula",
+    "question": "How many boxes of earth does Dracula ship to England?",
+    "reference": "Dracula ships fifty boxes of Transylvanian earth to England. He needs this native soil to rest and maintain his power while in a foreign land."
+  },
+  {
+    "id": "clf_qa_005",
+    "book": "dracula",
+    "question": "What port does the Demeter arrive at in England?",
+    "reference": "The Demeter arrives at the port of Whitby on the Yorkshire coast during a great storm. The ship runs aground with all crew dead and the captain lashed to the wheel."
+  },
+  {
+    "id": "clf_qa_006",
+    "book": "dracula",
+    "question": "Who is Lucy Westenra's fianc\u00e9?",
+    "reference": "Lucy Westenra's fianc\u00e9 is Arthur Holmwood, who later becomes Lord Godalming. She chose him over her other two suitors, Dr. Seward and Quincey Morris."
+  },
+  {
+    "id": "clf_qa_007",
+    "book": "dracula",
+    "question": "What weapon is used to kill Dracula at the end?",
+    "reference": "Dracula is killed by a combination of a Bowie knife thrust into his heart by Quincey Morris and Jonathan Harker slashing his throat with a kukri knife during the final confrontation."
+  },
+  {
+    "id": "clf_qa_008",
+    "book": "dracula",
+    "question": "What is Dr. Seward's connection to Van Helsing?",
+    "reference": "Dr. Seward was a former student of Professor Van Helsing. He contacts Van Helsing when Lucy's mysterious illness baffles him, knowing Van Helsing has expertise in obscure diseases."
+  },
+  {
+    "id": "clf_qa_009",
+    "book": "dracula",
+    "question": "How does Mina keep her journal?",
+    "reference": "Mina keeps her journal using a typewriter and shorthand. Her skill with modern technology proves vital as she later compiles and organizes all the group's various records into a coherent narrative."
+  },
+  {
+    "id": "clf_qa_010",
+    "book": "dracula",
+    "question": "What form can Dracula transform into?",
+    "reference": "Dracula can transform into several forms including a bat, a wolf, mist or vapor, and dust particles in moonlight. He can also command rats, wolves, and other creatures of the night."
+  },
+  {
+    "id": "clf_qa_011",
+    "book": "dracula",
+    "question": "Where is Carfax Abbey located?",
+    "reference": "Carfax Abbey is located next to Dr. Seward's asylum in Purfleet, near London. Dracula purchases it as his base in England because of its old and secluded nature."
+  },
+  {
+    "id": "clf_qa_012",
+    "book": "dracula",
+    "question": "Who is the captain of the Demeter?",
+    "reference": "The captain of the Demeter is not named but his log entries reveal the growing horror aboard as crew members disappear one by one during the voyage from Varna to Whitby."
+  },
+  {
+    "id": "clf_qa_013",
+    "book": "dracula",
+    "question": "What religious object burns Mina's forehead?",
+    "reference": "A communion wafer or sacred Host burns Mina's forehead when Van Helsing places it there, leaving a red mark. This shows she has been tainted by Dracula's blood exchange."
+  },
+  {
+    "id": "clf_qa_014",
+    "book": "dracula",
+    "question": "What time of day is Dracula most vulnerable?",
+    "reference": "Dracula is most vulnerable during daylight hours, when his powers are significantly diminished. He can only transform at dawn, noon, or sunset, and loses many of his supernatural abilities during the day."
+  },
+  {
+    "id": "clf_qa_015",
+    "book": "dracula",
+    "question": "How many blood transfusions does Lucy receive?",
+    "reference": "Lucy receives four blood transfusions from different donors: Arthur Holmwood, Dr. Seward, Van Helsing, and Quincey Morris. Despite these efforts, she ultimately dies and becomes a vampire."
+  },
+  {
+    "id": "clf_qa_016",
+    "book": "dracula",
+    "question": "Who stabs Dracula through the heart?",
+    "reference": "Quincey Morris stabs Dracula through the heart with his Bowie knife during the final battle near Castle Dracula, while Jonathan Harker simultaneously slashes Dracula's throat."
+  },
+  {
+    "id": "clf_qa_017",
+    "book": "dracula",
+    "question": "What is the Szgany's role in the story?",
+    "reference": "The Szgany are Romani people who serve Dracula as loyal servants and protectors. They transport his boxes of earth and guard his coffin during the final chase back to Transylvania."
+  },
+  {
+    "id": "clf_qa_018",
+    "book": "dracula",
+    "question": "Where does Dracula's castle sit geographically?",
+    "reference": "Dracula's castle sits high in the Carpathian Mountains in Transylvania, near the Borgo Pass. It is a remote and ancient fortress perched on a precipice overlooking deep valleys."
+  },
+  {
+    "id": "clf_qa_019",
+    "book": "dracula",
+    "question": "What is Renfield's obsession with consuming living things called?",
+    "reference": "Renfield's obsession is called zoophagy, meaning the consumption of living creatures. He progresses from flies to spiders to birds, seeking to absorb their life force in a chain of predation."
+  },
+  {
+    "id": "clf_qa_020",
+    "book": "dracula",
+    "question": "What technology does Mina use to compile the group's records?",
+    "reference": "Mina uses a typewriter to compile and organize the group's records, including journal entries, letters, newspaper clippings, and phonograph recordings into a chronological narrative."
+  },
+  {
+    "id": "clf_qa_021",
+    "book": "dracula",
+    "question": "Who proposes to Lucy besides Arthur Holmwood?",
+    "reference": "Both Dr. John Seward and Quincey Morris propose to Lucy on the same day. She turns them both down, having already accepted Arthur Holmwood, but expresses fondness for all three."
+  },
+  {
+    "id": "clf_qa_022",
+    "book": "dracula",
+    "question": "What happens to Lucy after she becomes a vampire?",
+    "reference": "After becoming a vampire, Lucy preys on children in Hampstead Heath, becoming known as the Bloofer Lady. The group eventually destroys her by driving a stake through her heart, cutting off her head, and filling her mouth with garlic."
+  },
+  {
+    "id": "clf_qa_023",
+    "book": "dracula",
+    "question": "How does Jonathan Harker escape from Castle Dracula?",
+    "reference": "Jonathan Harker escapes Castle Dracula by climbing down the castle wall, imitating Dracula's own method of crawling along the stonework. He then makes his way to Budapest where he falls seriously ill."
+  },
+  {
+    "id": "clf_qa_024",
+    "book": "dracula",
+    "question": "What is the significance of the Brides of Dracula?",
+    "reference": "The three Brides are female vampires who reside in Castle Dracula. They attempt to seduce and feed on Jonathan Harker, demonstrating the seductive and predatory nature of vampirism in the novel."
+  },
+  {
+    "id": "clf_qa_025",
+    "book": "dracula",
+    "question": "Why does Renfield warn the group about Dracula?",
+    "reference": "Renfield warns the group because he realizes Dracula is a genuine threat to Mina. Despite his earlier devotion to Dracula as his master, Renfield tries to protect Mina and is killed by Dracula for his betrayal."
+  },
+  {
+    "id": "clf_qa_026",
+    "book": "dracula",
+    "question": "What flower is used as protection against vampires in the novel?",
+    "reference": "Garlic flowers are used as protection against vampires. Van Helsing places garlic flowers around Lucy's room, makes her wear a garlic wreath around her neck, and uses garlic to seal windows and doors."
+  },
+  {
+    "id": "clf_qa_027",
+    "book": "dracula",
+    "question": "What country does Van Helsing come from?",
+    "reference": "Professor Abraham Van Helsing comes from the Netherlands. He is a Dutch doctor with wide-ranging expertise in medicine, philosophy, and obscure knowledge including vampire lore."
+  },
+  {
+    "id": "clf_qa_028",
+    "book": "dracula",
+    "question": "How does the group destroy vampire Lucy?",
+    "reference": "Arthur drives a wooden stake through Lucy's heart while Van Helsing reads a prayer. Then they cut off her head and fill her mouth with garlic, releasing her soul from the curse of vampirism."
+  },
+  {
+    "id": "clf_qa_029",
+    "book": "dracula",
+    "question": "What year was Dracula first published?",
+    "reference": "Dracula was first published in 1897 by Bram Stoker. It was published by Archibald Constable and Company in London."
+  },
+  {
+    "id": "clf_qa_030",
+    "book": "dracula",
+    "question": "What narrative format does Bram Stoker use to tell the story?",
+    "reference": "Stoker uses an epistolary format, telling the story through journal entries, letters, telegrams, newspaper clippings, and phonograph diary recordings from multiple characters."
+  },
+  {
+    "id": "clf_qa_031",
+    "book": "dracula",
+    "question": "What is the name of the inn where Harker stays before reaching the castle?",
+    "reference": "Harker stays at the Golden Krone Hotel in Bistritz before continuing his journey to Castle Dracula. The innkeeper's wife gives him a crucifix and warns him about his destination."
+  },
+  {
+    "id": "clf_qa_032",
+    "book": "dracula",
+    "question": "Who gives Harker a crucifix before his journey?",
+    "reference": "The innkeeper's wife at the Golden Krone Hotel in Bistritz gives Harker a crucifix before he departs for Castle Dracula, despite his Protestant reservations about accepting it."
+  },
+  {
+    "id": "clf_qa_033",
+    "book": "dracula",
+    "question": "What does Dracula look like when Harker first meets him?",
+    "reference": "Dracula appears as a tall old man with a long white mustache, dressed entirely in black. He has a strong aquiline nose, arched nostrils, massive eyebrows, pointed ears, and remarkably sharp white teeth."
+  },
+  {
+    "id": "clf_qa_034",
+    "book": "dracula",
+    "question": "How does Dracula control the weather?",
+    "reference": "Dracula has the supernatural ability to command storms, fog, and thunder. He uses this power notably during the Demeter's arrival at Whitby, creating a violent storm to cover his landing."
+  },
+  {
+    "id": "clf_qa_035",
+    "book": "dracula",
+    "question": "What role does the solicitor Mr. Hawkins play?",
+    "reference": "Mr. Hawkins is the senior partner of the law firm where Jonathan Harker works. He sends Harker to Transylvania to complete the property transaction with Dracula, as he himself is too old and ill to travel."
+  },
+  {
+    "id": "clf_qa_036",
+    "book": "dracula",
+    "question": "Why does Dracula want to move to London?",
+    "reference": "Dracula wants to move to London because it is a large, populous city where he can feed freely and remain anonymous among millions of people, unlike the sparsely populated Transylvania."
+  },
+  {
+    "id": "clf_qa_037",
+    "book": "dracula",
+    "question": "What supernatural powers does Dracula possess?",
+    "reference": "Dracula possesses superhuman strength, the ability to shape-shift into a bat, wolf, or mist, control over weather and nocturnal animals, hypnotic power, and the ability to scale walls and become younger by feeding."
+  },
+  {
+    "id": "clf_qa_038",
+    "book": "dracula",
+    "question": "How does Van Helsing protect the group from Dracula?",
+    "reference": "Van Helsing uses religious and folk remedies including garlic, crucifixes, communion wafers, and wild rose. He also provides knowledge about vampire weaknesses and leads the strategic planning against Dracula."
+  },
+  {
+    "id": "clf_qa_039",
+    "book": "dracula",
+    "question": "What is the significance of the Borgo Pass?",
+    "reference": "The Borgo Pass is the mountain pass in the Carpathians where Harker is met by Dracula's mysterious carriage driver. It serves as the gateway between the civilized world and Dracula's domain."
+  },
+  {
+    "id": "clf_qa_040",
+    "book": "dracula",
+    "question": "Who is the author of Dracula?",
+    "reference": "Bram Stoker is the author of Dracula. He was an Irish author who published the novel in 1897 after years of research into Eastern European folklore and vampire legends."
+  },
+  {
+    "id": "clf_qa_041",
+    "book": "dracula",
+    "question": "What happens during Walpurgis Night in the story?",
+    "reference": "Walpurgis Night features in the deleted chapter where Harker visits a cemetery and encounters supernatural phenomena including a violent storm and a female vampire, before being rescued by a large wolf."
+  },
+  {
+    "id": "clf_qa_042",
+    "book": "dracula",
+    "question": "How does Mina's character develop throughout the novel?",
+    "reference": "Mina evolves from a dutiful schoolmistress and fianc\u00e9e into a central figure in the fight against Dracula. Her intelligence, organizational skills, and courage prove essential, even after being partially turned by Dracula."
+  },
+  {
+    "id": "clf_qa_043",
+    "book": "dracula",
+    "question": "What is Dr. Seward's method of keeping records?",
+    "reference": "Dr. Seward keeps his diary on a phonograph, recording his observations and thoughts verbally. This reflects the novel's theme of modern technology being used against ancient evil."
+  },
+  {
+    "id": "clf_qa_044",
+    "book": "dracula",
+    "question": "Why is Dracula interested in learning about England?",
+    "reference": "Dracula studies English customs, law, and geography through books in his library to prepare for his move to England. He wants to blend in and avoid drawing attention to his foreign origins."
+  },
+  {
+    "id": "clf_qa_045",
+    "book": "dracula",
+    "question": "What is the connection between Dracula and Vlad the Impaler?",
+    "reference": "Stoker drew inspiration from Vlad III, known as Vlad the Impaler, a 15th-century ruler of Wallachia. In the novel, Dracula claims descent from Attila the Hun and speaks proudly of his warrior ancestry."
+  },
+  {
+    "id": "clf_qa_046",
+    "book": "dracula",
+    "question": "How does the novel explore the theme of modernity versus tradition?",
+    "reference": "The novel contrasts modern technology like typewriters, phonographs, and blood transfusions with ancient supernatural evil. The heroes use modern tools and rational methods to combat Dracula's traditional vampiric powers."
+  },
+  {
+    "id": "clf_qa_047",
+    "book": "dracula",
+    "question": "What is the role of blood in the symbolism of the novel?",
+    "reference": "Blood represents life force, sexuality, and power transfer in the novel. Dracula's feeding is an intimate act of domination, while the blood transfusions represent the heroes' bonds of friendship and sacrifice."
+  },
+  {
+    "id": "clf_qa_048",
+    "book": "dracula",
+    "question": "How many safe houses does Dracula establish in London?",
+    "reference": "Dracula distributes his fifty boxes of earth across multiple locations in London to create several safe houses where he can rest. The group systematically tracks down and sterilizes these locations with communion wafers."
+  },
+  {
+    "id": "clf_qa_049",
+    "book": "dracula",
+    "question": "What is the final fate of Quincey Morris?",
+    "reference": "Quincey Morris dies from wounds sustained during the final battle with Dracula and his Szgany guards outside Castle Dracula. He lives long enough to see Dracula destroyed before succumbing to his injuries."
+  },
+  {
+    "id": "clf_qa_050",
+    "book": "dracula",
+    "question": "How does Harker's journal serve the plot?",
+    "reference": "Harker's journal provides the opening narrative and crucial firsthand evidence of Dracula's nature and abilities. It later becomes part of the compiled record that the group uses to plan their campaign against Dracula."
+  },
+  {
+    "id": "clf_qa_051",
+    "book": "dracula",
+    "question": "What Victorian anxieties does the novel reflect?",
+    "reference": "The novel reflects anxieties about immigration, foreign contamination, female sexuality, the decline of traditional values, and the tension between science and superstition in late Victorian England."
+  },
+  {
+    "id": "clf_qa_052",
+    "book": "dracula",
+    "question": "How is the theme of female sexuality portrayed in the novel?",
+    "reference": "Female sexuality is portrayed as dangerous when uncontrolled. The vampiric women are overtly sexual and predatory, while Lucy's transformation from innocent to seductive vampire reflects Victorian fears about female desire."
+  },
+  {
+    "id": "clf_qa_053",
+    "book": "dracula",
+    "question": "What is the significance of communion wafers in the story?",
+    "reference": "Communion wafers are used as weapons against vampires. Van Helsing crumbles them into the earth boxes to make them uninhabitable for Dracula, and places one on Mina's forehead which burns her tainted skin."
+  },
+  {
+    "id": "clf_qa_054",
+    "book": "dracula",
+    "question": "Why does Van Helsing hypnotize Mina?",
+    "reference": "Van Helsing hypnotizes Mina to exploit her psychic connection with Dracula, established when he forced her to drink his blood. Under hypnosis, she can sense Dracula's surroundings and movements."
+  },
+  {
+    "id": "clf_qa_055",
+    "book": "dracula",
+    "question": "What happens to Renfield at the end of the novel?",
+    "reference": "Renfield is killed by Dracula after trying to prevent the Count from reaching Mina. Dracula breaks into Renfield's cell, crushes his skull, and breaks his back for his attempted betrayal."
+  },
+  {
+    "id": "clf_qa_056",
+    "book": "dracula",
+    "question": "How does the group track Dracula back to Transylvania?",
+    "reference": "The group uses Mina's psychic link to Dracula under hypnosis, combined with shipping records and railway timetables, to follow Dracula as he flees back to Transylvania by ship and river."
+  },
+  {
+    "id": "clf_qa_057",
+    "book": "dracula",
+    "question": "What is the tone of Jonathan Harker's early diary entries?",
+    "reference": "Harker's early entries are observational and tourist-like, describing scenery, food, and customs with curiosity. The tone gradually shifts to unease and then terror as he realizes he is a prisoner in Castle Dracula."
+  },
+  {
+    "id": "clf_qa_058",
+    "book": "dracula",
+    "question": "How does the novel use multiple narrators?",
+    "reference": "The novel uses multiple narrators through their respective journals, letters, and recordings to create a collage of perspectives. This technique builds suspense as readers piece together information that no single character possesses."
+  },
+  {
+    "id": "clf_qa_059",
+    "book": "dracula",
+    "question": "What is the symbolic meaning of Dracula's castle?",
+    "reference": "The castle symbolizes the old feudal world, isolation, imprisonment, and the dark past. Its crumbling grandeur and ancient evil contrast with the modern London that Dracula seeks to infiltrate."
+  },
+  {
+    "id": "clf_qa_060",
+    "book": "dracula",
+    "question": "How does the novel end for Mina and Jonathan?",
+    "reference": "The novel ends happily for Mina and Jonathan. The scar on Mina's forehead vanishes after Dracula's death, and a final note reveals they have a son named after all the men who fought Dracula."
+  },
+  {
+    "id": "clf_qa_061",
+    "book": "frankenstein",
+    "question": "Who is the narrator of the frame story in Frankenstein?",
+    "reference": "Robert Walton is the narrator of the frame story. He is an Arctic explorer who encounters Victor Frankenstein on the ice and records Victor's tale in letters to his sister Margaret Saville."
+  },
+  {
+    "id": "clf_qa_062",
+    "book": "frankenstein",
+    "question": "What university does Victor attend?",
+    "reference": "Victor attends the University of Ingolstadt in Bavaria, Germany. There he studies natural philosophy and chemistry under Professors Krempe and Waldman, who inspire his pursuit of creating life."
+  },
+  {
+    "id": "clf_qa_063",
+    "book": "frankenstein",
+    "question": "What is the name of Victor's younger brother who is murdered?",
+    "reference": "William Frankenstein is Victor's youngest brother who is murdered by the creature. William's death is the first in a series of tragedies caused by Victor's creation."
+  },
+  {
+    "id": "clf_qa_064",
+    "book": "frankenstein",
+    "question": "Who is wrongly executed for William's murder?",
+    "reference": "Justine Moritz is wrongly executed for William's murder. The creature planted a locket belonging to William on Justine, and she is convicted and hanged despite her innocence."
+  },
+  {
+    "id": "clf_qa_065",
+    "book": "frankenstein",
+    "question": "Where does Victor first see the creature after its creation?",
+    "reference": "Victor first encounters the creature on the Mer de Glace glacier near Mont Blanc, some time after fleeing from it on the night of its creation. The creature approaches Victor and tells its story."
+  },
+  {
+    "id": "clf_qa_066",
+    "book": "frankenstein",
+    "question": "What does the creature learn by observing the De Lacey family?",
+    "reference": "The creature learns language, reading, and human social customs by secretly observing the De Lacey family through a crack in their cottage wall. It also learns about human history and emotions."
+  },
+  {
+    "id": "clf_qa_067",
+    "book": "frankenstein",
+    "question": "Why does the creature kill Elizabeth?",
+    "reference": "The creature kills Elizabeth on her wedding night as revenge against Victor for destroying the unfinished female companion. The creature had warned Victor it would be with him on his wedding night."
+  },
+  {
+    "id": "clf_qa_068",
+    "book": "frankenstein",
+    "question": "What is the creature's demand from Victor?",
+    "reference": "The creature demands that Victor create a female companion for it, arguing that it deserves a mate with whom it can live in isolation from humanity and find some measure of happiness."
+  },
+  {
+    "id": "clf_qa_069",
+    "book": "frankenstein",
+    "question": "Where does Victor destroy the female creature?",
+    "reference": "Victor destroys the partially completed female creature in a remote hut on one of the Orkney Islands off the coast of Scotland, tearing it apart after reconsidering the potential consequences."
+  },
+  {
+    "id": "clf_qa_070",
+    "book": "frankenstein",
+    "question": "Who is Henry Clerval?",
+    "reference": "Henry Clerval is Victor's closest childhood friend. He is a kind and imaginative person who studies oriental languages and literature, and serves as a contrast to Victor's obsessive scientific pursuits."
+  },
+  {
+    "id": "clf_qa_071",
+    "book": "frankenstein",
+    "question": "What happens to Clerval in the story?",
+    "reference": "Clerval is murdered by the creature in Ireland as further revenge against Victor. Victor is initially accused of the murder and imprisoned before being cleared and returned to his father."
+  },
+  {
+    "id": "clf_qa_072",
+    "book": "frankenstein",
+    "question": "What scientific field inspires Victor's experiments?",
+    "reference": "Victor is inspired by natural philosophy and chemistry, combined with his earlier fascination with the works of alchemists like Cornelius Agrippa, Paracelsus, and Albertus Magnus."
+  },
+  {
+    "id": "clf_qa_073",
+    "book": "frankenstein",
+    "question": "What is the subtitle of Frankenstein?",
+    "reference": "The subtitle of Frankenstein is The Modern Prometheus, referencing the Greek myth of Prometheus who stole fire from the gods to give to humanity and was punished for his transgression."
+  },
+  {
+    "id": "clf_qa_074",
+    "book": "frankenstein",
+    "question": "How does Victor react when the creature first opens its eyes?",
+    "reference": "Victor is filled with horror and disgust when the creature opens its dull yellow eye. He flees the room and spends a restless night in anguish, unable to face what he has created."
+  },
+  {
+    "id": "clf_qa_075",
+    "book": "frankenstein",
+    "question": "What role does nature play in Victor's emotional states?",
+    "reference": "Nature serves as both a source of comfort and a mirror for Victor's emotional states. Alpine scenery and natural beauty temporarily restore his spirits, while storms and darkness reflect his inner turmoil."
+  },
+  {
+    "id": "clf_qa_076",
+    "book": "frankenstein",
+    "question": "Who is Professor Waldman?",
+    "reference": "Professor Waldman is a chemistry professor at Ingolstadt who inspires Victor's scientific ambitions. Unlike the dismissive Krempe, Waldman validates Victor's interest in the mysteries of creation."
+  },
+  {
+    "id": "clf_qa_077",
+    "book": "frankenstein",
+    "question": "What is the creature's attitude toward fire?",
+    "reference": "The creature initially discovers fire's warmth and light with delight, but quickly learns it can burn. Fire represents both the promise and danger of knowledge, paralleling the Prometheus myth."
+  },
+  {
+    "id": "clf_qa_078",
+    "book": "frankenstein",
+    "question": "How does the creature learn to speak?",
+    "reference": "The creature learns to speak by secretly listening to Felix De Lacey teach Safie the French language. It learns alongside Safie, gradually mastering vocabulary and grammar through patient observation."
+  },
+  {
+    "id": "clf_qa_079",
+    "book": "frankenstein",
+    "question": "Who is Safie and what is her role in the story?",
+    "reference": "Safie is a young Turkish woman who comes to live with the De Lacey family. Her presence facilitates the creature's education, as Felix teaches her French, which the creature learns by eavesdropping."
+  },
+  {
+    "id": "clf_qa_080",
+    "book": "frankenstein",
+    "question": "What literary work most influences the creature's worldview?",
+    "reference": "Milton's Paradise Lost has the greatest influence on the creature. It identifies with both Adam, created and then abandoned, and Satan, cast out and seeking revenge against its creator."
+  },
+  {
+    "id": "clf_qa_081",
+    "book": "frankenstein",
+    "question": "Where does Victor die?",
+    "reference": "Victor dies aboard Robert Walton's ship in the Arctic. Exhausted from pursuing the creature across the frozen wasteland, he succumbs to illness and exposure after telling Walton his story."
+  },
+  {
+    "id": "clf_qa_082",
+    "book": "frankenstein",
+    "question": "What does the creature find in Victor's journal?",
+    "reference": "The creature finds Victor's laboratory journal in the pocket of the coat it took when it fled. The journal describes the creature's creation in detail and Victor's disgust, filling the creature with rage and sorrow."
+  },
+  {
+    "id": "clf_qa_083",
+    "book": "frankenstein",
+    "question": "How does Mary Shelley use the epistolary form?",
+    "reference": "Shelley uses nested narratives: Walton's letters frame Victor's story, which in turn frames the creature's own account. This creates layers of perspective and raises questions about the reliability of each narrator."
+  },
+  {
+    "id": "clf_qa_084",
+    "book": "frankenstein",
+    "question": "What is the significance of the Arctic setting?",
+    "reference": "The Arctic represents the extreme of human ambition and isolation. Both Walton and Victor pursue their goals to the ends of the earth, and the desolate frozen landscape mirrors the emotional wasteland their obsessions create."
+  },
+  {
+    "id": "clf_qa_085",
+    "book": "frankenstein",
+    "question": "How does Victor's obsession affect his health?",
+    "reference": "Victor's obsessive work causes severe physical and mental deterioration. He neglects sleep, food, and social contact during the creation process, and suffers repeated nervous breakdowns and fevers throughout the novel."
+  },
+  {
+    "id": "clf_qa_086",
+    "book": "frankenstein",
+    "question": "What warning does Victor give Walton?",
+    "reference": "Victor warns Walton against pursuing ambition at the cost of everything else, telling him to learn from his tragic example. He urges Walton to seek happiness in tranquility and avoid the path of obsessive discovery."
+  },
+  {
+    "id": "clf_qa_087",
+    "book": "frankenstein",
+    "question": "How does the novel explore the theme of isolation?",
+    "reference": "Isolation pervades the novel: Victor isolates himself during creation, the creature is isolated by its appearance, and both end up alone in the Arctic. Social connection and its absence drive the central tragedy."
+  },
+  {
+    "id": "clf_qa_088",
+    "book": "frankenstein",
+    "question": "What is the relationship between Victor and Elizabeth?",
+    "reference": "Elizabeth Lavenza is Victor's adopted cousin and later his wife. They are raised together as siblings and are betrothed from childhood. Their relationship represents the domestic happiness that Victor sacrifices for his ambition."
+  },
+  {
+    "id": "clf_qa_089",
+    "book": "frankenstein",
+    "question": "Why does the creature feel sympathy for the De Laceys?",
+    "reference": "The creature observes the De Laceys' poverty and their loving family bonds. It secretly gathers firewood for them and feels deep empathy for their suffering, hoping to eventually join their family."
+  },
+  {
+    "id": "clf_qa_090",
+    "book": "frankenstein",
+    "question": "What materials does Victor use to create the creature?",
+    "reference": "Victor collects body parts from charnel houses, dissecting rooms, and slaughterhouses. He assembles these remains into a being of large stature, choosing oversized parts for easier manipulation."
+  },
+  {
+    "id": "clf_qa_091",
+    "book": "frankenstein",
+    "question": "How does Professor Krempe differ from Professor Waldman?",
+    "reference": "Krempe is blunt and dismissive, mocking Victor's interest in outdated alchemists. Waldman is more diplomatic and encouraging, acknowledging the value of earlier natural philosophers while directing Victor toward modern chemistry."
+  },
+  {
+    "id": "clf_qa_092",
+    "book": "frankenstein",
+    "question": "What is Victor's family background?",
+    "reference": "Victor comes from a wealthy and respected Genevan family. His father Alphonse is a distinguished public servant, and the family enjoys a comfortable and loving home life in Geneva."
+  },
+  {
+    "id": "clf_qa_093",
+    "book": "frankenstein",
+    "question": "What motivates Victor to create life?",
+    "reference": "Victor is driven by a desire to overcome death and earn glory through scientific achievement. He wants to discover the secret of life and create a new species that would bless him as its creator."
+  },
+  {
+    "id": "clf_qa_094",
+    "book": "frankenstein",
+    "question": "How does the creature describe its first days of consciousness?",
+    "reference": "The creature describes confused sensory experiences with light, warmth, hunger, and cold. It gradually learns to distinguish its senses, find food, and understand fire, much like an infant rapidly developing awareness."
+  },
+  {
+    "id": "clf_qa_095",
+    "book": "frankenstein",
+    "question": "What year was Frankenstein published?",
+    "reference": "Frankenstein was first published anonymously in 1818. A revised edition with Mary Shelley named as author was published in 1831 with significant changes to the text."
+  },
+  {
+    "id": "clf_qa_096",
+    "book": "frankenstein",
+    "question": "How does the novel reflect Romantic era concerns about science?",
+    "reference": "The novel captures Romantic-era anxieties about unchecked scientific progress, the dangers of playing God, and the conflict between rational inquiry and natural emotional bonds. It questions whether knowledge without wisdom leads to destruction."
+  },
+  {
+    "id": "clf_qa_097",
+    "book": "frankenstein",
+    "question": "What is the significance of Mont Blanc in the story?",
+    "reference": "Mont Blanc represents the sublime power of nature. Victor visits it seeking peace, and it is where the creature confronts him. The mountain's grandeur highlights human insignificance against nature's forces."
+  },
+  {
+    "id": "clf_qa_098",
+    "book": "frankenstein",
+    "question": "How does the creature's appearance affect its experiences?",
+    "reference": "The creature's hideous appearance causes universal rejection. Despite its intelligence and sensitivity, every human who sees it reacts with terror and violence, denying it any chance of companionship or acceptance."
+  },
+  {
+    "id": "clf_qa_099",
+    "book": "frankenstein",
+    "question": "What parallel exists between Victor and the creature?",
+    "reference": "Both creator and creation become increasingly isolated and consumed by vengeance. Victor created the creature and abandoned it; the creature, rejected and alone, mirrors Victor's obsessiveness by dedicating itself to destroying its creator."
+  },
+  {
+    "id": "clf_qa_100",
+    "book": "frankenstein",
+    "question": "How does Walton's ambition mirror Victor's?",
+    "reference": "Walton's determination to reach the North Pole despite danger parallels Victor's obsessive pursuit of creation. Both risk everything for glory and knowledge, and Victor's cautionary tale ultimately persuades Walton to turn back."
+  },
+  {
+    "id": "clf_qa_101",
+    "book": "frankenstein",
+    "question": "What does the creature want most from humanity?",
+    "reference": "The creature wants acceptance, companionship, and love above all else. Its violent acts stem from the pain of universal rejection rather than inherent malice."
+  },
+  {
+    "id": "clf_qa_102",
+    "book": "frankenstein",
+    "question": "How does Elizabeth's death affect Victor?",
+    "reference": "Elizabeth's death devastates Victor and becomes the final catalyst for his obsessive pursuit of the creature. It also kills his father Alphonse, who dies of grief, leaving Victor utterly alone."
+  },
+  {
+    "id": "clf_qa_103",
+    "book": "frankenstein",
+    "question": "What is the significance of the creature reading Paradise Lost?",
+    "reference": "Paradise Lost gives the creature a framework for understanding its situation. It sees itself as both Adam, abandoned by its creator, and Satan, cast out and driven to evil by rejection and despair."
+  },
+  {
+    "id": "clf_qa_104",
+    "book": "frankenstein",
+    "question": "How does Alphonse Frankenstein die?",
+    "reference": "Alphonse Frankenstein dies of grief and shock after learning of Elizabeth's murder on her wedding night. The accumulated losses of William, Justine, and Elizabeth prove too much for the elderly man."
+  },
+  {
+    "id": "clf_qa_105",
+    "book": "frankenstein",
+    "question": "What does the creature promise at the end of the novel?",
+    "reference": "The creature promises to destroy itself on a funeral pyre at the North Pole. It declares that it will collect its own wood, burn itself, and its ashes will be scattered so no one can create another being like it."
+  },
+  {
+    "id": "clf_qa_106",
+    "book": "frankenstein",
+    "question": "How is the theme of responsibility explored?",
+    "reference": "The novel explores responsibility through Victor's refusal to care for his creation. His abandonment of the creature and failure to warn others about it lead directly to every death in the story."
+  },
+  {
+    "id": "clf_qa_107",
+    "book": "frankenstein",
+    "question": "What is the creature's relationship with the natural world?",
+    "reference": "The creature finds solace in nature, enjoying moonlight, birdsong, and the beauty of spring. Nature provides its only comfort in a world that rejects it, contrasting with the human cruelty it encounters."
+  },
+  {
+    "id": "clf_qa_108",
+    "book": "frankenstein",
+    "question": "How does Geneva serve as a setting in the novel?",
+    "reference": "Geneva represents the Frankenstein family's domestic happiness and civilization. It contrasts with the wild Alpine landscapes and the desolate Arctic, serving as the home Victor keeps trying and failing to return to."
+  },
+  {
+    "id": "clf_qa_109",
+    "book": "frankenstein",
+    "question": "What does Victor study before turning to modern science?",
+    "reference": "Victor studies the works of medieval alchemists including Cornelius Agrippa, Paracelsus, and Albertus Magnus. These outdated texts fuel his fascination with the elixir of life and the philosopher's stone."
+  },
+  {
+    "id": "clf_qa_110",
+    "book": "frankenstein",
+    "question": "How does Justine's trial reflect on society?",
+    "reference": "Justine's trial exposes the failures of the justice system, as circumstantial evidence and a coerced confession lead to the execution of an innocent woman. It demonstrates how society punishes the vulnerable while the truly guilty go free."
+  },
+  {
+    "id": "clf_qa_111",
+    "book": "frankenstein",
+    "question": "What is the creature's reaction to seeing its own reflection?",
+    "reference": "The creature sees its reflection in a pool of water and is filled with despair and self-loathing. This moment of recognition confirms that its outward appearance will forever prevent acceptance by humanity."
+  },
+  {
+    "id": "clf_qa_112",
+    "book": "frankenstein",
+    "question": "How does the novel portray the dangers of unchecked ambition?",
+    "reference": "Victor's unchecked ambition leads to the creation of a being he cannot control and the destruction of everyone he loves. The novel argues that ambition without ethical consideration and responsibility leads to catastrophe."
+  },
+  {
+    "id": "clf_qa_113",
+    "book": "frankenstein",
+    "question": "What circumstances led Mary Shelley to write Frankenstein?",
+    "reference": "Mary Shelley conceived Frankenstein during the summer of 1816 at Lake Geneva, where she, Percy Shelley, Lord Byron, and John Polidori challenged each other to write ghost stories during a period of unusually cold and stormy weather."
+  },
+  {
+    "id": "clf_qa_114",
+    "book": "frankenstein",
+    "question": "How does the creature plan to end its own existence?",
+    "reference": "The creature plans to build a funeral pyre at the northernmost point of the globe and immolate itself, ensuring that its remains are completely destroyed so that no curious scientist could recreate such a being."
+  },
+  {
+    "id": "clf_qa_115",
+    "book": "frankenstein",
+    "question": "What role does guilt play in Victor's character arc?",
+    "reference": "Guilt is a constant burden for Victor after William's death and Justine's execution. However, his guilt never leads to responsible action; instead it manifests as illness, self-pity, and ultimately a destructive quest for revenge."
+  },
+  {
+    "id": "clf_qa_116",
+    "book": "frankenstein",
+    "question": "How does the creature compare itself to Adam and Satan?",
+    "reference": "The creature compares itself to Adam as a being created and then abandoned by its maker, and to Satan as an outcast driven to evil by rejection. It ultimately identifies more with Satan, saying it too has been cast out of paradise."
+  },
+  {
+    "id": "clf_qa_117",
+    "book": "frankenstein",
+    "question": "What is the significance of light and darkness imagery in the novel?",
+    "reference": "Light represents knowledge and discovery, while darkness represents ignorance and the unknown. Victor's pursuit of the spark of life and the creature's education both involve emerging from darkness into understanding."
+  },
+  {
+    "id": "clf_qa_118",
+    "book": "frankenstein",
+    "question": "How does the novel question what it means to be human?",
+    "reference": "The creature possesses intelligence, emotions, and moral sense yet is denied humanity because of its appearance. The novel challenges readers to consider whether humanity lies in physical form or in qualities like compassion and reason."
+  },
+  {
+    "id": "clf_qa_119",
+    "book": "frankenstein",
+    "question": "What happens when the creature reveals itself to the De Laceys?",
+    "reference": "The creature approaches the blind father De Lacey and has a brief, kind conversation. But when Felix, Agatha, and Safie return and see the creature, Felix attacks it violently and the family flees, never returning."
+  },
+  {
+    "id": "clf_qa_120",
+    "book": "frankenstein",
+    "question": "How does the novel use multiple narrative layers?",
+    "reference": "The novel has three nested narratives: Walton's letters contain Victor's story, which contains the creature's story. Each narrator adds perspective and unreliability, leaving readers to judge the truth for themselves."
+  },
+  {
+    "id": "clf_qa_121",
+    "book": "moby_dick",
+    "question": "What is the name of the narrator of Moby Dick?",
+    "reference": "The narrator introduces himself as Ishmael with the famous opening line Call me Ishmael. He is a schoolteacher and occasional sailor who signs aboard the Pequod for a whaling voyage."
+  },
+  {
+    "id": "clf_qa_122",
+    "book": "moby_dick",
+    "question": "What is Captain Ahab's obsession?",
+    "reference": "Captain Ahab is obsessed with hunting and killing Moby Dick, the great white sperm whale that bit off his leg on a previous voyage. This obsession drives him to risk his ship and crew."
+  },
+  {
+    "id": "clf_qa_123",
+    "book": "moby_dick",
+    "question": "Where does the Pequod depart from?",
+    "reference": "The Pequod departs from the whaling port of Nantucket, Massachusetts. Nantucket was historically the center of the American whaling industry."
+  },
+  {
+    "id": "clf_qa_124",
+    "book": "moby_dick",
+    "question": "What is Queequeg's occupation before joining the Pequod?",
+    "reference": "Queequeg is a harpooner and the son of a chief from the fictional Pacific island of Rokovoko. He left his island to explore the Christian world and became an experienced whaler."
+  },
+  {
+    "id": "clf_qa_125",
+    "book": "moby_dick",
+    "question": "How does Ishmael first meet Queequeg?",
+    "reference": "Ishmael meets Queequeg at the Spouter Inn in New Bedford, where they are forced to share a bed. Despite initial fright at Queequeg's tattooed appearance and idol worship, they quickly become close friends."
+  },
+  {
+    "id": "clf_qa_126",
+    "book": "moby_dick",
+    "question": "What is the Spouter Inn?",
+    "reference": "The Spouter Inn is the cheap boarding house in New Bedford where Ishmael stays before sailing to Nantucket. It is run by Peter Coffin and decorated with whaling artifacts and a mysterious dark oil painting."
+  },
+  {
+    "id": "clf_qa_127",
+    "book": "moby_dick",
+    "question": "Who is Father Mapple and what is his sermon about?",
+    "reference": "Father Mapple is a former whaler turned preacher who delivers a sermon about Jonah and the whale at the Whaleman's Chapel in New Bedford. His sermon explores themes of sin, repentance, and obedience to God."
+  },
+  {
+    "id": "clf_qa_128",
+    "book": "moby_dick",
+    "question": "What does Starbuck think of Ahab's quest?",
+    "reference": "Starbuck, the first mate, opposes Ahab's quest as blasphemous and commercially irresponsible madness. He believes in prudent whaling for profit and sees Ahab's vengeance against a dumb brute as insanity."
+  },
+  {
+    "id": "clf_qa_129",
+    "book": "moby_dick",
+    "question": "How does Stubb differ from Starbuck in personality?",
+    "reference": "Stubb is easygoing, humorous, and fatalistic, taking life as it comes and smoking his pipe through danger. Starbuck is serious, moral, and cautious. Stubb accepts Ahab's quest with a shrug while Starbuck agonizes over it."
+  },
+  {
+    "id": "clf_qa_130",
+    "book": "moby_dick",
+    "question": "What is Flask's role on the ship?",
+    "reference": "Flask is the third mate of the Pequod, a short and pugnacious man from Martha's Vineyard. He views whales as personal enemies deserving destruction and approaches whaling with aggressive enthusiasm."
+  },
+  {
+    "id": "clf_qa_131",
+    "book": "moby_dick",
+    "question": "Who are the harpooneers on the Pequod?",
+    "reference": "The three harpooneers are Queequeg, a Polynesian from Rokovoko; Tashtego, a Native American from Gay Head; and Daggoo, a tall African. Each serves a different mate and represents different non-Western cultures."
+  },
+  {
+    "id": "clf_qa_132",
+    "book": "moby_dick",
+    "question": "What is the significance of the Town-Ho's story?",
+    "reference": "The Town-Ho's story is an interpolated tale about a crew's encounter with Moby Dick, told by Ishmael in a Lima bar. It suggests that Moby Dick acts as an agent of divine justice, punishing the wicked mate Radney."
+  },
+  {
+    "id": "clf_qa_133",
+    "book": "moby_dick",
+    "question": "How does the novel describe the whaling industry?",
+    "reference": "The novel provides encyclopedic detail about every aspect of whaling: the hunt, the killing, the butchering, the rendering of oil in try-works, and the economics. Melville presents whaling as both heroic industry and brutal slaughter."
+  },
+  {
+    "id": "clf_qa_134",
+    "book": "moby_dick",
+    "question": "What happens during the first lowering for whales?",
+    "reference": "During the first lowering, Ahab reveals his secret crew led by Fedallah, who had been hidden below decks. The boats are launched and the crew gets their first taste of the dangerous reality of whale hunting."
+  },
+  {
+    "id": "clf_qa_135",
+    "book": "moby_dick",
+    "question": "Who is Fedallah and what is his role?",
+    "reference": "Fedallah is a mysterious Parsee harpooner whom Ahab smuggled aboard the Pequod. He serves as Ahab's personal harpooner and shadowy advisor, and makes cryptic prophecies about Ahab's death."
+  },
+  {
+    "id": "clf_qa_136",
+    "book": "moby_dick",
+    "question": "What does the whiteness of the whale symbolize?",
+    "reference": "In the chapter The Whiteness of the Whale, Ishmael meditates on how whiteness can signify both purity and terror, the void, and the unknowable. Moby Dick's whiteness represents the inscrutable and terrifying nature of existence."
+  },
+  {
+    "id": "clf_qa_137",
+    "book": "moby_dick",
+    "question": "How does Melville use cetology chapters in the narrative?",
+    "reference": "The cetology chapters classify and describe different whale species in pseudo-scientific detail. They serve to elevate whaling to a subject worthy of epic literature and provide philosophical digressions on knowledge and classification."
+  },
+  {
+    "id": "clf_qa_138",
+    "book": "moby_dick",
+    "question": "What is the significance of the doubloon nailed to the mast?",
+    "reference": "Ahab nails a gold doubloon to the mast as a reward for whoever first spots Moby Dick. Various crew members interpret the coin's markings differently, revealing their own characters and philosophies."
+  },
+  {
+    "id": "clf_qa_139",
+    "book": "moby_dick",
+    "question": "How does Pip's experience in the ocean change him?",
+    "reference": "Pip jumps from a whaleboat and is left floating alone in the vast ocean. Though eventually rescued, the experience of infinite solitude drives him mad, giving him a kind of prophetic wisdom in his insanity."
+  },
+  {
+    "id": "clf_qa_140",
+    "book": "moby_dick",
+    "question": "What prophecy does Fedallah make about Ahab's death?",
+    "reference": "Fedallah prophesies that Ahab will see two hearses at sea before dying, that only hemp can kill him, and that Fedallah himself will precede Ahab in death. All three prophecies come true in unexpected ways."
+  },
+  {
+    "id": "clf_qa_141",
+    "book": "moby_dick",
+    "question": "How does the Pequod encounter the Rachel?",
+    "reference": "The Rachel's captain begs Ahab to help search for his missing son, lost during an encounter with Moby Dick. Ahab heartlessly refuses, pressing on in his single-minded pursuit of the white whale."
+  },
+  {
+    "id": "clf_qa_142",
+    "book": "moby_dick",
+    "question": "What is Queequeg's coffin made into?",
+    "reference": "When Queequeg recovers from a severe illness, his unused coffin is caulked, sealed, and converted into a replacement life buoy for the Pequod. It ultimately saves Ishmael's life after the ship sinks."
+  },
+  {
+    "id": "clf_qa_143",
+    "book": "moby_dick",
+    "question": "How does Ahab die?",
+    "reference": "Ahab is killed by his own harpoon line during the final chase. As Moby Dick dives, the line catches around Ahab's neck and drags him into the sea, fulfilling Fedallah's prophecy about hemp."
+  },
+  {
+    "id": "clf_qa_144",
+    "book": "moby_dick",
+    "question": "What happens to the Pequod in the final chase?",
+    "reference": "Moby Dick rams and sinks the Pequod on the third day of the chase. The ship goes down in a vortex, taking the entire crew to their deaths. Only Ishmael survives."
+  },
+  {
+    "id": "clf_qa_145",
+    "book": "moby_dick",
+    "question": "How is Ishmael rescued after the sinking?",
+    "reference": "Ishmael survives by clinging to Queequeg's coffin-turned-life buoy, which pops up from the vortex. He floats for a day and night before being picked up by the Rachel, still searching for her missing crew."
+  },
+  {
+    "id": "clf_qa_146",
+    "book": "moby_dick",
+    "question": "What is the relationship between Ishmael and Queequeg?",
+    "reference": "Ishmael and Queequeg develop a deep friendship that transcends cultural differences. They become bosom friends after sharing a bed at the Spouter Inn, and Queequeg even performs a ritual making them blood brothers."
+  },
+  {
+    "id": "clf_qa_147",
+    "book": "moby_dick",
+    "question": "How does Melville explore the theme of fate versus free will?",
+    "reference": "The novel questions whether Ahab's pursuit is freely chosen or fated. Ahab himself struggles with this, sometimes claiming he is driven by an irresistible force while other times asserting his own will against the universe."
+  },
+  {
+    "id": "clf_qa_148",
+    "book": "moby_dick",
+    "question": "What does the Pequod symbolize?",
+    "reference": "The Pequod symbolizes the world in miniature, with its diverse crew representing all races and nations. Named after the extinct Pequot tribe, the ship also foreshadows its own destruction."
+  },
+  {
+    "id": "clf_qa_149",
+    "book": "moby_dick",
+    "question": "What year was Moby Dick published?",
+    "reference": "Moby Dick was first published in 1851. It was initially a commercial failure and received mixed reviews, only being recognized as a masterpiece of American literature decades after Melville's death."
+  },
+  {
+    "id": "clf_qa_150",
+    "book": "moby_dick",
+    "question": "How does Ahab's leg affect the crew's morale?",
+    "reference": "Ahab's ivory leg serves as a constant visible reminder of his encounter with Moby Dick and his consuming need for vengeance. It both inspires sympathy and fear in the crew, who sense his dangerous obsession."
+  },
+  {
+    "id": "clf_qa_151",
+    "book": "moby_dick",
+    "question": "What is the try-works scene about?",
+    "reference": "The try-works scene describes the rendering of whale blubber into oil in large brick furnaces on deck. The hellish red glow of the fires at night creates an infernal atmosphere that Ishmael compares to a vision of damnation."
+  },
+  {
+    "id": "clf_qa_152",
+    "book": "moby_dick",
+    "question": "How does the novel portray the relationship between man and nature?",
+    "reference": "The novel portrays nature as vast, indifferent, and ultimately unconquerable. Ahab's attempt to impose his will on nature through the whale ends in total destruction, suggesting the folly of human hubris against natural forces."
+  },
+  {
+    "id": "clf_qa_153",
+    "book": "moby_dick",
+    "question": "What is the Jeroboam's warning to the Pequod?",
+    "reference": "The Jeroboam's crew warns the Pequod about Moby Dick. Their fanatical crewman Gabriel considers the white whale a divine incarnation and prophesies doom for anyone who hunts it, which Ahab dismisses."
+  },
+  {
+    "id": "clf_qa_154",
+    "book": "moby_dick",
+    "question": "How does Melville describe the different types of whales?",
+    "reference": "Melville devotes several chapters to classifying whales by size into folios, octavos, and duodecimos, mimicking the format of a library. He describes sperm whales, right whales, and others with both scientific and literary detail."
+  },
+  {
+    "id": "clf_qa_155",
+    "book": "moby_dick",
+    "question": "What religious themes appear in the novel?",
+    "reference": "The novel is rich with biblical allusions including Jonah, Job, and Revelation. Characters named Ishmael, Ahab, Elijah, and Gabriel evoke Old Testament archetypes of outcasts, tyrants, prophets, and divine messengers."
+  },
+  {
+    "id": "clf_qa_156",
+    "book": "moby_dick",
+    "question": "How does Ahab manipulate his crew?",
+    "reference": "Ahab uses charisma, the gold doubloon reward, ritualistic oaths, and sheer force of personality to bend the crew to his will. He exploits their superstitions and gradually converts a commercial voyage into a personal vendetta."
+  },
+  {
+    "id": "clf_qa_157",
+    "book": "moby_dick",
+    "question": "What is the significance of the carpenter on the Pequod?",
+    "reference": "The carpenter is a skilled craftsman who makes Ahab's ivory leg and Queequeg's coffin. He represents pragmatic humanity, unconcerned with philosophy, simply solving practical problems amid the voyage's growing madness."
+  },
+  {
+    "id": "clf_qa_158",
+    "book": "moby_dick",
+    "question": "How does Starbuck almost kill Ahab?",
+    "reference": "Starbuck stands over a sleeping Ahab with a loaded musket, contemplating killing him to save the crew from his suicidal quest. He ultimately cannot bring himself to commit murder and walks away, sealing the crew's fate."
+  },
+  {
+    "id": "clf_qa_159",
+    "book": "moby_dick",
+    "question": "What does Ishmael say about the sea at the beginning of the novel?",
+    "reference": "Ishmael describes the sea as a remedy for his melancholy, explaining that whenever he feels grim and depressed, he takes to the sea instead of more drastic measures. The ocean represents freedom and renewal."
+  },
+  {
+    "id": "clf_qa_160",
+    "book": "moby_dick",
+    "question": "How does the novel use digressions and encyclopedic chapters?",
+    "reference": "The novel frequently pauses its narrative for extended essays on whale anatomy, whaling techniques, art, philosophy, and natural history. These digressions expand the novel's scope from adventure story to meditation on existence itself."
+  },
+  {
+    "id": "clf_qa_161",
+    "book": "moby_dick",
+    "question": "What happens during the three-day chase of Moby Dick?",
+    "reference": "Day one: Moby Dick destroys Ahab's boat. Day two: the whale smashes more boats and Fedallah is killed. Day three: Moby Dick rams and sinks the Pequod itself, and Ahab is dragged to his death by his own harpoon line."
+  },
+  {
+    "id": "clf_qa_162",
+    "book": "moby_dick",
+    "question": "What is Ahab's relationship with his family?",
+    "reference": "Ahab has a young wife and infant son in Nantucket whom he left behind. In a rare moment of vulnerability, he tells Starbuck he has spent only three years ashore in forty years of whaling."
+  },
+  {
+    "id": "clf_qa_163",
+    "book": "moby_dick",
+    "question": "How does the Epilogue function in the novel?",
+    "reference": "The brief Epilogue explains how Ishmael alone survived to tell the tale. It describes him floating on Queequeg's coffin and being rescued by the Rachel, providing closure to the narrative."
+  },
+  {
+    "id": "clf_qa_164",
+    "book": "moby_dick",
+    "question": "What is the Nantucket Quaker tradition in the novel?",
+    "reference": "Many of Nantucket's whaling captains were Quakers, including the Pequod's owners Bildad and Peleg. Their pacifist faith contrasts ironically with the violent profession of whaling."
+  },
+  {
+    "id": "clf_qa_165",
+    "book": "moby_dick",
+    "question": "How does Melville portray the diversity of the Pequod's crew?",
+    "reference": "The crew includes Americans, Pacific Islanders, Africans, Native Americans, and Europeans of various backgrounds. Melville uses this diversity to represent humanity as a whole aboard the ship."
+  },
+  {
+    "id": "clf_qa_166",
+    "book": "moby_dick",
+    "question": "What role does superstition play on the Pequod?",
+    "reference": "Superstition pervades the voyage. Elijah warns Ishmael before departure, the crew interprets omens in the doubloon and weather, and Fedallah's prophecies guide Ahab's expectations about his fate."
+  },
+  {
+    "id": "clf_qa_167",
+    "book": "moby_dick",
+    "question": "How does the character of Bulkington serve the narrative?",
+    "reference": "Bulkington appears briefly as a sailor who immediately returns to sea after a long voyage. He represents the restless human spirit that prefers the dangers of the open sea to the safety of shore."
+  },
+  {
+    "id": "clf_qa_168",
+    "book": "moby_dick",
+    "question": "What philosophical questions does the novel raise about evil?",
+    "reference": "The novel questions whether evil exists in nature or only in human perception. Ahab projects malice onto the whale, while Starbuck sees it as a dumb animal. The novel leaves open whether Moby Dick embodies cosmic evil or human projection."
+  },
+  {
+    "id": "clf_qa_169",
+    "book": "moby_dick",
+    "question": "How does Melville describe the physical appearance of Moby Dick?",
+    "reference": "Moby Dick is described as an enormous white sperm whale with a wrinkled forehead, a crooked jaw, and numerous harpoons and lines embedded from previous encounters. His whiteness and size make him unmistakable."
+  },
+  {
+    "id": "clf_qa_170",
+    "book": "moby_dick",
+    "question": "What is the significance of the ship names in the novel?",
+    "reference": "Ship names carry symbolic meaning. The Pequod is named after an extinct Native American tribe, foreshadowing doom. The Rachel searches for lost children. The Jeroboam carries a false prophet. The Bachelor celebrates ignorant bliss."
+  },
+  {
+    "id": "clf_qa_171",
+    "book": "moby_dick",
+    "question": "How does the novel end for Ishmael?",
+    "reference": "Ishmael is the sole survivor, floating on Queequeg's coffin-life buoy for a day and night in the open ocean before being rescued by the Rachel. He lives to tell the story of the Pequod's destruction."
+  },
+  {
+    "id": "clf_qa_172",
+    "book": "moby_dick",
+    "question": "What is the role of Tashtego in the story?",
+    "reference": "Tashtego is a Gay Head Native American harpooner who serves under Stubb. In the final scene, he is nailing a flag to the sinking mast when a sky-hawk is caught between hammer and mast, going down with the ship."
+  },
+  {
+    "id": "clf_qa_173",
+    "book": "moby_dick",
+    "question": "How does the chapter on the whiteness of the whale function?",
+    "reference": "This philosophical chapter explores why whiteness terrifies rather than comforts. Ishmael argues that whiteness represents the void behind appearances, the colorless all-color that hints at the meaninglessness underlying nature."
+  },
+  {
+    "id": "clf_qa_174",
+    "book": "moby_dick",
+    "question": "What does Ahab's ivory leg represent?",
+    "reference": "Ahab's ivory leg, carved from whale bone, represents his disfigurement and his connection to the whale that maimed him. It is both a practical replacement and a constant reminder of his unresolved conflict with Moby Dick."
+  },
+  {
+    "id": "clf_qa_175",
+    "book": "moby_dick",
+    "question": "How does the novel critique American capitalism?",
+    "reference": "The novel critiques capitalism through the exploitative structure of the whaling industry, where owners like Bildad profit while sailors risk their lives for tiny shares. The Pequod's commercial voyage is hijacked by one man's obsession."
+  },
+  {
+    "id": "clf_qa_176",
+    "book": "moby_dick",
+    "question": "What literary style does Melville employ in Moby Dick?",
+    "reference": "Melville employs a mix of styles including Shakespearean dramatic soliloquies, encyclopedic essays, biblical rhetoric, lyrical prose, and journalistic reporting. The novel defies genre classification."
+  },
+  {
+    "id": "clf_qa_177",
+    "book": "moby_dick",
+    "question": "How does Queequeg's religion contrast with Christianity in the novel?",
+    "reference": "Queequeg worships a small idol called Yojo and practices rituals foreign to Ishmael. Yet Melville portrays Queequeg as more genuinely moral and compassionate than many Christians in the novel, challenging religious prejudice."
+  },
+  {
+    "id": "clf_qa_178",
+    "book": "moby_dick",
+    "question": "What is the Bachelor and how does it contrast with the Pequod?",
+    "reference": "The Bachelor is a homeward-bound whaling ship full of oil and celebrating a successful voyage. Its joyful crew contrasts sharply with the Pequod's doom-laden atmosphere, and its captain dismisses Moby Dick as a myth."
+  },
+  {
+    "id": "clf_qa_179",
+    "book": "moby_dick",
+    "question": "How does Ishmael's perspective shift throughout the novel?",
+    "reference": "Ishmael begins as the central character and narrator but gradually recedes into the background as Ahab's drama takes over. He shifts from participant to philosophical observer, commenting on events from an increasingly detached perspective."
+  },
+  {
+    "id": "clf_qa_180",
+    "book": "moby_dick",
+    "question": "What does the ocean represent in Moby Dick?",
+    "reference": "The ocean represents the vast unknown, both external and internal. It is a space of freedom and danger, beauty and terror, reflecting the novel's themes of human insignificance against the immensity of nature and existence."
+  },
+  {
+    "id": "clf_qa_181",
+    "book": "pride_and_prejudice",
+    "question": "What is the name of the Bennet family estate?",
+    "reference": "The Bennet family lives at Longbourn, a modest estate in Hertfordshire. Because it is entailed to Mr. Collins, the Bennet daughters cannot inherit it."
+  },
+  {
+    "id": "clf_qa_182",
+    "book": "pride_and_prejudice",
+    "question": "Who is the first to marry among the Bennet sisters?",
+    "reference": "Lydia is the first Bennet sister to marry, eloping with Wickham. Their hasty marriage is arranged by Darcy to save the family from scandal, though Lydia is the youngest sister."
+  },
+  {
+    "id": "clf_qa_183",
+    "book": "pride_and_prejudice",
+    "question": "What is Lady Catherine de Bourgh's relationship to Darcy?",
+    "reference": "Lady Catherine de Bourgh is Darcy's aunt, his mother's sister. She expects Darcy to marry her daughter Anne and is outraged when she learns of his interest in Elizabeth Bennet."
+  },
+  {
+    "id": "clf_qa_184",
+    "book": "pride_and_prejudice",
+    "question": "Where does Bingley rent a house?",
+    "reference": "Bingley rents Netherfield Park, a large estate near the Bennets' home of Longbourn in Hertfordshire. His arrival excites the neighborhood as he is seen as a desirable match."
+  },
+  {
+    "id": "clf_qa_185",
+    "book": "pride_and_prejudice",
+    "question": "How does Mrs. Bennet react to Lydia's elopement?",
+    "reference": "Mrs. Bennet is initially hysterical with worry about the scandal, taking to her bed and lamenting the family's ruin. She later becomes ecstatic when the marriage is arranged, showing no concern about its impropriety."
+  },
+  {
+    "id": "clf_qa_186",
+    "book": "pride_and_prejudice",
+    "question": "What is Mr. Collins's profession?",
+    "reference": "Mr. Collins is a clergyman, the rector of Hunsford parish in Kent. His living was given to him by his patroness Lady Catherine de Bourgh, to whom he is excessively grateful and obsequious."
+  },
+  {
+    "id": "clf_qa_187",
+    "book": "pride_and_prejudice",
+    "question": "Why does Elizabeth reject Darcy's first proposal?",
+    "reference": "Elizabeth rejects Darcy because of his pride and insulting manner of proposing, his interference in separating Jane and Bingley, and her belief in Wickham's false account of Darcy's cruelty."
+  },
+  {
+    "id": "clf_qa_188",
+    "book": "pride_and_prejudice",
+    "question": "What does Darcy's letter reveal about Wickham?",
+    "reference": "Darcy's letter reveals that Wickham is dishonest and profligate, having squandered his inheritance and attempted to elope with Darcy's fifteen-year-old sister Georgiana for her fortune of thirty thousand pounds."
+  },
+  {
+    "id": "clf_qa_189",
+    "book": "pride_and_prejudice",
+    "question": "How does Elizabeth's opinion of Darcy change?",
+    "reference": "Elizabeth's opinion shifts after reading Darcy's letter, which corrects her misconceptions about Wickham and explains his interference with Bingley. Her visit to Pemberley and his changed behavior further transform her feelings."
+  },
+  {
+    "id": "clf_qa_190",
+    "book": "pride_and_prejudice",
+    "question": "What is the significance of Pemberley?",
+    "reference": "Pemberley is Darcy's grand estate in Derbyshire. Elizabeth's visit there reveals a warmer side of Darcy through his housekeeper's praise, and the estate's beauty and taste help her see him in a new light."
+  },
+  {
+    "id": "clf_qa_191",
+    "book": "pride_and_prejudice",
+    "question": "How does Jane react to Bingley leaving Netherfield?",
+    "reference": "Jane is deeply hurt but conceals her pain with composure. She visits London hoping to see Bingley but is snubbed by his sister Caroline, leading her to accept that the relationship may be over."
+  },
+  {
+    "id": "clf_qa_192",
+    "book": "pride_and_prejudice",
+    "question": "What role does Mr. Gardiner play in the story?",
+    "reference": "Mr. Gardiner is Mrs. Bennet's brother, a sensible and gentlemanly London tradesman. He helps resolve the Wickham-Lydia crisis and his respectability impresses Darcy, contradicting class prejudices."
+  },
+  {
+    "id": "clf_qa_193",
+    "book": "pride_and_prejudice",
+    "question": "How does Lydia's behavior embarrass the family?",
+    "reference": "Lydia is loud, flirtatious, and obsessed with officers. Her elopement with Wickham before marriage threatens the entire family's reputation and could have ruined her sisters' marriage prospects."
+  },
+  {
+    "id": "clf_qa_194",
+    "book": "pride_and_prejudice",
+    "question": "What is the militia's role in the plot?",
+    "reference": "A militia regiment stationed in Meryton introduces Wickham and other officers into the Bennets' social circle. The regiment's move to Brighton, where Lydia follows, leads to her elopement with Wickham."
+  },
+  {
+    "id": "clf_qa_195",
+    "book": "pride_and_prejudice",
+    "question": "How does Caroline Bingley feel about Darcy?",
+    "reference": "Caroline Bingley is attracted to Darcy and actively tries to win his attention while disparaging Elizabeth. She is jealous of Elizabeth's hold on Darcy's interest and unsuccessfully tries to undermine her."
+  },
+  {
+    "id": "clf_qa_196",
+    "book": "pride_and_prejudice",
+    "question": "What does Lady Catherine demand of Elizabeth?",
+    "reference": "Lady Catherine demands that Elizabeth promise never to accept a proposal from Darcy, insisting that he is intended for her daughter Anne. Elizabeth firmly refuses, which ironically encourages Darcy to propose again."
+  },
+  {
+    "id": "clf_qa_197",
+    "book": "pride_and_prejudice",
+    "question": "How does Mr. Bennet respond to Collins's proposal to Elizabeth?",
+    "reference": "Mr. Bennet supports Elizabeth's refusal with dry humor, telling her that her mother will never see her again if she doesn't marry Collins, but he will never see her again if she does."
+  },
+  {
+    "id": "clf_qa_198",
+    "book": "pride_and_prejudice",
+    "question": "What is the significance of the Meryton assembly?",
+    "reference": "The Meryton assembly ball is where the Bennets first meet Bingley and Darcy. Darcy's refusal to dance with Elizabeth and his remark about her being merely tolerable sets the tone for their initial antagonism."
+  },
+  {
+    "id": "clf_qa_199",
+    "book": "pride_and_prejudice",
+    "question": "How does Georgiana Darcy's backstory affect the plot?",
+    "reference": "Georgiana's near-elopement with Wickham, revealed in Darcy's letter, proves Wickham's true character to Elizabeth. It also explains Darcy's protectiveness and his deep hostility toward Wickham."
+  },
+  {
+    "id": "clf_qa_200",
+    "book": "pride_and_prejudice",
+    "question": "What is the relationship between Charlotte Lucas and Mr. Collins?",
+    "reference": "Charlotte accepts Mr. Collins's proposal after Elizabeth rejects him. She marries for practical security rather than love, at twenty-seven with limited prospects, and makes the best of a comfortable if unromantic life at Hunsford."
+  },
+  {
+    "id": "clf_qa_201",
+    "book": "pride_and_prejudice",
+    "question": "How does Austen use irony in the novel?",
+    "reference": "Austen employs dramatic irony, where readers understand more than characters, and verbal irony through characters like Mr. Bennet and Elizabeth. The famous opening line itself is ironic, as it is the women who seek wealthy husbands."
+  },
+  {
+    "id": "clf_qa_202",
+    "book": "pride_and_prejudice",
+    "question": "What is the theme of class in Pride and Prejudice?",
+    "reference": "Class pervades every relationship and decision. Darcy initially considers Elizabeth beneath him, Lady Catherine objects to her low connections, and Charlotte marries for financial security. Austen critiques rigid class boundaries."
+  },
+  {
+    "id": "clf_qa_203",
+    "book": "pride_and_prejudice",
+    "question": "How does Wickham deceive the Bennet family?",
+    "reference": "Wickham presents himself as a wronged gentleman cheated by Darcy. His handsome appearance, charming manner, and sympathetic tale of Darcy's cruelty win over Elizabeth and the entire Meryton community."
+  },
+  {
+    "id": "clf_qa_204",
+    "book": "pride_and_prejudice",
+    "question": "What is the significance of letters in the novel?",
+    "reference": "Letters drive key plot developments: Darcy's letter transforms Elizabeth's understanding, Jane's letters reveal her suffering, and Mr. Collins's letters expose his absurdity. They also reveal character through writing style."
+  },
+  {
+    "id": "clf_qa_205",
+    "book": "pride_and_prejudice",
+    "question": "How does Mary Bennet differ from her sisters?",
+    "reference": "Mary is the middle sister, plain and bookish, who moralizes at every opportunity and practices the piano without talent. She seeks distinction through learning since she cannot compete with her sisters' beauty or charm."
+  },
+  {
+    "id": "clf_qa_206",
+    "book": "pride_and_prejudice",
+    "question": "What is Kitty Bennet's role in the story?",
+    "reference": "Kitty is the fourth sister who closely follows Lydia's lead in flirting with officers and behaving foolishly. After Lydia's disgrace, she is kept away from bad influences and improves under her elder sisters' guidance."
+  },
+  {
+    "id": "clf_qa_207",
+    "book": "pride_and_prejudice",
+    "question": "How does Darcy help resolve the Wickham-Lydia crisis?",
+    "reference": "Darcy secretly tracks down Wickham and Lydia, pays Wickham's debts and purchases him a commission, and arranges their marriage. He does this out of love for Elizabeth and a sense of responsibility for not exposing Wickham earlier."
+  },
+  {
+    "id": "clf_qa_208",
+    "book": "pride_and_prejudice",
+    "question": "What year was Pride and Prejudice published?",
+    "reference": "Pride and Prejudice was published in January 1813 by Thomas Egerton. Austen had originally written an earlier version called First Impressions in 1797."
+  },
+  {
+    "id": "clf_qa_209",
+    "book": "pride_and_prejudice",
+    "question": "How does the novel portray marriage as an economic institution?",
+    "reference": "Marriage is presented as the primary means of financial security for women. Charlotte marries Collins for stability, Wickham pursues heiresses for money, and the entail makes the Bennet daughters' marriages an economic necessity."
+  },
+  {
+    "id": "clf_qa_210",
+    "book": "pride_and_prejudice",
+    "question": "What is Elizabeth's relationship with her father?",
+    "reference": "Elizabeth is Mr. Bennet's favorite daughter and shares his intelligence and wit. Their bond is strong, though Elizabeth eventually recognizes that her father's detached amusement has been irresponsible parenting."
+  },
+  {
+    "id": "clf_qa_211",
+    "book": "pride_and_prejudice",
+    "question": "How does Darcy's pride manifest in his behavior?",
+    "reference": "Darcy's pride manifests as social aloofness, reluctance to dance with strangers, and his insulting first proposal where he dwells on Elizabeth's inferior connections. His journey involves learning to temper pride with humility."
+  },
+  {
+    "id": "clf_qa_212",
+    "book": "pride_and_prejudice",
+    "question": "What is the role of Rosings Park in the story?",
+    "reference": "Rosings Park is Lady Catherine's grand estate where Mr. Collins serves as rector. Elizabeth visits Charlotte there and encounters Darcy again, leading to his first proposal and the pivotal letter."
+  },
+  {
+    "id": "clf_qa_213",
+    "book": "pride_and_prejudice",
+    "question": "How does Mrs. Gardiner influence Elizabeth?",
+    "reference": "Mrs. Gardiner serves as a wise and sensible confidante. She warns Elizabeth about Wickham early on, suggests the Derbyshire tour that leads to Pemberley, and provides mature guidance throughout."
+  },
+  {
+    "id": "clf_qa_214",
+    "book": "pride_and_prejudice",
+    "question": "What does Elizabeth learn from visiting Pemberley?",
+    "reference": "Elizabeth learns that Darcy is respected and loved by his servants, generous as a landlord, and kind as a brother. The housekeeper's warm praise contradicts Elizabeth's negative image and opens her to reconsidering him."
+  },
+  {
+    "id": "clf_qa_215",
+    "book": "pride_and_prejudice",
+    "question": "How does Darcy's second proposal differ from the first?",
+    "reference": "Darcy's second proposal is humble and respectful, acknowledging Elizabeth's justified rejection and expressing how it taught him to examine his own behavior. It stands in stark contrast to his first arrogant attempt."
+  },
+  {
+    "id": "clf_qa_216",
+    "book": "pride_and_prejudice",
+    "question": "What is the significance of first impressions in the novel?",
+    "reference": "First impressions drive the plot as Elizabeth misjudges Darcy as proud and Wickham as charming. The novel's original title was First Impressions, highlighting how initial judgments can be dangerously wrong."
+  },
+  {
+    "id": "clf_qa_217",
+    "book": "pride_and_prejudice",
+    "question": "How does Austen satirize Mrs. Bennet?",
+    "reference": "Austen satirizes Mrs. Bennet through her nervous exclamations, single-minded obsession with marrying off her daughters, and complete lack of self-awareness. Her vulgarity and impropriety are constant sources of embarrassment."
+  },
+  {
+    "id": "clf_qa_218",
+    "book": "pride_and_prejudice",
+    "question": "What motivates Wickham's behavior throughout the novel?",
+    "reference": "Wickham is motivated by money and ease. He pursued Georgiana Darcy for her fortune, courts Mary King for her inheritance, and lives beyond his means. His charm masks a fundamentally selfish and mercenary character."
+  },
+  {
+    "id": "clf_qa_219",
+    "book": "pride_and_prejudice",
+    "question": "How does the novel explore the tension between love and duty?",
+    "reference": "Characters face conflicts between personal desire and social obligation. Elizabeth refuses Collins despite family pressure, Charlotte accepts him from duty, and Darcy must overcome class expectations to pursue Elizabeth."
+  },
+  {
+    "id": "clf_qa_220",
+    "book": "pride_and_prejudice",
+    "question": "What is the role of gossip and reputation in the story?",
+    "reference": "Gossip drives social dynamics and plot events. Wickham's false tales spread through Meryton, Lydia's elopement threatens family reputation, and public opinion shapes how characters are perceived and treated."
+  },
+  {
+    "id": "clf_qa_221",
+    "book": "pride_and_prejudice",
+    "question": "How does Elizabeth demonstrate wit and intelligence?",
+    "reference": "Elizabeth demonstrates wit through sharp verbal exchanges with Darcy, perceptive observations about people's characters, and her willingness to challenge authority figures like Lady Catherine and Darcy himself."
+  },
+  {
+    "id": "clf_qa_222",
+    "book": "pride_and_prejudice",
+    "question": "What is the original title Austen considered for the novel?",
+    "reference": "Austen originally titled the novel First Impressions when she completed an early version in 1797. The title was changed to Pride and Prejudice for the 1813 publication."
+  },
+  {
+    "id": "clf_qa_223",
+    "book": "pride_and_prejudice",
+    "question": "How does the relationship between Jane and Bingley parallel Elizabeth and Darcy?",
+    "reference": "Both couples face obstacles from class differences and outside interference. But where Jane and Bingley are gentle and straightforward, Elizabeth and Darcy must overcome strong pride and prejudice. Jane's story resolves more simply."
+  },
+  {
+    "id": "clf_qa_224",
+    "book": "pride_and_prejudice",
+    "question": "What social commentary does Austen make about women's limited options?",
+    "reference": "Austen shows that women's lives are constrained by dependence on marriage for financial security, limited education, and lack of property rights. Charlotte's pragmatic marriage and the entail illustrate these restrictions."
+  },
+  {
+    "id": "clf_qa_225",
+    "book": "pride_and_prejudice",
+    "question": "How does Mr. Bennet cope with his marriage?",
+    "reference": "Mr. Bennet copes with his disappointing marriage through ironic detachment, retreating to his library and amusing himself with his wife's absurdities. Elizabeth later recognizes this as a failure of responsibility."
+  },
+  {
+    "id": "clf_qa_226",
+    "book": "pride_and_prejudice",
+    "question": "What is the significance of Longbourn in the novel?",
+    "reference": "Longbourn represents the Bennets' modest but comfortable life that is under threat because of the entail. It contrasts with Pemberley and Rosings, highlighting class differences central to the story."
+  },
+  {
+    "id": "clf_qa_227",
+    "book": "pride_and_prejudice",
+    "question": "How does the theme of prejudice develop in Elizabeth's character?",
+    "reference": "Elizabeth's prejudice against Darcy forms at the Meryton ball and strengthens through Wickham's lies. Darcy's letter begins her self-examination, and she gradually recognizes how her prejudice blinded her judgment."
+  },
+  {
+    "id": "clf_qa_228",
+    "book": "pride_and_prejudice",
+    "question": "What role does dancing play at social events in the novel?",
+    "reference": "Dancing serves as a form of courtship and social interaction. Darcy's refusal to dance signals his pride, Bingley's enthusiasm shows his openness, and the balls provide occasions for characters to meet and interact."
+  },
+  {
+    "id": "clf_qa_229",
+    "book": "pride_and_prejudice",
+    "question": "How does Austen portray the relationship between wealth and character?",
+    "reference": "Austen shows that wealth does not guarantee good character. Darcy is wealthy and ultimately good, but Lady Catherine is wealthy and rude. Wickham is charming but dishonest. True worth comes from moral character, not income."
+  },
+  {
+    "id": "clf_qa_230",
+    "book": "pride_and_prejudice",
+    "question": "What happens at Hunsford when Darcy proposes?",
+    "reference": "Darcy proposes to Elizabeth at the Hunsford parsonage, expressing his love while simultaneously insulting her family's inferiority. Elizabeth angrily refuses, accusing him of arrogance, cruelty to Wickham, and separating Jane and Bingley."
+  },
+  {
+    "id": "clf_qa_231",
+    "book": "pride_and_prejudice",
+    "question": "How does the housekeeper Mrs. Reynolds change Elizabeth's view of Darcy?",
+    "reference": "Mrs. Reynolds speaks warmly of Darcy as a generous master and kind brother who has never spoken a cross word. Her genuine, unsolicited praise makes Elizabeth question her negative assumptions about his character."
+  },
+  {
+    "id": "clf_qa_232",
+    "book": "pride_and_prejudice",
+    "question": "What does the ending suggest about happiness in marriage?",
+    "reference": "The ending suggests that the happiest marriages combine genuine love with mutual respect and personal growth. Elizabeth and Darcy's union, built on overcoming their flaws, represents the ideal, while other marriages offer cautionary contrasts."
+  },
+  {
+    "id": "clf_qa_233",
+    "book": "pride_and_prejudice",
+    "question": "How does Austen use dialogue to reveal character?",
+    "reference": "Austen reveals character primarily through speech patterns. Mrs. Bennet's exclamations show her nerves, Collins's pompous sentences reveal his absurdity, and Elizabeth's quick wit demonstrates her intelligence and spirit."
+  },
+  {
+    "id": "clf_qa_234",
+    "book": "pride_and_prejudice",
+    "question": "What is the significance of Darcy's interference with Bingley and Jane?",
+    "reference": "Darcy persuades Bingley to leave Netherfield, believing Jane does not truly love him and that the Bennets' low connections make the match unsuitable. This interference becomes one of Elizabeth's chief grievances against Darcy."
+  },
+  {
+    "id": "clf_qa_235",
+    "book": "pride_and_prejudice",
+    "question": "How does Elizabeth's visit to Derbyshire advance the plot?",
+    "reference": "The Derbyshire visit brings Elizabeth unexpectedly to Pemberley where she encounters a changed Darcy. Seeing his home and hearing his servants' praise transforms her opinion, and the Lydia crisis that follows tests their developing connection."
+  },
+  {
+    "id": "clf_qa_236",
+    "book": "pride_and_prejudice",
+    "question": "What does Mr. Collins's letter about Lydia reveal about his character?",
+    "reference": "Collins's letter after Lydia's elopement advises Mr. Bennet to disown Lydia and moralizes about the family's disgrace. It reveals his complete lack of compassion and his concern only with appearances and Lady Catherine's opinion."
+  },
+  {
+    "id": "clf_qa_237",
+    "book": "pride_and_prejudice",
+    "question": "How does the novel balance humor with serious social critique?",
+    "reference": "Austen uses wit and comic characters like Mrs. Bennet and Mr. Collins to entertain while simultaneously exposing serious issues about women's dependence, class rigidity, and the marriage market in Regency England."
+  },
+  {
+    "id": "clf_qa_238",
+    "book": "pride_and_prejudice",
+    "question": "What role does propriety play in the characters' decisions?",
+    "reference": "Propriety governs social behavior throughout. Lydia's breach of propriety threatens the family, Charlotte sacrifices happiness for propriety, and Elizabeth's occasional impropriety, like walking through muddy fields, both scandalizes and attracts Darcy."
+  },
+  {
+    "id": "clf_qa_239",
+    "book": "pride_and_prejudice",
+    "question": "How does the ending resolve each sister's storyline?",
+    "reference": "Jane marries Bingley and lives near Pemberley, Elizabeth marries Darcy, Lydia remains reckless with Wickham, Kitty improves under her elder sisters' influence, and Mary remains at home as the only single daughter."
+  },
+  {
+    "id": "clf_qa_240",
+    "book": "pride_and_prejudice",
+    "question": "What makes Pride and Prejudice enduringly popular?",
+    "reference": "The novel endures because of its witty prose, relatable themes of love and misjudgment, compelling characters, sharp social observation, and the satisfying arc of Elizabeth and Darcy overcoming their flaws to find happiness."
+  },
+  {
+    "id": "clf_qa_241",
+    "book": "sherlock_holmes",
+    "question": "Where did Watson serve in the military?",
+    "reference": "Watson served as an army doctor in Afghanistan, where he was wounded at the Battle of Maiwand. He was struck by a Jezail bullet in the shoulder and returned to London with shattered health and a small pension."
+  },
+  {
+    "id": "clf_qa_242",
+    "book": "sherlock_holmes",
+    "question": "What is Holmes's method of reasoning called?",
+    "reference": "Holmes's method is called deductive reasoning, though it more accurately involves abductive reasoning or inference to the best explanation. He observes small details and works backward to determine their causes."
+  },
+  {
+    "id": "clf_qa_243",
+    "book": "sherlock_holmes",
+    "question": "Who is Mrs. Hudson?",
+    "reference": "Mrs. Hudson is Holmes and Watson's long-suffering landlady at 221B Baker Street. She tolerates Holmes's eccentric habits including gunshots, chemical experiments, and irregular visitors."
+  },
+  {
+    "id": "clf_qa_244",
+    "book": "sherlock_holmes",
+    "question": "What is Holmes's attitude toward physical fitness?",
+    "reference": "Holmes is a skilled boxer and single-stick player who maintains physical fitness. He is tall, lean, and capable of extraordinary physical feats when a case demands it, though he can be idle between cases."
+  },
+  {
+    "id": "clf_qa_245",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes use disguises in his work?",
+    "reference": "Holmes is a master of disguise who can convincingly transform himself into different characters including an elderly clergyman, a drunken groom, and an opium addict. He uses disguises to observe suspects undetected."
+  },
+  {
+    "id": "clf_qa_246",
+    "book": "sherlock_holmes",
+    "question": "What is the Seven Per Cent Solution a reference to?",
+    "reference": "The seven per cent solution refers to Holmes's habit of injecting a seven percent solution of cocaine when bored between cases. Watson repeatedly protests this habit as dangerous to Holmes's health."
+  },
+  {
+    "id": "clf_qa_247",
+    "book": "sherlock_holmes",
+    "question": "How does Watson describe Holmes's personality?",
+    "reference": "Watson describes Holmes as brilliant but eccentric, alternating between intense energy during cases and lethargy between them. He notes Holmes's lack of interest in art, politics, and literature beyond what serves his work."
+  },
+  {
+    "id": "clf_qa_248",
+    "book": "sherlock_holmes",
+    "question": "What case involves a stolen Christmas goose?",
+    "reference": "The Adventure of the Blue Carbuncle involves a valuable stolen gemstone found inside a Christmas goose. Holmes traces the gem from a lost hat through a goose club to a dealer and eventually identifies the thief."
+  },
+  {
+    "id": "clf_qa_249",
+    "book": "sherlock_holmes",
+    "question": "Who is Inspector Lestrade?",
+    "reference": "Inspector Lestrade is a Scotland Yard detective who frequently consults Holmes on difficult cases. Holmes considers him one of the best of the official force, though lacking in imagination and broader reasoning ability."
+  },
+  {
+    "id": "clf_qa_250",
+    "book": "sherlock_holmes",
+    "question": "What is the Red-Headed League about?",
+    "reference": "The Red-Headed League is a fake organization created by criminal John Clay to lure red-headed pawnbroker Jabez Wilson out of his shop for hours daily. This allowed Clay to dig a tunnel from the shop's cellar to rob a nearby bank vault."
+  },
+  {
+    "id": "clf_qa_251",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes solve the Speckled Band case?",
+    "reference": "Holmes discovers that Dr. Grimesby Roylott trained a venomous swamp adder to crawl through a ventilator connecting his room to his stepdaughter's bedroom, using a saucer of milk and a whistle to control the snake."
+  },
+  {
+    "id": "clf_qa_252",
+    "book": "sherlock_holmes",
+    "question": "What is A Scandal in Bohemia about?",
+    "reference": "The King of Bohemia hires Holmes to recover a compromising photograph from Irene Adler, an opera singer. Adler outwits Holmes and escapes with the photograph, but leaves a harmless substitute and a promise not to use it."
+  },
+  {
+    "id": "clf_qa_253",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes demonstrate observation versus mere seeing?",
+    "reference": "Holmes distinguishes between seeing and observing. He demonstrates this to Watson by noting that Watson has seen the steps to their rooms many times but never observed how many there are, while Holmes knows there are seventeen."
+  },
+  {
+    "id": "clf_qa_254",
+    "book": "sherlock_holmes",
+    "question": "What is the significance of the Diogenes Club?",
+    "reference": "The Diogenes Club is a London gentlemen's club for extremely unsociable men where no member may take notice of any other member and talking is forbidden except in the Stranger's Room. Mycroft Holmes is a founding member."
+  },
+  {
+    "id": "clf_qa_255",
+    "book": "sherlock_holmes",
+    "question": "Who is Mycroft Holmes?",
+    "reference": "Mycroft Holmes is Sherlock's older brother who possesses even greater deductive abilities but lacks the energy and ambition to use them as a detective. He works for the British government in an undefined but important capacity."
+  },
+  {
+    "id": "clf_qa_256",
+    "book": "sherlock_holmes",
+    "question": "What kind of pipe does Holmes smoke?",
+    "reference": "Holmes smokes various pipes depending on his mood. He keeps his tobacco in the toe of a Persian slipper on the mantelpiece and is known for smoking heavily while pondering cases."
+  },
+  {
+    "id": "clf_qa_257",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes feel about emotions and love?",
+    "reference": "Holmes views emotions as distractions that interfere with clear logical thinking. He considers romantic love a weakness and maintains emotional detachment, though he respects intelligence in women like Irene Adler."
+  },
+  {
+    "id": "clf_qa_258",
+    "book": "sherlock_holmes",
+    "question": "What is the Boscombe Valley Mystery about?",
+    "reference": "A young man is accused of murdering his father near Boscombe Pool. Holmes proves the real killer is an Australian ex-convict named Turner who was being blackmailed by the victim, and the case is resolved with Turner's confession."
+  },
+  {
+    "id": "clf_qa_259",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes analyze a crime scene?",
+    "reference": "Holmes examines crime scenes meticulously, studying footprints, tire tracks, cigar ash, soil, and any minute details others overlook. He uses a magnifying glass and measures distances, building a precise reconstruction of events."
+  },
+  {
+    "id": "clf_qa_260",
+    "book": "sherlock_holmes",
+    "question": "What is Holmes's opinion of the police?",
+    "reference": "Holmes considers the official police force competent but limited in imagination and deductive ability. He works alongside them but often solves cases through methods and insights the police cannot match."
+  },
+  {
+    "id": "clf_qa_261",
+    "book": "sherlock_holmes",
+    "question": "How does Watson narrate the stories?",
+    "reference": "Watson narrates the stories in first person as Holmes's chronicler, recording their adventures with dramatic flair. Holmes occasionally criticizes Watson for romanticizing the cases rather than focusing on the logical methodology."
+  },
+  {
+    "id": "clf_qa_262",
+    "book": "sherlock_holmes",
+    "question": "What role does London play in the Sherlock Holmes stories?",
+    "reference": "London serves as both setting and character, with its foggy streets, gas-lit alleys, hansom cabs, and diverse neighborhoods providing atmosphere and plot elements. Holmes navigates the city's geography with expert knowledge."
+  },
+  {
+    "id": "clf_qa_263",
+    "book": "sherlock_holmes",
+    "question": "What is the Five Orange Pips about?",
+    "reference": "A young man receives five orange pips, a threatening sign connected to the Ku Klux Klan. Despite Holmes's efforts to protect him, the client is murdered. Holmes identifies the killers but they perish at sea before justice is served."
+  },
+  {
+    "id": "clf_qa_264",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes use the agony column?",
+    "reference": "Holmes regularly reads the personal advertisements in newspapers, known as the agony column, to track coded messages, lure suspects, and gather intelligence about London's criminal underworld."
+  },
+  {
+    "id": "clf_qa_265",
+    "book": "sherlock_holmes",
+    "question": "What case involves a missing racehorse?",
+    "reference": "Silver Blaze involves a missing racehorse and the death of its trainer. Holmes solves the case by noting the curious incident of the dog that did not bark in the night, revealing the horse was taken by someone it knew."
+  },
+  {
+    "id": "clf_qa_266",
+    "book": "sherlock_holmes",
+    "question": "What is the Adventure of the Copper Beeches about?",
+    "reference": "A governess named Violet Hunter consults Holmes about a suspicious job that requires her to cut her hair and wear a specific blue dress. Holmes discovers the employer is imprisoning his daughter to control her inheritance."
+  },
+  {
+    "id": "clf_qa_267",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes's knowledge of chemistry help his cases?",
+    "reference": "Holmes uses his chemical expertise to analyze poisons, test bloodstains, identify substances, and detect forgeries. He maintains a chemistry laboratory in their Baker Street rooms and conducts experiments regularly."
+  },
+  {
+    "id": "clf_qa_268",
+    "book": "sherlock_holmes",
+    "question": "What is the Man with the Twisted Lip about?",
+    "reference": "A respectable man named Neville St. Clair disappears and is feared murdered. Holmes discovers that St. Clair has been secretly disguising himself as a beggar because begging is more profitable than his legitimate career."
+  },
+  {
+    "id": "clf_qa_269",
+    "book": "sherlock_holmes",
+    "question": "How does Conan Doyle use fog and atmosphere in the stories?",
+    "reference": "Fog, gaslight, and dark streets create a Gothic atmosphere that heightens mystery and danger. London's infamous smogs provide cover for criminals and add to the sense of hidden threats lurking in the city."
+  },
+  {
+    "id": "clf_qa_270",
+    "book": "sherlock_holmes",
+    "question": "What is the significance of Holmes's monographs?",
+    "reference": "Holmes writes scholarly monographs on specialized topics useful to detective work, including one on different types of tobacco ash and another on typewriter fonts. These demonstrate his systematic approach to building practical knowledge."
+  },
+  {
+    "id": "clf_qa_271",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes treat his clients?",
+    "reference": "Holmes treats clients with courtesy but directness, quickly cutting through irrelevant details to focus on essential facts. He is sympathetic to those in genuine distress but impatient with those who waste his time."
+  },
+  {
+    "id": "clf_qa_272",
+    "book": "sherlock_holmes",
+    "question": "What is the Engineer's Thumb about?",
+    "reference": "A hydraulic engineer named Victor Hatherley has his thumb chopped off while escaping from counterfeiters who hired him under false pretenses to fix their press. Holmes helps identify the criminals but they escape."
+  },
+  {
+    "id": "clf_qa_273",
+    "book": "sherlock_holmes",
+    "question": "How does the friendship between Holmes and Watson evolve?",
+    "reference": "Their friendship deepens from convenient roommates to genuine mutual devotion. Watson becomes Holmes's trusted companion and sounding board, while Holmes, despite his emotional reserve, clearly values Watson's loyalty and courage."
+  },
+  {
+    "id": "clf_qa_274",
+    "book": "sherlock_holmes",
+    "question": "What kind of cases does Holmes prefer?",
+    "reference": "Holmes prefers unusual, intellectually challenging cases that present novel features. He dislikes routine matters and commonplace crimes, seeking puzzles that test his unique abilities and offer mental stimulation."
+  },
+  {
+    "id": "clf_qa_275",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes use tobacco ash in investigations?",
+    "reference": "Holmes wrote a monograph identifying one hundred and forty different varieties of pipe, cigar, and cigarette tobacco by their ash. This allows him to determine what a suspect was smoking from ash found at a crime scene."
+  },
+  {
+    "id": "clf_qa_276",
+    "book": "sherlock_holmes",
+    "question": "What is Holmes's attitude toward women in general?",
+    "reference": "Holmes generally views women with distrust regarding emotional matters but respects individual intelligence. He acknowledges women's intuition as valuable and is consistently courteous, though he avoids romantic entanglements."
+  },
+  {
+    "id": "clf_qa_277",
+    "book": "sherlock_holmes",
+    "question": "How does the Noble Bachelor case end?",
+    "reference": "The missing bride Lady St. Simon is found alive, having run away from the wedding upon recognizing her first husband, Francis Hay Moulton, whom she had believed dead. Holmes reunites the couple and the noble bachelor accepts the situation."
+  },
+  {
+    "id": "clf_qa_278",
+    "book": "sherlock_holmes",
+    "question": "What makes Holmes unique compared to other detectives?",
+    "reference": "Holmes's uniqueness lies in his scientific method applied to detection, vast specialized knowledge, powers of observation and deduction, and his approach to crime as an intellectual exercise rather than merely a moral or legal matter."
+  },
+  {
+    "id": "clf_qa_279",
+    "book": "sherlock_holmes",
+    "question": "How does Conan Doyle portray Victorian society through the stories?",
+    "reference": "The stories reflect Victorian class distinctions, gender roles, colonial anxieties, and social norms. Clients range from royalty to the working class, and cases often involve the tensions between respectability and hidden vice."
+  },
+  {
+    "id": "clf_qa_280",
+    "book": "sherlock_holmes",
+    "question": "What is the Beryl Coronet case about?",
+    "reference": "A banker entrusted with a valuable beryl coronet discovers it damaged and blames his son. Holmes proves the real culprit is the banker's niece and her disreputable lover, who stole gems from the coronet."
+  },
+  {
+    "id": "clf_qa_281",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes use logic to eliminate suspects?",
+    "reference": "Holmes systematically eliminates impossible explanations to arrive at the truth. He gathers all facts, constructs hypotheses, and tests them against evidence until only one explanation remains, however improbable."
+  },
+  {
+    "id": "clf_qa_282",
+    "book": "sherlock_holmes",
+    "question": "What social classes appear in the Holmes stories?",
+    "reference": "The stories feature all social classes from royalty and aristocrats to middle-class professionals, clerks, servants, and the criminal underworld. Holmes serves clients regardless of status, valuing interesting problems over wealth."
+  },
+  {
+    "id": "clf_qa_283",
+    "book": "sherlock_holmes",
+    "question": "What is the identity of the man with the twisted lip?",
+    "reference": "The man with the twisted lip is Neville St. Clair, a respectable journalist who discovered he could earn more money disguised as a beggar named Hugh Boone than through legitimate work."
+  },
+  {
+    "id": "clf_qa_284",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes approach seemingly impossible crimes?",
+    "reference": "Holmes approaches impossible crimes by refusing to accept the impossible. He gathers all evidence, eliminates explanations that contradict the facts, and accepts whatever remains as the truth, no matter how unlikely it seems."
+  },
+  {
+    "id": "clf_qa_285",
+    "book": "sherlock_holmes",
+    "question": "What does Watson think of Holmes's habits?",
+    "reference": "Watson is both fascinated and exasperated by Holmes's habits. He disapproves of the cocaine use, tolerates the violin playing and chemical experiments, and admires the brilliance while being puzzled by the eccentricity."
+  },
+  {
+    "id": "clf_qa_286",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes use newspapers in his investigations?",
+    "reference": "Holmes reads multiple newspapers daily, tracking crime reports, personal advertisements, shipping news, and social columns. He maintains extensive press clipping files organized by subject for reference during investigations."
+  },
+  {
+    "id": "clf_qa_287",
+    "book": "sherlock_holmes",
+    "question": "What is the significance of 221B Baker Street?",
+    "reference": "221B Baker Street is Holmes and Watson's shared residence and Holmes's consulting rooms. It serves as the base of operations where clients arrive, evidence is examined, and many adventures begin and end."
+  },
+  {
+    "id": "clf_qa_288",
+    "book": "sherlock_holmes",
+    "question": "How does Conan Doyle create suspense in the stories?",
+    "reference": "Doyle creates suspense through Watson's limited perspective, Holmes withholding his conclusions until the dramatic reveal, dark atmospheric settings, and the gradual revelation of clues that build toward the solution."
+  },
+  {
+    "id": "clf_qa_289",
+    "book": "sherlock_holmes",
+    "question": "What role do the Baker Street Irregulars play?",
+    "reference": "The Baker Street Irregulars are a group of street urchins whom Holmes employs as unofficial agents. They can go everywhere and observe everything without being noticed, serving as Holmes's eyes and ears across London."
+  },
+  {
+    "id": "clf_qa_290",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes's drug use affect his character portrayal?",
+    "reference": "Holmes's cocaine use portrays him as a flawed genius who turns to stimulants when bored between cases. It adds complexity to his character and provides a source of conflict with the disapproving Watson."
+  },
+  {
+    "id": "clf_qa_291",
+    "book": "sherlock_holmes",
+    "question": "What is the pattern of a typical Holmes adventure?",
+    "reference": "A typical adventure begins with a client visiting Baker Street, Holmes making deductions about them, investigating the case through observation and interviews, and ending with a dramatic revelation of the solution."
+  },
+  {
+    "id": "clf_qa_292",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes demonstrate knowledge gaps in non-relevant areas?",
+    "reference": "Holmes famously does not know that the Earth revolves around the Sun, considering it irrelevant to his work. He deliberately limits his knowledge to subjects useful for detection, treating his brain as an attic with limited storage."
+  },
+  {
+    "id": "clf_qa_293",
+    "book": "sherlock_holmes",
+    "question": "What year was A Study in Scarlet published?",
+    "reference": "A Study in Scarlet was published in 1887 in Beeton's Christmas Annual. It is the first Sherlock Holmes story and introduces both Holmes and Watson."
+  },
+  {
+    "id": "clf_qa_294",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes use footprints as evidence?",
+    "reference": "Holmes studies footprints to determine a person's height, weight, gait, and speed of movement. He can distinguish different shoe types and track movements through mud, dust, and snow with extraordinary precision."
+  },
+  {
+    "id": "clf_qa_295",
+    "book": "sherlock_holmes",
+    "question": "What is the relationship between Holmes and the criminal underworld?",
+    "reference": "Holmes maintains extensive contacts in London's underworld, using informants and disguises to gather intelligence. He respects clever criminals as worthy adversaries while working to bring them to justice."
+  },
+  {
+    "id": "clf_qa_296",
+    "book": "sherlock_holmes",
+    "question": "How does the Adventure of the Blue Carbuncle reflect Christmas themes?",
+    "reference": "The story is set during Christmas and reflects themes of mercy and forgiveness. Holmes lets the thief go free, reasoning that prison would make him a lifelong criminal while the fright of being caught might reform him during the season of forgiveness."
+  },
+  {
+    "id": "clf_qa_297",
+    "book": "sherlock_holmes",
+    "question": "What moral dilemmas does Holmes face in letting criminals go?",
+    "reference": "Holmes sometimes lets criminals go when he judges that justice is better served by mercy, as with James Ryder in The Blue Carbuncle. He acts as his own judge when he believes the official justice system would produce a worse outcome."
+  },
+  {
+    "id": "clf_qa_298",
+    "book": "sherlock_holmes",
+    "question": "How does Watson's wound affect his daily life?",
+    "reference": "Watson's wound from Afghanistan causes him ongoing pain, particularly in damp weather. It contributes to his early retirement from the army and provides a shared vulnerability that bonds him with Holmes."
+  },
+  {
+    "id": "clf_qa_299",
+    "book": "sherlock_holmes",
+    "question": "What makes the Adventures of Sherlock Holmes a landmark in detective fiction?",
+    "reference": "The collection established the template for modern detective fiction: the brilliant consulting detective, the loyal companion narrator, the puzzle plot with fair clues, and the dramatic revelation. It popularized the short detective story format."
+  },
+  {
+    "id": "clf_qa_300",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes's scientific approach differ from the police methods of his time?",
+    "reference": "Holmes applies systematic scientific analysis including chemical tests, physical evidence examination, and logical deduction, while the police of his era rely more on witness testimony, informants, and conventional investigative procedures."
+  },
+  {
+    "id": "clf_qa_301",
+    "book": "dracula",
+    "question": "What is the role of the solicitor Peter Hawkins in the plot?",
+    "reference": "Peter Hawkins is the head of the law firm where Jonathan Harker works. He arranges for Harker to travel to Transylvania to finalize Dracula's property purchase in England, setting the entire story in motion."
+  },
+  {
+    "id": "clf_qa_302",
+    "book": "dracula",
+    "question": "How does the novel portray the role of modern medicine?",
+    "reference": "Modern medicine is portrayed as necessary but insufficient against supernatural evil. Blood transfusions and scientific observation help but cannot cure Lucy. Van Helsing bridges the gap between science and folk remedies."
+  },
+  {
+    "id": "clf_qa_303",
+    "book": "dracula",
+    "question": "What does Dracula's purchase of English property signify?",
+    "reference": "Dracula's property purchase represents foreign invasion and infiltration of English society. He methodically establishes multiple bases across London, treating colonization of England as a military campaign."
+  },
+  {
+    "id": "clf_qa_304",
+    "book": "dracula",
+    "question": "How are telegrams used as a plot device in the novel?",
+    "reference": "Telegrams enable rapid communication between characters across distances, creating urgency and allowing coordinated action against Dracula. They represent the modern technology the heroes use against ancient evil."
+  },
+  {
+    "id": "clf_qa_305",
+    "book": "dracula",
+    "question": "What is the significance of the un-Dead in the novel?",
+    "reference": "The Un-Dead refers to vampires who exist between life and death. This concept drives the horror of the novel and motivates the heroes to destroy vampire Lucy, understanding that true death is a mercy compared to the cursed undead state."
+  },
+  {
+    "id": "clf_qa_306",
+    "book": "dracula",
+    "question": "How does Arthur Holmwood's title change during the novel?",
+    "reference": "Arthur Holmwood becomes Lord Godalming after his father dies during the course of the novel. His new title and wealth prove useful in the campaign against Dracula, providing resources and social access."
+  },
+  {
+    "id": "clf_qa_307",
+    "book": "dracula",
+    "question": "What is the role of superstition in the Transylvanian setting?",
+    "reference": "Transylvanian locals display deep superstitious fear of Dracula and the supernatural. Their warnings, crucifixes, and folk protections foreshadow the real danger Harker faces and contrast with his initial English rationalism."
+  },
+  {
+    "id": "clf_qa_308",
+    "book": "dracula",
+    "question": "How does Stoker build tension in the Demeter chapters?",
+    "reference": "Stoker builds tension through the ship's log entries showing crew members disappearing one by one during the voyage. The captain's increasingly desperate entries create a horror of isolation at sea with an unseen predator."
+  },
+  {
+    "id": "clf_qa_309",
+    "book": "dracula",
+    "question": "What Victorian technology appears in the novel besides the typewriter?",
+    "reference": "The novel features phonograph recordings for Dr. Seward's diary, telegrams for urgent communication, blood transfusion equipment, and railway timetables for tracking Dracula's movements across Europe."
+  },
+  {
+    "id": "clf_qa_310",
+    "book": "dracula",
+    "question": "How does the character of Sister Agatha appear in the story?",
+    "reference": "Sister Agatha is a nurse at the hospital in Budapest where Jonathan Harker recovers after escaping Castle Dracula. She writes to Mina about Jonathan's condition and his delirious ravings about his experiences."
+  },
+  {
+    "id": "clf_qa_311",
+    "book": "frankenstein",
+    "question": "What role does the moon play in the creature's early experiences?",
+    "reference": "The moon provides the creature with its first experience of beauty and wonder. Moonlight illuminates its early wanderings and provides comfort during its lonely existence in the wilderness."
+  },
+  {
+    "id": "clf_qa_312",
+    "book": "frankenstein",
+    "question": "How does the creature survive its first winter?",
+    "reference": "The creature discovers an empty hovel attached to the De Lacey cottage and uses it as shelter. It learns to gather berries and roots for food and eventually steals from the De Laceys' garden before deciding to help them instead."
+  },
+  {
+    "id": "clf_qa_313",
+    "book": "frankenstein",
+    "question": "What is the significance of the locket in William's murder?",
+    "reference": "The creature takes a miniature portrait locket from William after killing him and plants it on the sleeping Justine. This framing leads to Justine's wrongful conviction and execution."
+  },
+  {
+    "id": "clf_qa_314",
+    "book": "frankenstein",
+    "question": "How does Victor's trip to England relate to the creature's demands?",
+    "reference": "Victor travels to England and Scotland ostensibly to study but actually to gather materials and knowledge for creating the female companion the creature demanded. He works in secret on the Orkney Islands before destroying it."
+  },
+  {
+    "id": "clf_qa_315",
+    "book": "frankenstein",
+    "question": "What happens to Victor after he is accused of Clerval's murder?",
+    "reference": "Victor is imprisoned in Ireland and falls gravely ill with a nervous fever lasting months. His father Alphonse travels to care for him, and Victor is eventually acquitted when evidence proves he was on the Orkney Islands at the time."
+  },
+  {
+    "id": "clf_qa_316",
+    "book": "frankenstein",
+    "question": "How does Walton's crew react to Victor's story?",
+    "reference": "Walton's crew grows increasingly fearful as ice traps their ship and they hear Victor's terrible tale. They eventually pressure Walton to turn back, which Victor opposes but Walton reluctantly agrees to."
+  },
+  {
+    "id": "clf_qa_317",
+    "book": "frankenstein",
+    "question": "What is the significance of Cornelius Agrippa in Victor's education?",
+    "reference": "Victor discovers the works of Cornelius Agrippa as a young boy and becomes fascinated with alchemy and the secret of life. His father dismisses it as sad trash, but this early fascination sets Victor on his path to creating the creature."
+  },
+  {
+    "id": "clf_qa_318",
+    "book": "frankenstein",
+    "question": "How does the creature's eloquence contrast with its appearance?",
+    "reference": "The creature speaks with remarkable intelligence and emotional depth, having educated itself through literature and observation. This stark contrast between its hideous form and articulate mind highlights the tragedy of its rejection."
+  },
+  {
+    "id": "clf_qa_319",
+    "book": "frankenstein",
+    "question": "What promise does Victor break regarding the female creature?",
+    "reference": "Victor initially agrees to create a female companion for the creature but destroys it before completion. He fears the two creatures might breed, creating a race of monsters, or that the female might be even more destructive."
+  },
+  {
+    "id": "clf_qa_320",
+    "book": "frankenstein",
+    "question": "How does the novel use weather to reflect emotional states?",
+    "reference": "Storms accompany moments of creation and crisis, while calm natural beauty offers temporary peace. Lightning inspires Victor's scientific interests as a boy, and tempests mark the creature's appearances throughout the story."
+  },
+  {
+    "id": "clf_qa_321",
+    "book": "moby_dick",
+    "question": "What is the significance of the chowder scene at the Try Pots?",
+    "reference": "The chowder scene at the Try Pots inn on Nantucket provides comic relief and establishes the culture of whaling communities. Ishmael and Queequeg enjoy clam and cod chowder before signing aboard the Pequod."
+  },
+  {
+    "id": "clf_qa_322",
+    "book": "moby_dick",
+    "question": "How does Captain Peleg differ from Captain Bildad?",
+    "reference": "Peleg is gruff but fair, negotiating reasonable terms for sailors. Bildad is a devout Quaker who offers absurdly low shares. Together they represent the practical and religious aspects of Nantucket's whaling culture."
+  },
+  {
+    "id": "clf_qa_323",
+    "book": "moby_dick",
+    "question": "What is the significance of Elijah's warning to Ishmael?",
+    "reference": "A strange old sailor named Elijah warns Ishmael and Queequeg about Ahab and the Pequod before they sail. His biblical name and cryptic warnings foreshadow the doom that awaits the voyage."
+  },
+  {
+    "id": "clf_qa_324",
+    "book": "moby_dick",
+    "question": "How does the mat-making scene function philosophically?",
+    "reference": "The mat-making scene becomes a meditation on fate, free will, and chance. Ishmael compares the warp threads to necessity, the shuttle to free will, and Queequeg's sword striking the woof to chance."
+  },
+  {
+    "id": "clf_qa_325",
+    "book": "moby_dick",
+    "question": "What happens during the squid sighting?",
+    "reference": "The crew spots a giant squid, which many whalers consider an omen. Its pale, ghostly appearance rising from the deep foreshadows Moby Dick and represents the mysterious terrors lurking beneath the ocean's surface."
+  },
+  {
+    "id": "clf_qa_326",
+    "book": "moby_dick",
+    "question": "How does Melville describe the process of cutting in a whale?",
+    "reference": "Melville describes cutting in as a dangerous and spectacular process where crew members strip blubber from the whale in a long spiral strip while balanced on a narrow cutting stage over shark-infested waters."
+  },
+  {
+    "id": "clf_qa_327",
+    "book": "moby_dick",
+    "question": "What is the monkey rope and what does it symbolize?",
+    "reference": "The monkey rope ties Ishmael on deck to Queequeg who works on the whale's slippery carcass in the water. Ishmael reflects that it symbolizes how all humans are connected and share each other's fate."
+  },
+  {
+    "id": "clf_qa_328",
+    "book": "moby_dick",
+    "question": "How does Ahab's interaction with the blacksmith reveal his character?",
+    "reference": "Ahab orders the blacksmith Perth to forge a special harpoon for Moby Dick, baptizing it in the blood of his three pagan harpooners. This ritualistic act reveals the depth of Ahab's obsessive, quasi-religious quest."
+  },
+  {
+    "id": "clf_qa_329",
+    "book": "moby_dick",
+    "question": "What is the Samuel Enderby encounter about?",
+    "reference": "The Samuel Enderby is a British whaling ship whose captain also lost an arm to Moby Dick but bears no grudge. His rational acceptance of the loss contrasts sharply with Ahab's monomaniacal vengeance."
+  },
+  {
+    "id": "clf_qa_330",
+    "book": "moby_dick",
+    "question": "How does the typhoon scene affect the crew?",
+    "reference": "During a typhoon, St. Elmo's fire appears on the masts, which Ahab interprets as a sign of his own electric power. Starbuck sees it as a divine warning. The crew's superstitious terror grows as Ahab defies the storm."
+  },
+  {
+    "id": "clf_qa_331",
+    "book": "pride_and_prejudice",
+    "question": "How does the card game scene at Netherfield reveal character?",
+    "reference": "The card game scene reveals social dynamics as Caroline Bingley attempts to attract Darcy's attention while he reads. Elizabeth's refusal to join cards shows her independence, and the scene highlights class-based social rituals."
+  },
+  {
+    "id": "clf_qa_332",
+    "book": "pride_and_prejudice",
+    "question": "What is the significance of Elizabeth walking to Netherfield in the mud?",
+    "reference": "Elizabeth walks three miles through muddy fields to visit the ill Jane at Netherfield. Caroline Bingley mocks her dirty petticoat, but Darcy finds her brightened complexion attractive, showing his growing interest despite class concerns."
+  },
+  {
+    "id": "clf_qa_333",
+    "book": "pride_and_prejudice",
+    "question": "How does Mr. Wickham's appearance deceive people?",
+    "reference": "Wickham is described as remarkably handsome with a fine countenance and pleasing address. His attractive appearance and easy manners make his false tales about Darcy immediately believable to Elizabeth and the Meryton community."
+  },
+  {
+    "id": "clf_qa_334",
+    "book": "pride_and_prejudice",
+    "question": "What is the role of the Philipses in the story?",
+    "reference": "Mrs. Philips is Mrs. Bennet's sister who lives in Meryton. Her home serves as a social gathering point where the Bennet sisters meet officers including Wickham, advancing the plot through social connections."
+  },
+  {
+    "id": "clf_qa_335",
+    "book": "pride_and_prejudice",
+    "question": "How does Collins's proposal to Elizabeth unfold?",
+    "reference": "Collins proposes with pompous formality, listing his reasons methodically including Lady Catherine's advice and the entail. He refuses to accept Elizabeth's rejection, believing she is being coy in the manner of elegant females."
+  },
+  {
+    "id": "clf_qa_336",
+    "book": "pride_and_prejudice",
+    "question": "What does Elizabeth realize about herself after reading Darcy's letter?",
+    "reference": "Elizabeth realizes she has been blind and partial, prejudiced and absurd. She recognizes that she judged Darcy unfairly based on first impressions and Wickham's lies, and that her pride in her own judgment was misplaced."
+  },
+  {
+    "id": "clf_qa_337",
+    "book": "pride_and_prejudice",
+    "question": "How does the Lambton visit change Elizabeth's feelings?",
+    "reference": "At Lambton near Pemberley, Elizabeth encounters a changed Darcy who is warm, polite, and eager to introduce his sister. His genuine kindness to the Gardiners and altered behavior convince Elizabeth of his reformation."
+  },
+  {
+    "id": "clf_qa_338",
+    "book": "pride_and_prejudice",
+    "question": "What is the reaction of the Bennet family to Darcy's second proposal?",
+    "reference": "Mrs. Bennet is initially shocked and then ecstatic about the wealth. Mr. Bennet is concerned Elizabeth does not truly love Darcy and counsels her privately. Jane is happily surprised, having always believed Darcy was a good man."
+  },
+  {
+    "id": "clf_qa_339",
+    "book": "pride_and_prejudice",
+    "question": "How does Lady Catherine's visit to Elizabeth backfire?",
+    "reference": "Lady Catherine visits Elizabeth to demand she refuse Darcy, but Elizabeth stands firm. When Darcy hears about the encounter, Elizabeth's refusal to promise gives him hope that she might now accept him, encouraging his second proposal."
+  },
+  {
+    "id": "clf_qa_340",
+    "book": "pride_and_prejudice",
+    "question": "What is the significance of Wickham's debts?",
+    "reference": "Wickham leaves debts everywhere he goes, including Meryton and Brighton. His debts reveal his irresponsible character and require Darcy to pay them off as part of arranging the marriage to Lydia."
+  },
+  {
+    "id": "clf_qa_341",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes solve the mystery of the blue carbuncle?",
+    "reference": "Holmes traces the gem from a found hat to a Christmas goose through a goose club, then to a dealer named Breckinridge, and finally identifies hotel attendant James Ryder who confessed to hiding the stolen gem inside the goose."
+  },
+  {
+    "id": "clf_qa_342",
+    "book": "sherlock_holmes",
+    "question": "What deductions does Holmes make from a hat in The Blue Carbuncle?",
+    "reference": "From a battered hat, Holmes deduces the owner is intellectual, was once prosperous but has fallen on hard times, has a sedentary lifestyle, his wife no longer loves him, and he does not have gas laid on in his house."
+  },
+  {
+    "id": "clf_qa_343",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes test Watson's deductive abilities?",
+    "reference": "Holmes frequently challenges Watson to observe and deduce, as when he asks Watson to examine a hat, watch, or walking stick. Watson's attempts highlight the gap between ordinary observation and Holmes's extraordinary method."
+  },
+  {
+    "id": "clf_qa_344",
+    "book": "sherlock_holmes",
+    "question": "What is the role of the commissionaire Peterson in The Blue Carbuncle?",
+    "reference": "Peterson is the commissionaire who brings Holmes the lost hat and goose after witnessing a street altercation. His wife discovers the blue carbuncle gem inside the goose's crop, launching the investigation."
+  },
+  {
+    "id": "clf_qa_345",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes use the personal columns of newspapers?",
+    "reference": "Holmes places and reads advertisements in newspaper personal columns to communicate with suspects, lure witnesses, and track missing persons. He considers the agony column an invaluable tool for detective work."
+  },
+  {
+    "id": "clf_qa_346",
+    "book": "sherlock_holmes",
+    "question": "What is Dr. Roylott's method of murder in The Speckled Band?",
+    "reference": "Dr. Roylott uses a trained venomous swamp adder snake, sending it through a ventilator between his room and his stepdaughter's room at night. He lures it back with a saucer of milk and a whistle."
+  },
+  {
+    "id": "clf_qa_347",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes's knowledge of different tobaccos help his work?",
+    "reference": "Holmes wrote a monograph on 140 different types of tobacco ash. He can identify what someone smoked from ash residue at a crime scene, narrowing down suspects based on their tobacco preferences."
+  },
+  {
+    "id": "clf_qa_348",
+    "book": "sherlock_holmes",
+    "question": "What is the significance of the Jezail bullet that wounded Watson?",
+    "reference": "The Jezail bullet wound in Watson's shoulder is from his military service in Afghanistan. It provides his backstory, explains his pension and health issues, and establishes the context for how he came to share rooms with Holmes."
+  },
+  {
+    "id": "clf_qa_349",
+    "book": "sherlock_holmes",
+    "question": "How does Holmes's violin playing reflect his moods?",
+    "reference": "Holmes plays the violin beautifully when content and scrapes discordantly when thinking through a problem. His musical ability reflects his artistic side and provides a contrast to his cold logical nature."
+  },
+  {
+    "id": "clf_qa_350",
+    "book": "sherlock_holmes",
+    "question": "What makes the King of Bohemia seek Holmes's help?",
+    "reference": "The King of Bohemia hires Holmes to retrieve a compromising photograph held by Irene Adler that could ruin his upcoming marriage to a Scandinavian princess. The photograph shows the King with Adler."
+  },
+  {
+    "id": "clf_qa_351",
+    "book": "sherlock_holmes",
+    "question": "How does Jabez Wilson discover the Red-Headed League is fake?",
+    "reference": "Wilson arrives at the League office to find it closed with a sign saying the League is dissolved. Holmes investigates and discovers it was a scheme by John Clay to keep Wilson away from his pawnshop while Clay dug a tunnel to a bank vault."
+  },
+  {
+    "id": "clf_qa_352",
+    "book": "sherlock_holmes",
+    "question": "What is Holmes's view on the importance of trifles?",
+    "reference": "Holmes believes that the smallest details often solve cases. He famously notes that the world is full of obvious things which nobody observes, and that there is nothing so important as trifles in detective work."
+  }
+]

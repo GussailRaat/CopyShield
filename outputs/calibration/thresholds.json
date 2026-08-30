@@ -1,0 +1,50 @@
+{
+  "rouge_l": {
+    "null_mean": 0.125929,
+    "null_std": 0.017088,
+    "null_median": 0.125908,
+    "threshold": 0.178736,
+    "alpha": 0.001,
+    "z_alpha": 3.0902,
+    "positive_mean": 1.0,
+    "positive_std": 0.0,
+    "true_positive_rate": 1.0,
+    "false_positive_rate": 0.0
+  },
+  "nv_recall": {
+    "null_mean": 0.0,
+    "null_std": 0.0,
+    "null_median": 0.0,
+    "threshold": 0.0,
+    "alpha": 0.001,
+    "z_alpha": 3.0902,
+    "positive_mean": 1.0,
+    "positive_std": 0.0,
+    "true_positive_rate": 1.0,
+    "false_positive_rate": 0.0
+  },
+  "phase1_lcs": {
+    "null_mean": 0.01003,
+    "null_std": 0.002025,
+    "null_median": 0.01,
+    "threshold": 0.016287,
+    "alpha": 0.001,
+    "z_alpha": 3.0902,
+    "positive_mean": 1.0,
+    "positive_std": 0.0,
+    "true_positive_rate": 1.0,
+    "false_positive_rate": 0.004
+  },
+  "embedding_sim": {
+    "null_mean": 0.31488,
+    "null_std": 0.100221,
+    "null_median": 0.314316,
+    "threshold": 0.624586,
+    "alpha": 0.001,
+    "z_alpha": 3.0902,
+    "positive_mean": 1.0,
+    "positive_std": 0.0,
+    "true_positive_rate": 1.0,
+    "false_positive_rate": 0.0
+  }
+}
